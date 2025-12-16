@@ -1,0 +1,41 @@
+{
+  "language": "es",
+  "language_probability": 1,
+  "segments": [
+    {
+      "start": 0.59,
+      "end": 5.27,
+      "text": "Ok, este es el cuarto vídeo que estamos haciendo para las pruebas y ahora"
+    },
+    {
+      "start": 5.27,
+      "end": 14.37,
+      "text": "empezaré con la emoción del asombro, no podía hablar con esa, entonces ahora"
+    },
+    {
+      "start": 14.37,
+      "end": 20.57,
+      "text": "continuaré con la emoción del enojo, para ver si nuestra vida puede reconocer la"
+    },
+    {
+      "start": 20.57,
+      "end": 28.09,
+      "text": "emoción del enojo, después continuaré con la emoción de alegría o estar"
+    },
+    {
+      "start": 28.09,
+      "end": 33.93,
+      "text": "feliz, sonriendo, para ver si es capaz de reconocer los diferentes"
+    },
+    {
+      "start": 33.93,
+      "end": 40.05,
+      "text": "gestos y que no se confunda con mi trabajo de lengua y a ver si puede reconocer"
+    },
+    {
+      "start": 40.05,
+      "end": 42.57,
+      "text": "también eso"
+    }
+  ]
+}

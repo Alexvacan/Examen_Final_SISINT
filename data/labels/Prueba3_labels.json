@@ -1,0 +1,9 @@
+{
+  "video": "data/raw_videos/Prueba3.mp4",
+  "fps_note": "timestamps en segundos",
+  "segments": [
+    { "start": 0.0, "end": 17.0, "emotion": "happy", "note": "sonrisa" },
+    { "start": 17.0, "end": 23.0, "emotion": "neutral", "note": "labios bajos" },
+    { "start": 23.0, "end": 32.0, "emotion": "neutral", "note": "seja alsada" }
+  ]
+}

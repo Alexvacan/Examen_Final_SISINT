@@ -1,0 +1,41 @@
+{
+  "language": "es",
+  "language_probability": 1,
+  "segments": [
+    {
+      "start": 0.08,
+      "end": 6.08,
+      "text": "Hola, soy Gisael y este es el vídeo que usaremos para etiquetar una cara feliz"
+    },
+    {
+      "start": 6.08,
+      "end": 12.08,
+      "text": "el segundo vídeo de nuestra prueba para poder entrenar a la inteligencia artificial"
+    },
+    {
+      "start": 12.08,
+      "end": 15.08,
+      "text": "que pueda reconocer diferentes emociones faciales"
+    },
+    {
+      "start": 15.08,
+      "end": 21.08,
+      "text": "ahora mismo haré este vídeo completo con una cara feliz para probar el resultado"
+    },
+    {
+      "start": 21.08,
+      "end": 25.08,
+      "text": "ya que después iremos probando con diferentes caras"
+    },
+    {
+      "start": 25.08,
+      "end": 30.08,
+      "text": "o sea el siguiente vídeo será conmigo haciendo diferentes emociones"
+    },
+    {
+      "start": 30.08,
+      "end": 37.08,
+      "text": "entonces este vídeo es principalmente para ver si puede reconocer una sola emoción durante todo el vídeo"
+    }
+  ]
+}

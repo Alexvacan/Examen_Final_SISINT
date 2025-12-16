@@ -1,0 +1,12 @@
+{
+  "video": "data/raw_videos/Prueba4.mp4",
+  "fps_note": "timestamps en segundos",
+  "segments": [
+    { "start": 0.0, "end": 1.0, "emotion": "surprise", "note": "boca abierta" },
+    { "start": 1.0, "end": 8.0, "emotion": "neutral", "note": "boca cerrada" },
+    { "start": 8.0, "end": 11.0, "emotion": "surprise", "note": "boca abierta" },
+    { "start": 11.0, "end": 14.0, "emotion": "neutral", "note": "boca cerrada" },
+    { "start": 14.0, "end": 24.0, "emotion": "angry", "note": "cejas cerradas" },
+    { "start": 24.0, "end": 44.0, "emotion": "happy", "note": "sonrisa" }
+  ]
+}

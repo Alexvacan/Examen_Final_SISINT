@@ -1,0 +1,26 @@
+{
+  "language": "es",
+  "language_probability": 1,
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 9.0,
+      "text": "Hola, soy Gisael y este es el tercer video para probar nuestra inteligencia artificial y si puede reconocer emociones faciales."
+    },
+    {
+      "start": 9.0,
+      "end": 17.0,
+      "text": "Ahora mismo estoy haciendo la cara feliz, en este video iré cambiando de emociones para ver si es capaz de reconocerlos."
+    },
+    {
+      "start": 17.0,
+      "end": 22.0,
+      "text": "Ahora estoy haciendo la cara seria para ver si puede reconocer una cara seria."
+    },
+    {
+      "start": 22.0,
+      "end": 31.08,
+      "text": "Y ahora una cara de duda, demostrando duda o sospecha."
+    }
+  ]
+}

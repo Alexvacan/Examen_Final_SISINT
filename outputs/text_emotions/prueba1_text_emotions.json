@@ -4,121 +4,121 @@
     {
       "start": 1.23,
       "end": 10.23,
-      "text": "Hola, soy Alexander, Alexander Bacaflores y esta es mi primera prueba para la materia de sistemas inteligentes",
+      "text": "Hola soy Alexander, Alexander Bacaflores y esta es mi primera prueba para la materia de sistemas inteligentes",
       "dominant_emotion": "neutral",
       "scores": {
-        "anger": 0.006809713784605265,
-        "disgust": 0.015520715154707432,
-        "fear": 0.003461753483861685,
-        "joy": 0.3133532702922821,
-        "neutral": 0.6181386709213257,
-        "sadness": 0.021916570141911507,
-        "surprise": 0.020799295976758003
+        "anger": 0.005387733690440655,
+        "disgust": 0.007673018146306276,
+        "fear": 0.003718361956998706,
+        "joy": 0.43354249000549316,
+        "neutral": 0.4924895465373993,
+        "sadness": 0.030055459588766098,
+        "surprise": 0.02713341824710369
       }
     },
     {
       "start": 10.23,
       "end": 15.23,
-      "text": "Prueba uno para reconocimiento facial de un rostro feliz",
+      "text": "prueba uno para reconocimiento facial de un rostro feliz",
       "dominant_emotion": "neutral",
       "scores": {
-        "anger": 0.025190215557813644,
-        "disgust": 0.03856625035405159,
-        "fear": 0.05935359746217728,
-        "joy": 0.011668883264064789,
-        "neutral": 0.8184186816215515,
-        "sadness": 0.010973046533763409,
-        "surprise": 0.0358293242752552
+        "anger": 0.03131040558218956,
+        "disgust": 0.02990734577178955,
+        "fear": 0.048474591225385666,
+        "joy": 0.009346194565296173,
+        "neutral": 0.8353733420372009,
+        "sadness": 0.010786445811390877,
+        "surprise": 0.03480156883597374
       }
     },
     {
       "start": 15.23,
       "end": 23.23,
-      "text": "En este vídeo quiero aprovechar de mostrar un rostro fácil de reconocer como un sonrisa",
+      "text": "en este vídeo quiero aprovechar de mostrar un rostro fácil de reconocer como un sonrisa",
       "dominant_emotion": "neutral",
       "scores": {
-        "anger": 0.23511920869350433,
-        "disgust": 0.18640507757663727,
-        "fear": 0.17694790661334991,
-        "joy": 0.026548117399215698,
-        "neutral": 0.3131398558616638,
-        "sadness": 0.044893354177474976,
-        "surprise": 0.01694652810692787
+        "anger": 0.21347635984420776,
+        "disgust": 0.08225973695516586,
+        "fear": 0.20711880922317505,
+        "joy": 0.03668565675616264,
+        "neutral": 0.3632560074329376,
+        "sadness": 0.0687115415930748,
+        "surprise": 0.028491878882050514
       }
     },
     {
       "start": 23.23,
       "end": 29.23,
-      "text": "y que la red neuronal lo reconozca como un cara feliz y las emociones",
+      "text": "y que la red neuronal lo reconozca como un cara feliz y las mujeres",
       "dominant_emotion": "neutral",
       "scores": {
-        "anger": 0.07190612703561783,
-        "disgust": 0.022503186017274857,
-        "fear": 0.15546675026416779,
-        "joy": 0.022747622802853584,
-        "neutral": 0.5828877687454224,
-        "sadness": 0.08479895442724228,
-        "surprise": 0.059689540416002274
+        "anger": 0.061135776340961456,
+        "disgust": 0.01756161078810692,
+        "fear": 0.2096092402935028,
+        "joy": 0.028259875252842903,
+        "neutral": 0.5424985885620117,
+        "sadness": 0.056374844163656235,
+        "surprise": 0.08456005901098251
       }
     },
     {
       "start": 29.23,
       "end": 34.23,
-      "text": "Aprovechan también de grabar la voz para el reconocimiento de audio",
+      "text": "aprovechan también de grabar la voz para el reconocimiento de audio",
       "dominant_emotion": "neutral",
       "scores": {
-        "anger": 0.06583982706069946,
-        "disgust": 0.023168517276644707,
-        "fear": 0.04158005863428116,
-        "joy": 0.019449301064014435,
-        "neutral": 0.7962393164634705,
-        "sadness": 0.01679878868162632,
-        "surprise": 0.03692424297332764
+        "anger": 0.036118265241384506,
+        "disgust": 0.006547739263623953,
+        "fear": 0.03404676169157028,
+        "joy": 0.01909293793141842,
+        "neutral": 0.8381689786911011,
+        "sadness": 0.01087531540542841,
+        "surprise": 0.055150024592876434
       }
     },
     {
       "start": 34.23,
-      "end": 41.23,
-      "text": "y saber si este tipo de procesos puede hacer que la red neuronal evolucione",
+      "end": 43.23,
+      "text": "y saber si este tipo de procesos puede hacer que la red neuronal evolucione con el paso del tiempo",
       "dominant_emotion": "neutral",
       "scores": {
-        "anger": 0.05357899144291878,
-        "disgust": 0.019978949800133705,
-        "fear": 0.08795091509819031,
-        "joy": 0.007528572343289852,
-        "neutral": 0.7177993059158325,
-        "sadness": 0.10071336477994919,
-        "surprise": 0.012449942529201508
+        "anger": 0.061689674854278564,
+        "disgust": 0.015040985308587551,
+        "fear": 0.11780042946338654,
+        "joy": 0.009333609603345394,
+        "neutral": 0.6691529750823975,
+        "sadness": 0.10889124125242233,
+        "surprise": 0.018091099336743355
       }
     },
     {
-      "start": 41.23,
+      "start": 43.23,
       "end": 50.23,
-      "text": "con el paso del tiempo, con distintos entrenamientos, con nuevos datasets y distintas formas de entrenamiento",
+      "text": "con distintos entrenamientos con nuevos datasets y distintas formas de entrenamiento",
       "dominant_emotion": "neutral",
       "scores": {
-        "anger": 0.026370739564299583,
-        "disgust": 0.005840768571943045,
-        "fear": 0.06324915587902069,
-        "joy": 0.030339686200022697,
-        "neutral": 0.7645776271820068,
-        "sadness": 0.02709970995783806,
-        "surprise": 0.08252229541540146
+        "anger": 0.05610651895403862,
+        "disgust": 0.009860975667834282,
+        "fear": 0.04995156079530716,
+        "joy": 0.06384023278951645,
+        "neutral": 0.701904296875,
+        "sadness": 0.04472479969263077,
+        "surprise": 0.0736115574836731
       }
     },
     {
       "start": 50.23,
       "end": 55.23,
-      "text": "Este es Alexander y primera prueba finalizada",
+      "text": "este es Alexander y primera prueba finalizada",
       "dominant_emotion": "neutral",
       "scores": {
-        "anger": 0.03586426377296448,
-        "disgust": 0.0416102260351181,
-        "fear": 0.05413505807518959,
-        "joy": 0.022022735327482224,
-        "neutral": 0.7536852359771729,
-        "sadness": 0.032469723373651505,
-        "surprise": 0.060212716460227966
+        "anger": 0.0708351582288742,
+        "disgust": 0.029591718688607216,
+        "fear": 0.06115949898958206,
+        "joy": 0.03501671552658081,
+        "neutral": 0.6194244027137756,
+        "sadness": 0.055054016411304474,
+        "surprise": 0.12891851365566254
       }
     }
   ]

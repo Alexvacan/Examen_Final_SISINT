@@ -2,8 +2,8 @@ import os
 from moviepy import VideoFileClip
 
 # Rutas
-video_path = "data/raw_videos/prueba1.mp4"
-audio_out = "outputs/audio/prueba1.wav"
+video_path = "data/raw_videos/prueba4.mp4"
+audio_out = "outputs/audio/prueba4.wav"
 
 # Crear carpeta si no existe
 os.makedirs(os.path.dirname(audio_out), exist_ok=True)

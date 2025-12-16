@@ -2,8 +2,8 @@ import os
 import json
 from faster_whisper import WhisperModel
 
-audio_path = "outputs/audio/prueba1.wav"
-out_json = "outputs/transcripts/prueba1_transcript.json"
+audio_path = "outputs/audio/prueba4.wav"
+out_json = "outputs/transcripts/prueba4_transcript.json"
 
 os.makedirs(os.path.dirname(out_json), exist_ok=True)
 
