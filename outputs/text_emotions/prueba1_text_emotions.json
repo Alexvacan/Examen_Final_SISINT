@@ -1,0 +1,125 @@
+{
+  "n_segments": 8,
+  "items": [
+    {
+      "start": 1.23,
+      "end": 10.23,
+      "text": "Hola, soy Alexander, Alexander Bacaflores y esta es mi primera prueba para la materia de sistemas inteligentes",
+      "dominant_emotion": "neutral",
+      "scores": {
+        "anger": 0.006809713784605265,
+        "disgust": 0.015520715154707432,
+        "fear": 0.003461753483861685,
+        "joy": 0.3133532702922821,
+        "neutral": 0.6181386709213257,
+        "sadness": 0.021916570141911507,
+        "surprise": 0.020799295976758003
+      }
+    },
+    {
+      "start": 10.23,
+      "end": 15.23,
+      "text": "Prueba uno para reconocimiento facial de un rostro feliz",
+      "dominant_emotion": "neutral",
+      "scores": {
+        "anger": 0.025190215557813644,
+        "disgust": 0.03856625035405159,
+        "fear": 0.05935359746217728,
+        "joy": 0.011668883264064789,
+        "neutral": 0.8184186816215515,
+        "sadness": 0.010973046533763409,
+        "surprise": 0.0358293242752552
+      }
+    },
+    {
+      "start": 15.23,
+      "end": 23.23,
+      "text": "En este vídeo quiero aprovechar de mostrar un rostro fácil de reconocer como un sonrisa",
+      "dominant_emotion": "neutral",
+      "scores": {
+        "anger": 0.23511920869350433,
+        "disgust": 0.18640507757663727,
+        "fear": 0.17694790661334991,
+        "joy": 0.026548117399215698,
+        "neutral": 0.3131398558616638,
+        "sadness": 0.044893354177474976,
+        "surprise": 0.01694652810692787
+      }
+    },
+    {
+      "start": 23.23,
+      "end": 29.23,
+      "text": "y que la red neuronal lo reconozca como un cara feliz y las emociones",
+      "dominant_emotion": "neutral",
+      "scores": {
+        "anger": 0.07190612703561783,
+        "disgust": 0.022503186017274857,
+        "fear": 0.15546675026416779,
+        "joy": 0.022747622802853584,
+        "neutral": 0.5828877687454224,
+        "sadness": 0.08479895442724228,
+        "surprise": 0.059689540416002274
+      }
+    },
+    {
+      "start": 29.23,
+      "end": 34.23,
+      "text": "Aprovechan también de grabar la voz para el reconocimiento de audio",
+      "dominant_emotion": "neutral",
+      "scores": {
+        "anger": 0.06583982706069946,
+        "disgust": 0.023168517276644707,
+        "fear": 0.04158005863428116,
+        "joy": 0.019449301064014435,
+        "neutral": 0.7962393164634705,
+        "sadness": 0.01679878868162632,
+        "surprise": 0.03692424297332764
+      }
+    },
+    {
+      "start": 34.23,
+      "end": 41.23,
+      "text": "y saber si este tipo de procesos puede hacer que la red neuronal evolucione",
+      "dominant_emotion": "neutral",
+      "scores": {
+        "anger": 0.05357899144291878,
+        "disgust": 0.019978949800133705,
+        "fear": 0.08795091509819031,
+        "joy": 0.007528572343289852,
+        "neutral": 0.7177993059158325,
+        "sadness": 0.10071336477994919,
+        "surprise": 0.012449942529201508
+      }
+    },
+    {
+      "start": 41.23,
+      "end": 50.23,
+      "text": "con el paso del tiempo, con distintos entrenamientos, con nuevos datasets y distintas formas de entrenamiento",
+      "dominant_emotion": "neutral",
+      "scores": {
+        "anger": 0.026370739564299583,
+        "disgust": 0.005840768571943045,
+        "fear": 0.06324915587902069,
+        "joy": 0.030339686200022697,
+        "neutral": 0.7645776271820068,
+        "sadness": 0.02709970995783806,
+        "surprise": 0.08252229541540146
+      }
+    },
+    {
+      "start": 50.23,
+      "end": 55.23,
+      "text": "Este es Alexander y primera prueba finalizada",
+      "dominant_emotion": "neutral",
+      "scores": {
+        "anger": 0.03586426377296448,
+        "disgust": 0.0416102260351181,
+        "fear": 0.05413505807518959,
+        "joy": 0.022022735327482224,
+        "neutral": 0.7536852359771729,
+        "sadness": 0.032469723373651505,
+        "surprise": 0.060212716460227966
+      }
+    }
+  ]
+}
