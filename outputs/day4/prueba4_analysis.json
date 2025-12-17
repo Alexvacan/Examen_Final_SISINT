@@ -1,0 +1,139 @@
+{
+  "video": "prueba4",
+  "changes": {
+    "n_face_changes": 18,
+    "n_text_changes": 0,
+    "face_changes": [
+      {
+        "t": 1.99,
+        "source": "face",
+        "from": "neutral",
+        "to": "fear"
+      },
+      {
+        "t": 2.49,
+        "source": "face",
+        "from": "fear",
+        "to": "neutral"
+      },
+      {
+        "t": 5.97,
+        "source": "face",
+        "from": "neutral",
+        "to": "happy"
+      },
+      {
+        "t": 6.46,
+        "source": "face",
+        "from": "happy",
+        "to": "neutral"
+      },
+      {
+        "t": 8.95,
+        "source": "face",
+        "from": "neutral",
+        "to": "surprise"
+      },
+      {
+        "t": 9.45,
+        "source": "face",
+        "from": "surprise",
+        "to": "neutral"
+      },
+      {
+        "t": 9.94,
+        "source": "face",
+        "from": "neutral",
+        "to": "surprise"
+      },
+      {
+        "t": 10.44,
+        "source": "face",
+        "from": "surprise",
+        "to": "neutral"
+      },
+      {
+        "t": 12.43,
+        "source": "face",
+        "from": "neutral",
+        "to": "happy"
+      },
+      {
+        "t": 13.92,
+        "source": "face",
+        "from": "happy",
+        "to": "neutral"
+      },
+      {
+        "t": 14.42,
+        "source": "face",
+        "from": "neutral",
+        "to": "fear"
+      },
+      {
+        "t": 14.92,
+        "source": "face",
+        "from": "fear",
+        "to": "angry"
+      },
+      {
+        "t": 20.88,
+        "source": "face",
+        "from": "angry",
+        "to": "disgust"
+      },
+      {
+        "t": 21.38,
+        "source": "face",
+        "from": "disgust",
+        "to": "angry"
+      },
+      {
+        "t": 25.85,
+        "source": "face",
+        "from": "angry",
+        "to": "neutral"
+      },
+      {
+        "t": 26.35,
+        "source": "face",
+        "from": "neutral",
+        "to": "happy"
+      },
+      {
+        "t": 39.28,
+        "source": "face",
+        "from": "happy",
+        "to": "neutral"
+      },
+      {
+        "t": 39.78,
+        "source": "face",
+        "from": "neutral",
+        "to": "happy"
+      }
+    ],
+    "text_changes": []
+  },
+  "metrics": {
+    "face_vs_text": {
+      "total_with_text": 84,
+      "match": 22,
+      "mismatch": 62,
+      "match_rate": 0.2619047619047619
+    },
+    "vs_manual_labels": {
+      "labels_path": "data/labels\\prueba4_labels.json",
+      "total_labeled": 89,
+      "match": 70,
+      "mismatch": 19,
+      "match_rate": 0.7865168539325843,
+      "unknown_frames": 2
+    }
+  },
+  "insights": [
+    "[prueba4] Alta variación facial: 18 cambios (posible inestabilidad emocional).",
+    "[prueba4] Baja congruencia cara-texto (match_rate=0.26).",
+    "[prueba4] Buen acuerdo con etiquetas manuales (match_rate=0.79)."
+  ]
+}

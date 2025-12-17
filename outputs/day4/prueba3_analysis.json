@@ -1,0 +1,97 @@
+{
+  "video": "prueba3",
+  "changes": {
+    "n_face_changes": 11,
+    "n_text_changes": 0,
+    "face_changes": [
+      {
+        "t": 2.98,
+        "source": "face",
+        "from": "happy",
+        "to": "neutral"
+      },
+      {
+        "t": 4.47,
+        "source": "face",
+        "from": "neutral",
+        "to": "happy"
+      },
+      {
+        "t": 6.96,
+        "source": "face",
+        "from": "happy",
+        "to": "neutral"
+      },
+      {
+        "t": 7.46,
+        "source": "face",
+        "from": "neutral",
+        "to": "happy"
+      },
+      {
+        "t": 11.43,
+        "source": "face",
+        "from": "happy",
+        "to": "neutral"
+      },
+      {
+        "t": 11.93,
+        "source": "face",
+        "from": "neutral",
+        "to": "happy"
+      },
+      {
+        "t": 14.91,
+        "source": "face",
+        "from": "happy",
+        "to": "neutral"
+      },
+      {
+        "t": 15.41,
+        "source": "face",
+        "from": "neutral",
+        "to": "happy"
+      },
+      {
+        "t": 17.4,
+        "source": "face",
+        "from": "happy",
+        "to": "neutral"
+      },
+      {
+        "t": 18.89,
+        "source": "face",
+        "from": "neutral",
+        "to": "fear"
+      },
+      {
+        "t": 19.39,
+        "source": "face",
+        "from": "fear",
+        "to": "neutral"
+      }
+    ],
+    "text_changes": []
+  },
+  "metrics": {
+    "face_vs_text": {
+      "total_with_text": 63,
+      "match": 33,
+      "mismatch": 30,
+      "match_rate": 0.5238095238095238
+    },
+    "vs_manual_labels": {
+      "labels_path": "data/labels\\prueba3_labels.json",
+      "total_labeled": 65,
+      "match": 58,
+      "mismatch": 7,
+      "match_rate": 0.8923076923076924,
+      "unknown_frames": 1
+    }
+  },
+  "insights": [
+    "[prueba3] Alta variación facial: 11 cambios (posible inestabilidad emocional).",
+    "[prueba3] Congruencia cara-texto media (match_rate=0.52).",
+    "[prueba3] Buen acuerdo con etiquetas manuales (match_rate=0.89)."
+  ]
+}

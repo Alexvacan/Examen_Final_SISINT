@@ -1,0 +1,285 @@
+{
+  "video": "prueba2",
+  "changes": {
+    "n_face_changes": 38,
+    "n_text_changes": 4,
+    "face_changes": [
+      {
+        "t": 4.48,
+        "source": "face",
+        "from": "happy",
+        "to": "fear"
+      },
+      {
+        "t": 4.97,
+        "source": "face",
+        "from": "fear",
+        "to": "happy"
+      },
+      {
+        "t": 7.46,
+        "source": "face",
+        "from": "happy",
+        "to": "sad"
+      },
+      {
+        "t": 7.96,
+        "source": "face",
+        "from": "sad",
+        "to": "neutral"
+      },
+      {
+        "t": 8.45,
+        "source": "face",
+        "from": "neutral",
+        "to": "happy"
+      },
+      {
+        "t": 9.45,
+        "source": "face",
+        "from": "happy",
+        "to": "fear"
+      },
+      {
+        "t": 9.94,
+        "source": "face",
+        "from": "fear",
+        "to": "happy"
+      },
+      {
+        "t": 10.94,
+        "source": "face",
+        "from": "happy",
+        "to": "neutral"
+      },
+      {
+        "t": 11.44,
+        "source": "face",
+        "from": "neutral",
+        "to": "happy"
+      },
+      {
+        "t": 15.41,
+        "source": "face",
+        "from": "happy",
+        "to": "neutral"
+      },
+      {
+        "t": 16.41,
+        "source": "face",
+        "from": "neutral",
+        "to": "happy"
+      },
+      {
+        "t": 17.4,
+        "source": "face",
+        "from": "happy",
+        "to": "fear"
+      },
+      {
+        "t": 17.9,
+        "source": "face",
+        "from": "fear",
+        "to": "happy"
+      },
+      {
+        "t": 18.4,
+        "source": "face",
+        "from": "happy",
+        "to": "neutral"
+      },
+      {
+        "t": 18.9,
+        "source": "face",
+        "from": "neutral",
+        "to": "happy"
+      },
+      {
+        "t": 21.88,
+        "source": "face",
+        "from": "happy",
+        "to": "neutral"
+      },
+      {
+        "t": 22.38,
+        "source": "face",
+        "from": "neutral",
+        "to": "sad"
+      },
+      {
+        "t": 22.87,
+        "source": "face",
+        "from": "sad",
+        "to": "happy"
+      },
+      {
+        "t": 23.87,
+        "source": "face",
+        "from": "happy",
+        "to": "fear"
+      },
+      {
+        "t": 24.36,
+        "source": "face",
+        "from": "fear",
+        "to": "neutral"
+      },
+      {
+        "t": 24.86,
+        "source": "face",
+        "from": "neutral",
+        "to": "happy"
+      },
+      {
+        "t": 25.86,
+        "source": "face",
+        "from": "happy",
+        "to": "neutral"
+      },
+      {
+        "t": 26.35,
+        "source": "face",
+        "from": "neutral",
+        "to": "fear"
+      },
+      {
+        "t": 26.85,
+        "source": "face",
+        "from": "fear",
+        "to": "happy"
+      },
+      {
+        "t": 28.34,
+        "source": "face",
+        "from": "happy",
+        "to": "neutral"
+      },
+      {
+        "t": 28.84,
+        "source": "face",
+        "from": "neutral",
+        "to": "happy"
+      },
+      {
+        "t": 29.34,
+        "source": "face",
+        "from": "happy",
+        "to": "fear"
+      },
+      {
+        "t": 29.83,
+        "source": "face",
+        "from": "fear",
+        "to": "neutral"
+      },
+      {
+        "t": 30.33,
+        "source": "face",
+        "from": "neutral",
+        "to": "fear"
+      },
+      {
+        "t": 30.83,
+        "source": "face",
+        "from": "fear",
+        "to": "neutral"
+      },
+      {
+        "t": 31.33,
+        "source": "face",
+        "from": "neutral",
+        "to": "happy"
+      },
+      {
+        "t": 32.32,
+        "source": "face",
+        "from": "happy",
+        "to": "fear"
+      },
+      {
+        "t": 32.82,
+        "source": "face",
+        "from": "fear",
+        "to": "neutral"
+      },
+      {
+        "t": 33.31,
+        "source": "face",
+        "from": "neutral",
+        "to": "happy"
+      },
+      {
+        "t": 35.3,
+        "source": "face",
+        "from": "happy",
+        "to": "fear"
+      },
+      {
+        "t": 35.8,
+        "source": "face",
+        "from": "fear",
+        "to": "neutral"
+      },
+      {
+        "t": 36.8,
+        "source": "face",
+        "from": "neutral",
+        "to": "fear"
+      },
+      {
+        "t": 37.29,
+        "source": "face",
+        "from": "fear",
+        "to": "happy"
+      }
+    ],
+    "text_changes": [
+      {
+        "t": 6.46,
+        "source": "text",
+        "from": "neutral",
+        "to": "fear"
+      },
+      {
+        "t": 12.43,
+        "source": "text",
+        "from": "fear",
+        "to": "neutral"
+      },
+      {
+        "t": 21.38,
+        "source": "text",
+        "from": "neutral",
+        "to": "anger"
+      },
+      {
+        "t": 25.36,
+        "source": "text",
+        "from": "anger",
+        "to": "neutral"
+      }
+    ]
+  },
+  "metrics": {
+    "face_vs_text": {
+      "total_with_text": 74,
+      "match": 11,
+      "mismatch": 63,
+      "match_rate": 0.14864864864864866
+    },
+    "vs_manual_labels": {
+      "labels_path": "data/labels\\prueba2_labels.json",
+      "total_labeled": 75,
+      "match": 49,
+      "mismatch": 26,
+      "match_rate": 0.6533333333333333,
+      "unknown_frames": 2
+    }
+  },
+  "insights": [
+    "[prueba2] Alta variación facial: 38 cambios (posible inestabilidad emocional).",
+    "[prueba2] Variación emocional en texto detectada: 4 cambios.",
+    "[prueba2] Baja congruencia cara-texto (match_rate=0.15).",
+    "[prueba2] Acuerdo medio con etiquetas manuales (match_rate=0.65)."
+  ]
+}
