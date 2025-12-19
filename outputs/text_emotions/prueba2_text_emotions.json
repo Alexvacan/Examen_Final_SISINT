@@ -5,105 +5,105 @@
       "start": 0.08,
       "end": 6.08,
       "text": "Hola, soy Gisael y este es el vídeo que usaremos para etiquetar una cara feliz",
-      "dominant_emotion": "neutral",
+      "dominant_emotion": "others",
       "scores": {
-        "anger": 0.010794215835630894,
-        "disgust": 0.02193698100745678,
-        "fear": 0.003889587940648198,
-        "joy": 0.35844185948371887,
-        "neutral": 0.567346453666687,
-        "sadness": 0.019795002415776253,
-        "surprise": 0.017795860767364502
+        "others": 0.8757029175758362,
+        "joy": 0.11906124651432037,
+        "surprise": 0.001751255476847291,
+        "sadness": 0.0011166322510689497,
+        "anger": 0.0009220457286573946,
+        "disgust": 0.0007407211232930422,
+        "fear": 0.0007049127016216516
       }
     },
     {
       "start": 6.08,
       "end": 12.08,
       "text": "el segundo vídeo de nuestra prueba para poder entrenar a la inteligencia artificial",
-      "dominant_emotion": "fear",
+      "dominant_emotion": "others",
       "scores": {
-        "anger": 0.18224719166755676,
-        "disgust": 0.20186059176921844,
-        "fear": 0.30446192622184753,
-        "joy": 0.0404936857521534,
-        "neutral": 0.1823357194662094,
-        "sadness": 0.07223739475011826,
-        "surprise": 0.016363482922315598
+        "others": 0.9672920107841492,
+        "joy": 0.018952330574393272,
+        "surprise": 0.011237119324505329,
+        "fear": 0.0013661467237398028,
+        "disgust": 0.00041821872582659125,
+        "sadness": 0.00037902494659647346,
+        "anger": 0.00035505645791999996
       }
     },
     {
       "start": 12.08,
       "end": 15.08,
-      "text": "que pueda reconocer diferentes emociones faciales",
-      "dominant_emotion": "neutral",
+      "text": "y que pueda reconocer diferentes emociones faciales",
+      "dominant_emotion": "others",
       "scores": {
-        "anger": 0.07949724793434143,
-        "disgust": 0.1558956652879715,
-        "fear": 0.04588794335722923,
-        "joy": 0.026910310611128807,
-        "neutral": 0.6351923942565918,
-        "sadness": 0.039081722497940063,
-        "surprise": 0.01753471978008747
+        "others": 0.9800748825073242,
+        "joy": 0.010635563172399998,
+        "surprise": 0.004222252406179905,
+        "sadness": 0.0022603394463658333,
+        "fear": 0.002082961844280362,
+        "disgust": 0.00038783083437010646,
+        "anger": 0.00033613480627536774
       }
     },
     {
       "start": 15.08,
       "end": 21.08,
       "text": "ahora mismo haré este vídeo completo con una cara feliz para probar el resultado",
-      "dominant_emotion": "neutral",
+      "dominant_emotion": "others",
       "scores": {
-        "anger": 0.19849175214767456,
-        "disgust": 0.08419999480247498,
-        "fear": 0.06611976772546768,
-        "joy": 0.029424991458654404,
-        "neutral": 0.5297955870628357,
-        "sadness": 0.05564438924193382,
-        "surprise": 0.03632345795631409
+        "others": 0.6937317252159119,
+        "joy": 0.29763755202293396,
+        "surprise": 0.004095090087503195,
+        "sadness": 0.001471176277846098,
+        "fear": 0.0012122427579015493,
+        "anger": 0.00104671367444098,
+        "disgust": 0.0008055931539274752
       }
     },
     {
       "start": 21.08,
       "end": 25.08,
       "text": "ya que después iremos probando con diferentes caras",
-      "dominant_emotion": "anger",
+      "dominant_emotion": "others",
       "scores": {
-        "anger": 0.8352182507514954,
-        "disgust": 0.0484590083360672,
-        "fear": 0.014118421822786331,
-        "joy": 0.003403500420972705,
-        "neutral": 0.08374790102243423,
-        "sadness": 0.009853990748524666,
-        "surprise": 0.005199046339839697
+        "others": 0.9910497665405273,
+        "surprise": 0.0033000449184328318,
+        "sadness": 0.0018414502264931798,
+        "joy": 0.001720135216601193,
+        "anger": 0.0008010907331481576,
+        "fear": 0.0007874785806052387,
+        "disgust": 0.0004998070071451366
       }
     },
     {
       "start": 25.08,
       "end": 30.08,
       "text": "o sea el siguiente vídeo será conmigo haciendo diferentes emociones",
-      "dominant_emotion": "neutral",
+      "dominant_emotion": "others",
       "scores": {
-        "anger": 0.23887597024440765,
-        "disgust": 0.16367053985595703,
-        "fear": 0.1048194020986557,
-        "joy": 0.01943948119878769,
-        "neutral": 0.4121911823749542,
-        "sadness": 0.044498056173324585,
-        "surprise": 0.016505328938364983
+        "others": 0.9622031450271606,
+        "surprise": 0.02251335233449936,
+        "joy": 0.009629607200622559,
+        "fear": 0.0026401951909065247,
+        "sadness": 0.0018948772922158241,
+        "anger": 0.0006415497628040612,
+        "disgust": 0.00047729630023241043
       }
     },
     {
       "start": 30.08,
-      "end": 37.08,
+      "end": 36.08,
       "text": "entonces este vídeo es principalmente para ver si puede reconocer una sola emoción durante todo el vídeo",
-      "dominant_emotion": "neutral",
+      "dominant_emotion": "others",
       "scores": {
-        "anger": 0.16860073804855347,
-        "disgust": 0.12464345991611481,
-        "fear": 0.13162817060947418,
-        "joy": 0.04177543893456459,
-        "neutral": 0.46373605728149414,
-        "sadness": 0.058759208768606186,
-        "surprise": 0.01085689477622509
+        "others": 0.9966989159584045,
+        "surprise": 0.0012092216638848186,
+        "joy": 0.0009752417099662125,
+        "sadness": 0.0005039595998823643,
+        "fear": 0.00028423569165170193,
+        "anger": 0.00022852922847960144,
+        "disgust": 9.994649008149281e-05
       }
     }
   ]

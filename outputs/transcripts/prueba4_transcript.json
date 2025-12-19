@@ -1,6 +1,7 @@
 {
+  "audio": "outputs\\audio\\prueba4.wav",
   "language": "es",
-  "language_probability": 1,
+  "language_probability": 1.0,
   "segments": [
     {
       "start": 0.59,
@@ -9,18 +10,18 @@
     },
     {
       "start": 5.27,
-      "end": 14.37,
-      "text": "empezaré con la emoción del asombro, no podía hablar con esa, entonces ahora"
+      "end": 14.71,
+      "text": "empezaré con la emoción del asombro. No podía hablar con esa, entonces ahora"
     },
     {
-      "start": 14.37,
+      "start": 14.71,
       "end": 20.57,
-      "text": "continuaré con la emoción del enojo, para ver si nuestra vida puede reconocer la"
+      "text": "continuaré con la emoción del enojo para ver si nuestra vida puede reconocer la"
     },
     {
       "start": 20.57,
       "end": 28.09,
-      "text": "emoción del enojo, después continuaré con la emoción de alegría o estar"
+      "text": "emoción del enojo. Después continuaré con la emoción de alegría o estar"
     },
     {
       "start": 28.09,
@@ -34,8 +35,8 @@
     },
     {
       "start": 40.05,
-      "end": 42.57,
-      "text": "también eso"
+      "end": 42.65,
+      "text": "también eso."
     }
   ]
 }

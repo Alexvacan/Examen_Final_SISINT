@@ -1,0 +1,65 @@
+{
+  "n_segments": 4,
+  "items": [
+    {
+      "start": 0.94,
+      "end": 8.78,
+      "text": "Hola, este es otro prueba de Rostro Feliz para seguir comparando resultados y el modelo ya puede",
+      "dominant_emotion": "others",
+      "scores": {
+        "others": 0.9903091788291931,
+        "joy": 0.00667552137747407,
+        "surprise": 0.0011473629856482148,
+        "sadness": 0.0007153364713303745,
+        "anger": 0.0005329754785634577,
+        "disgust": 0.00038095907075330615,
+        "fear": 0.00023868712014518678
+      }
+    },
+    {
+      "start": 8.78,
+      "end": 17.18,
+      "text": "identificar de mejor manera si es que estoy con un Rostro Feliz si estuviera con otro tipo de",
+      "dominant_emotion": "others",
+      "scores": {
+        "others": 0.9835509657859802,
+        "joy": 0.008433879353106022,
+        "sadness": 0.005331525579094887,
+        "surprise": 0.0008389897993765771,
+        "anger": 0.0008265781798399985,
+        "disgust": 0.0005603056633844972,
+        "fear": 0.00045760133070871234
+      }
+    },
+    {
+      "start": 17.18,
+      "end": 23.26,
+      "text": "Rostro y que el reúntodo del más probable sea con el modelito. Sigan viendo para más información",
+      "dominant_emotion": "others",
+      "scores": {
+        "others": 0.9915863275527954,
+        "surprise": 0.004367629997432232,
+        "fear": 0.0017163836164399981,
+        "sadness": 0.0009756161598488688,
+        "joy": 0.000594473909586668,
+        "anger": 0.0004261112480890006,
+        "disgust": 0.00033347296994179487
+      }
+    },
+    {
+      "start": 23.26,
+      "end": 28.14,
+      "text": "puedes estar al reacto en el informe de una mejor manera. Gracias",
+      "dominant_emotion": "others",
+      "scores": {
+        "others": 0.9931595325469971,
+        "joy": 0.0018030701903626323,
+        "anger": 0.0013795018894597888,
+        "surprise": 0.001188395544886589,
+        "fear": 0.0010685588931664824,
+        "sadness": 0.0009335374343208969,
+        "disgust": 0.00046742468839511275
+      }
+    }
+  ]
+}

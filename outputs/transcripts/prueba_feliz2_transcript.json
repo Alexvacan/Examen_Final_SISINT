@@ -1,0 +1,27 @@
+{
+  "audio": "outputs\\audio\\prueba_feliz2.wav",
+  "language": "es",
+  "language_probability": 1.0,
+  "segments": [
+    {
+      "start": 0.94,
+      "end": 8.78,
+      "text": "Hola, este es otro prueba de Rostro Feliz para seguir comparando resultados y el modelo ya puede"
+    },
+    {
+      "start": 8.78,
+      "end": 17.18,
+      "text": "identificar de mejor manera si es que estoy con un Rostro Feliz si estuviera con otro tipo de"
+    },
+    {
+      "start": 17.18,
+      "end": 23.26,
+      "text": "Rostro y que el reúntodo del más probable sea con el modelito. Sigan viendo para más información"
+    },
+    {
+      "start": 23.26,
+      "end": 28.14,
+      "text": "puedes estar al reacto en el informe de una mejor manera. Gracias"
+    }
+  ]
+}

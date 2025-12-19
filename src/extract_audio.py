@@ -1,20 +1,50 @@
 import os
+import argparse
+from pathlib import Path
 from moviepy import VideoFileClip
 
-# Rutas
-video_path = "data/raw_videos/prueba4.mp4"
-audio_out = "outputs/audio/prueba4.wav"
 
-# Crear carpeta si no existe
-os.makedirs(os.path.dirname(audio_out), exist_ok=True)
+def extract_audio(video_path: str, audio_out: str) -> str:
+    os.makedirs(os.path.dirname(audio_out), exist_ok=True)
+    clip = VideoFileClip(video_path)
+    if clip.audio is None:
+        raise RuntimeError(f"El video no tiene audio: {video_path}")
 
-# Extraer audio
-clip = VideoFileClip(video_path)
-clip.audio.write_audiofile(
+    clip.audio.write_audiofile(
     audio_out,
-    fps=16000,          # frecuencia ideal para Whisper
-    nbytes=2,           # 16 bits
-    codec="pcm_s16le"   # WAV sin compresión
-)
+    fps=16000,
+    nbytes=2,
+    codec="pcm_s16le"
+    )
 
-print("✅ Audio extraído correctamente en:", audio_out)
+    clip.close()
+    return audio_out
+
+
+def main():
+    ap = argparse.ArgumentParser(description="Extraer audio WAV (16kHz) desde videos")
+    ap.add_argument("--videos-dir", default="data/raw_videos", help="Carpeta con videos .mp4")
+    ap.add_argument("--out-dir", default="outputs/audio", help="Carpeta salida de audios")
+    ap.add_argument("--names", nargs="*", default=None, help="Nombres base a procesar (sin .mp4). Si no, procesa todos.")
+    args = ap.parse_args()
+
+    vdir = args.videos_dir
+    out_dir = args.out_dir
+
+    if args.names:
+        videos = [os.path.join(vdir, f"{n}.mp4") for n in args.names]
+    else:
+        videos = sorted([str(p) for p in Path(vdir).glob("*.mp4")])
+
+    if not videos:
+        raise SystemExit(f"No se encontraron videos .mp4 en: {vdir}")
+
+    for vp in videos:
+        name = Path(vp).stem.lower()
+        audio_out = os.path.join(out_dir, f"{name}.wav")
+        extract_audio(vp, audio_out)
+        print(f"✅ Audio: {name} -> {audio_out}")
+
+
+if __name__ == "__main__":
+    main()

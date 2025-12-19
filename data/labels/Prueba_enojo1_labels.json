@@ -1,0 +1,7 @@
+{
+  "video": "data/raw_videos/Prueba_enojo1.mp4",
+  "fps_note": "timestamps en segundos",
+  "segments": [
+    { "start": 0.0, "end": 29.59, "emotion": "anger", "note": "rostro enojado casi todo el video" }
+  ]
+}

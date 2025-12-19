@@ -8,28 +8,28 @@
       "face": {
         "dominant": "happy",
         "scores": {
-          "angry": 2.0681549358414486e-05,
-          "disgust": 6.728148038703807e-10,
-          "fear": 0.0002507017052266747,
+          "angry": 2.0681665773736313e-05,
+          "disgust": 6.728198553851428e-10,
+          "fear": 0.00025070388801395893,
           "happy": 98.09974670410156,
-          "sad": 0.0015910567017272115,
-          "surprise": 0.0005723097710870206,
-          "neutral": 1.8978142738342285
+          "sad": 0.0015910688089206815,
+          "surprise": 0.0005723097128793597,
+          "neutral": 1.8978211879730225
         }
       },
       "text": {
         "segment_start": 0.0,
         "segment_end": 9.0,
-        "content": "Hola, soy Gisael y este es el tercer video para probar nuestra inteligencia artificial y si puede reconocer emociones faciales.",
-        "dominant": "neutral",
+        "content": "Hola, soy Gisael y este es el tercer vídeo para probar nuestra inteligencia artificial y si puede reconocer emociones faciales.",
+        "dominant": "others",
         "scores": {
-          "anger": 0.011467252857983112,
-          "disgust": 0.027050288394093513,
-          "fear": 0.003342053387314081,
-          "joy": 0.3479863405227661,
-          "neutral": 0.5782271027565002,
-          "sadness": 0.0210697203874588,
-          "surprise": 0.01085721142590046
+          "others": 0.9640173316001892,
+          "joy": 0.02959921397268772,
+          "surprise": 0.003947151824831963,
+          "fear": 0.0011193075915798545,
+          "disgust": 0.0004905904643237591,
+          "anger": 0.0004525552212726325,
+          "sadness": 0.00037378829438239336
         }
       }
     },
@@ -39,28 +39,28 @@
       "face": {
         "dominant": "happy",
         "scores": {
-          "angry": 0.04002158343791962,
-          "disgust": 1.6965215763775632e-05,
-          "fear": 0.10969062894582748,
-          "happy": 98.29802703857422,
-          "sad": 0.054442305117845535,
-          "surprise": 0.0017287371447309852,
-          "neutral": 1.4960795640945435
+          "angry": 0.0400216206908226,
+          "disgust": 1.6965246686595492e-05,
+          "fear": 0.1096908301115036,
+          "happy": 98.29801940917969,
+          "sad": 0.054442357271909714,
+          "surprise": 0.0017287436639890075,
+          "neutral": 1.49608314037323
         }
       },
       "text": {
         "segment_start": 0.0,
         "segment_end": 9.0,
-        "content": "Hola, soy Gisael y este es el tercer video para probar nuestra inteligencia artificial y si puede reconocer emociones faciales.",
-        "dominant": "neutral",
+        "content": "Hola, soy Gisael y este es el tercer vídeo para probar nuestra inteligencia artificial y si puede reconocer emociones faciales.",
+        "dominant": "others",
         "scores": {
-          "anger": 0.011467252857983112,
-          "disgust": 0.027050288394093513,
-          "fear": 0.003342053387314081,
-          "joy": 0.3479863405227661,
-          "neutral": 0.5782271027565002,
-          "sadness": 0.0210697203874588,
-          "surprise": 0.01085721142590046
+          "others": 0.9640173316001892,
+          "joy": 0.02959921397268772,
+          "surprise": 0.003947151824831963,
+          "fear": 0.0011193075915798545,
+          "disgust": 0.0004905904643237591,
+          "anger": 0.0004525552212726325,
+          "sadness": 0.00037378829438239336
         }
       }
     },
@@ -71,27 +71,27 @@
         "dominant": "happy",
         "scores": {
           "angry": 0.012668651528656483,
-          "disgust": 4.405336767376866e-06,
+          "disgust": 4.40532858192455e-06,
           "fear": 0.02736332267522812,
           "happy": 97.21327209472656,
           "sad": 0.005871917121112347,
-          "surprise": 0.020847314968705177,
-          "neutral": 2.719977855682373
+          "surprise": 0.020847275853157043,
+          "neutral": 2.7199745178222656
         }
       },
       "text": {
         "segment_start": 0.0,
         "segment_end": 9.0,
-        "content": "Hola, soy Gisael y este es el tercer video para probar nuestra inteligencia artificial y si puede reconocer emociones faciales.",
-        "dominant": "neutral",
+        "content": "Hola, soy Gisael y este es el tercer vídeo para probar nuestra inteligencia artificial y si puede reconocer emociones faciales.",
+        "dominant": "others",
         "scores": {
-          "anger": 0.011467252857983112,
-          "disgust": 0.027050288394093513,
-          "fear": 0.003342053387314081,
-          "joy": 0.3479863405227661,
-          "neutral": 0.5782271027565002,
-          "sadness": 0.0210697203874588,
-          "surprise": 0.01085721142590046
+          "others": 0.9640173316001892,
+          "joy": 0.02959921397268772,
+          "surprise": 0.003947151824831963,
+          "fear": 0.0011193075915798545,
+          "disgust": 0.0004905904643237591,
+          "anger": 0.0004525552212726325,
+          "sadness": 0.00037378829438239336
         }
       }
     },
@@ -101,28 +101,28 @@
       "face": {
         "dominant": "happy",
         "scores": {
-          "angry": 0.010631238110363483,
-          "disgust": 6.609365300391801e-06,
-          "fear": 0.05892637372016907,
-          "happy": 92.446533203125,
-          "sad": 0.024282336235046387,
-          "surprise": 0.029891440644860268,
-          "neutral": 7.42972993850708
+          "angry": 0.01063126977533102,
+          "disgust": 6.609403499169275e-06,
+          "fear": 0.05892645940184593,
+          "happy": 92.44654083251953,
+          "sad": 0.024282431229948997,
+          "surprise": 0.029891442507505417,
+          "neutral": 7.4297194480896
         }
       },
       "text": {
         "segment_start": 0.0,
         "segment_end": 9.0,
-        "content": "Hola, soy Gisael y este es el tercer video para probar nuestra inteligencia artificial y si puede reconocer emociones faciales.",
-        "dominant": "neutral",
+        "content": "Hola, soy Gisael y este es el tercer vídeo para probar nuestra inteligencia artificial y si puede reconocer emociones faciales.",
+        "dominant": "others",
         "scores": {
-          "anger": 0.011467252857983112,
-          "disgust": 0.027050288394093513,
-          "fear": 0.003342053387314081,
-          "joy": 0.3479863405227661,
-          "neutral": 0.5782271027565002,
-          "sadness": 0.0210697203874588,
-          "surprise": 0.01085721142590046
+          "others": 0.9640173316001892,
+          "joy": 0.02959921397268772,
+          "surprise": 0.003947151824831963,
+          "fear": 0.0011193075915798545,
+          "disgust": 0.0004905904643237591,
+          "anger": 0.0004525552212726325,
+          "sadness": 0.00037378829438239336
         }
       }
     },
@@ -132,28 +132,28 @@
       "face": {
         "dominant": "happy",
         "scores": {
-          "angry": 0.00034467203659005463,
-          "disgust": 3.461054376430184e-08,
-          "fear": 0.0054711997509002686,
-          "happy": 90.2833251953125,
-          "sad": 0.002804309129714966,
-          "surprise": 0.001320964191108942,
-          "neutral": 9.706727027893066
+          "angry": 0.00034467075602151453,
+          "disgust": 3.46104158666094e-08,
+          "fear": 0.005471184384077787,
+          "happy": 90.28334045410156,
+          "sad": 0.0028043014463037252,
+          "surprise": 0.0013209632597863674,
+          "neutral": 9.706716537475586
         }
       },
       "text": {
         "segment_start": 0.0,
         "segment_end": 9.0,
-        "content": "Hola, soy Gisael y este es el tercer video para probar nuestra inteligencia artificial y si puede reconocer emociones faciales.",
-        "dominant": "neutral",
+        "content": "Hola, soy Gisael y este es el tercer vídeo para probar nuestra inteligencia artificial y si puede reconocer emociones faciales.",
+        "dominant": "others",
         "scores": {
-          "anger": 0.011467252857983112,
-          "disgust": 0.027050288394093513,
-          "fear": 0.003342053387314081,
-          "joy": 0.3479863405227661,
-          "neutral": 0.5782271027565002,
-          "sadness": 0.0210697203874588,
-          "surprise": 0.01085721142590046
+          "others": 0.9640173316001892,
+          "joy": 0.02959921397268772,
+          "surprise": 0.003947151824831963,
+          "fear": 0.0011193075915798545,
+          "disgust": 0.0004905904643237591,
+          "anger": 0.0004525552212726325,
+          "sadness": 0.00037378829438239336
         }
       }
     },
@@ -163,28 +163,28 @@
       "face": {
         "dominant": "happy",
         "scores": {
-          "angry": 0.00047041941434144974,
-          "disgust": 2.8830188014694613e-08,
-          "fear": 0.001113044680096209,
+          "angry": 0.0004704158054664731,
+          "disgust": 2.8829969522803367e-08,
+          "fear": 0.0011130351340398192,
           "happy": 95.79169464111328,
-          "sad": 0.014239621348679066,
-          "surprise": 0.0003465797926764935,
-          "neutral": 4.192142009735107
+          "sad": 0.014239526353776455,
+          "surprise": 0.0003465771733317524,
+          "neutral": 4.192134857177734
         }
       },
       "text": {
         "segment_start": 0.0,
         "segment_end": 9.0,
-        "content": "Hola, soy Gisael y este es el tercer video para probar nuestra inteligencia artificial y si puede reconocer emociones faciales.",
-        "dominant": "neutral",
+        "content": "Hola, soy Gisael y este es el tercer vídeo para probar nuestra inteligencia artificial y si puede reconocer emociones faciales.",
+        "dominant": "others",
         "scores": {
-          "anger": 0.011467252857983112,
-          "disgust": 0.027050288394093513,
-          "fear": 0.003342053387314081,
-          "joy": 0.3479863405227661,
-          "neutral": 0.5782271027565002,
-          "sadness": 0.0210697203874588,
-          "surprise": 0.01085721142590046
+          "others": 0.9640173316001892,
+          "joy": 0.02959921397268772,
+          "surprise": 0.003947151824831963,
+          "fear": 0.0011193075915798545,
+          "disgust": 0.0004905904643237591,
+          "anger": 0.0004525552212726325,
+          "sadness": 0.00037378829438239336
         }
       }
     },
@@ -194,28 +194,28 @@
       "face": {
         "dominant": "neutral",
         "scores": {
-          "angry": 1.1422892808914185,
-          "disgust": 0.025407468900084496,
-          "fear": 4.471279621124268,
-          "happy": 16.196475982666016,
-          "sad": 1.4540878534317017,
-          "surprise": 0.026303613558411598,
-          "neutral": 76.68415832519531
+          "angry": 1.1422879695892334,
+          "disgust": 0.025407467037439346,
+          "fear": 4.471276760101318,
+          "happy": 16.19649314880371,
+          "sad": 1.4540865421295166,
+          "surprise": 0.026303645223379135,
+          "neutral": 76.68415069580078
         }
       },
       "text": {
         "segment_start": 0.0,
         "segment_end": 9.0,
-        "content": "Hola, soy Gisael y este es el tercer video para probar nuestra inteligencia artificial y si puede reconocer emociones faciales.",
-        "dominant": "neutral",
+        "content": "Hola, soy Gisael y este es el tercer vídeo para probar nuestra inteligencia artificial y si puede reconocer emociones faciales.",
+        "dominant": "others",
         "scores": {
-          "anger": 0.011467252857983112,
-          "disgust": 0.027050288394093513,
-          "fear": 0.003342053387314081,
-          "joy": 0.3479863405227661,
-          "neutral": 0.5782271027565002,
-          "sadness": 0.0210697203874588,
-          "surprise": 0.01085721142590046
+          "others": 0.9640173316001892,
+          "joy": 0.02959921397268772,
+          "surprise": 0.003947151824831963,
+          "fear": 0.0011193075915798545,
+          "disgust": 0.0004905904643237591,
+          "anger": 0.0004525552212726325,
+          "sadness": 0.00037378829438239336
         }
       }
     },
@@ -225,28 +225,28 @@
       "face": {
         "dominant": "neutral",
         "scores": {
-          "angry": 0.6211510896682739,
-          "disgust": 0.03201071545481682,
-          "fear": 5.569324970245361,
-          "happy": 19.652963638305664,
-          "sad": 1.965484619140625,
-          "surprise": 0.028641603887081146,
-          "neutral": 72.13042449951172
+          "angry": 0.6211531162261963,
+          "disgust": 0.03201083093881607,
+          "fear": 5.569332122802734,
+          "happy": 19.65296745300293,
+          "sad": 1.9654862880706787,
+          "surprise": 0.028641637414693832,
+          "neutral": 72.13040924072266
         }
       },
       "text": {
         "segment_start": 0.0,
         "segment_end": 9.0,
-        "content": "Hola, soy Gisael y este es el tercer video para probar nuestra inteligencia artificial y si puede reconocer emociones faciales.",
-        "dominant": "neutral",
+        "content": "Hola, soy Gisael y este es el tercer vídeo para probar nuestra inteligencia artificial y si puede reconocer emociones faciales.",
+        "dominant": "others",
         "scores": {
-          "anger": 0.011467252857983112,
-          "disgust": 0.027050288394093513,
-          "fear": 0.003342053387314081,
-          "joy": 0.3479863405227661,
-          "neutral": 0.5782271027565002,
-          "sadness": 0.0210697203874588,
-          "surprise": 0.01085721142590046
+          "others": 0.9640173316001892,
+          "joy": 0.02959921397268772,
+          "surprise": 0.003947151824831963,
+          "fear": 0.0011193075915798545,
+          "disgust": 0.0004905904643237591,
+          "anger": 0.0004525552212726325,
+          "sadness": 0.00037378829438239336
         }
       }
     },
@@ -256,11 +256,11 @@
       "face": {
         "dominant": "neutral",
         "scores": {
-          "angry": 0.15659883618354797,
-          "disgust": 0.007122111972421408,
-          "fear": 5.469005584716797,
-          "happy": 5.3096137046813965,
-          "sad": 1.4126102924346924,
+          "angry": 0.15659844875335693,
+          "disgust": 0.007122104521840811,
+          "fear": 5.469019889831543,
+          "happy": 5.309607982635498,
+          "sad": 1.4126088619232178,
           "surprise": 0.0025537251494824886,
           "neutral": 87.64249420166016
         }
@@ -268,16 +268,16 @@
       "text": {
         "segment_start": 0.0,
         "segment_end": 9.0,
-        "content": "Hola, soy Gisael y este es el tercer video para probar nuestra inteligencia artificial y si puede reconocer emociones faciales.",
-        "dominant": "neutral",
+        "content": "Hola, soy Gisael y este es el tercer vídeo para probar nuestra inteligencia artificial y si puede reconocer emociones faciales.",
+        "dominant": "others",
         "scores": {
-          "anger": 0.011467252857983112,
-          "disgust": 0.027050288394093513,
-          "fear": 0.003342053387314081,
-          "joy": 0.3479863405227661,
-          "neutral": 0.5782271027565002,
-          "sadness": 0.0210697203874588,
-          "surprise": 0.01085721142590046
+          "others": 0.9640173316001892,
+          "joy": 0.02959921397268772,
+          "surprise": 0.003947151824831963,
+          "fear": 0.0011193075915798545,
+          "disgust": 0.0004905904643237591,
+          "anger": 0.0004525552212726325,
+          "sadness": 0.00037378829438239336
         }
       }
     },
@@ -287,28 +287,28 @@
       "face": {
         "dominant": "happy",
         "scores": {
-          "angry": 0.002067183144390583,
-          "disgust": 2.5297879346908303e-06,
-          "fear": 0.016122465953230858,
+          "angry": 0.002067179186269641,
+          "disgust": 2.5297783849964617e-06,
+          "fear": 0.016122449189424515,
           "happy": 95.8987808227539,
-          "sad": 0.027490776032209396,
+          "sad": 0.02749069780111313,
           "surprise": 0.0007276613614521921,
-          "neutral": 4.0548095703125
+          "neutral": 4.054806709289551
         }
       },
       "text": {
         "segment_start": 0.0,
         "segment_end": 9.0,
-        "content": "Hola, soy Gisael y este es el tercer video para probar nuestra inteligencia artificial y si puede reconocer emociones faciales.",
-        "dominant": "neutral",
+        "content": "Hola, soy Gisael y este es el tercer vídeo para probar nuestra inteligencia artificial y si puede reconocer emociones faciales.",
+        "dominant": "others",
         "scores": {
-          "anger": 0.011467252857983112,
-          "disgust": 0.027050288394093513,
-          "fear": 0.003342053387314081,
-          "joy": 0.3479863405227661,
-          "neutral": 0.5782271027565002,
-          "sadness": 0.0210697203874588,
-          "surprise": 0.01085721142590046
+          "others": 0.9640173316001892,
+          "joy": 0.02959921397268772,
+          "surprise": 0.003947151824831963,
+          "fear": 0.0011193075915798545,
+          "disgust": 0.0004905904643237591,
+          "anger": 0.0004525552212726325,
+          "sadness": 0.00037378829438239336
         }
       }
     },
@@ -318,28 +318,28 @@
       "face": {
         "dominant": "happy",
         "scores": {
-          "angry": 0.0001553691690787673,
-          "disgust": 9.564783454152348e-08,
-          "fear": 0.0037869205698370934,
-          "happy": 91.43253326416016,
-          "sad": 0.0038186167366802692,
-          "surprise": 0.0001430851552868262,
-          "neutral": 8.559572219848633
+          "angry": 0.00015536815044470131,
+          "disgust": 9.564713820964243e-08,
+          "fear": 0.003786895889788866,
+          "happy": 91.43254852294922,
+          "sad": 0.003818592056632042,
+          "surprise": 0.0001430844858987257,
+          "neutral": 8.559551239013672
         }
       },
       "text": {
         "segment_start": 0.0,
         "segment_end": 9.0,
-        "content": "Hola, soy Gisael y este es el tercer video para probar nuestra inteligencia artificial y si puede reconocer emociones faciales.",
-        "dominant": "neutral",
+        "content": "Hola, soy Gisael y este es el tercer vídeo para probar nuestra inteligencia artificial y si puede reconocer emociones faciales.",
+        "dominant": "others",
         "scores": {
-          "anger": 0.011467252857983112,
-          "disgust": 0.027050288394093513,
-          "fear": 0.003342053387314081,
-          "joy": 0.3479863405227661,
-          "neutral": 0.5782271027565002,
-          "sadness": 0.0210697203874588,
-          "surprise": 0.01085721142590046
+          "others": 0.9640173316001892,
+          "joy": 0.02959921397268772,
+          "surprise": 0.003947151824831963,
+          "fear": 0.0011193075915798545,
+          "disgust": 0.0004905904643237591,
+          "anger": 0.0004525552212726325,
+          "sadness": 0.00037378829438239336
         }
       }
     },
@@ -349,28 +349,28 @@
       "face": {
         "dominant": "happy",
         "scores": {
-          "angry": 0.002026317175477743,
+          "angry": 0.002026322763413191,
           "disgust": 1.5912652528982107e-08,
           "fear": 0.005389980506151915,
           "happy": 97.55016326904297,
-          "sad": 0.006674061994999647,
-          "surprise": 0.04464593902230263,
-          "neutral": 2.391098737716675
+          "sad": 0.006674087606370449,
+          "surprise": 0.04464602470397949,
+          "neutral": 2.3911046981811523
         }
       },
       "text": {
         "segment_start": 0.0,
         "segment_end": 9.0,
-        "content": "Hola, soy Gisael y este es el tercer video para probar nuestra inteligencia artificial y si puede reconocer emociones faciales.",
-        "dominant": "neutral",
+        "content": "Hola, soy Gisael y este es el tercer vídeo para probar nuestra inteligencia artificial y si puede reconocer emociones faciales.",
+        "dominant": "others",
         "scores": {
-          "anger": 0.011467252857983112,
-          "disgust": 0.027050288394093513,
-          "fear": 0.003342053387314081,
-          "joy": 0.3479863405227661,
-          "neutral": 0.5782271027565002,
-          "sadness": 0.0210697203874588,
-          "surprise": 0.01085721142590046
+          "others": 0.9640173316001892,
+          "joy": 0.02959921397268772,
+          "surprise": 0.003947151824831963,
+          "fear": 0.0011193075915798545,
+          "disgust": 0.0004905904643237591,
+          "anger": 0.0004525552212726325,
+          "sadness": 0.00037378829438239336
         }
       }
     },
@@ -380,28 +380,28 @@
       "face": {
         "dominant": "happy",
         "scores": {
-          "angry": 0.08636802434921265,
-          "disgust": 0.0023436169140040874,
-          "fear": 1.1755177974700928,
-          "happy": 54.671875,
-          "sad": 0.3355981707572937,
-          "surprise": 0.017211681231856346,
-          "neutral": 43.71107864379883
+          "angry": 0.0863681435585022,
+          "disgust": 0.002343633444979787,
+          "fear": 1.1755191087722778,
+          "happy": 54.67190170288086,
+          "sad": 0.33559831976890564,
+          "surprise": 0.017211752012372017,
+          "neutral": 43.7110595703125
         }
       },
       "text": {
         "segment_start": 0.0,
         "segment_end": 9.0,
-        "content": "Hola, soy Gisael y este es el tercer video para probar nuestra inteligencia artificial y si puede reconocer emociones faciales.",
-        "dominant": "neutral",
+        "content": "Hola, soy Gisael y este es el tercer vídeo para probar nuestra inteligencia artificial y si puede reconocer emociones faciales.",
+        "dominant": "others",
         "scores": {
-          "anger": 0.011467252857983112,
-          "disgust": 0.027050288394093513,
-          "fear": 0.003342053387314081,
-          "joy": 0.3479863405227661,
-          "neutral": 0.5782271027565002,
-          "sadness": 0.0210697203874588,
-          "surprise": 0.01085721142590046
+          "others": 0.9640173316001892,
+          "joy": 0.02959921397268772,
+          "surprise": 0.003947151824831963,
+          "fear": 0.0011193075915798545,
+          "disgust": 0.0004905904643237591,
+          "anger": 0.0004525552212726325,
+          "sadness": 0.00037378829438239336
         }
       }
     },
@@ -411,28 +411,28 @@
       "face": {
         "dominant": "happy",
         "scores": {
-          "angry": 0.00716853141784668,
-          "disgust": 0.00023781729396432638,
-          "fear": 0.11821272224187851,
+          "angry": 0.007168523967266083,
+          "disgust": 0.00023781752679497004,
+          "fear": 0.11821260303258896,
           "happy": 95.50765991210938,
-          "sad": 0.11388170719146729,
-          "surprise": 0.010062068700790405,
-          "neutral": 4.2427802085876465
+          "sad": 0.1138814389705658,
+          "surprise": 0.010062060318887234,
+          "neutral": 4.2427778244018555
         }
       },
       "text": {
         "segment_start": 0.0,
         "segment_end": 9.0,
-        "content": "Hola, soy Gisael y este es el tercer video para probar nuestra inteligencia artificial y si puede reconocer emociones faciales.",
-        "dominant": "neutral",
+        "content": "Hola, soy Gisael y este es el tercer vídeo para probar nuestra inteligencia artificial y si puede reconocer emociones faciales.",
+        "dominant": "others",
         "scores": {
-          "anger": 0.011467252857983112,
-          "disgust": 0.027050288394093513,
-          "fear": 0.003342053387314081,
-          "joy": 0.3479863405227661,
-          "neutral": 0.5782271027565002,
-          "sadness": 0.0210697203874588,
-          "surprise": 0.01085721142590046
+          "others": 0.9640173316001892,
+          "joy": 0.02959921397268772,
+          "surprise": 0.003947151824831963,
+          "fear": 0.0011193075915798545,
+          "disgust": 0.0004905904643237591,
+          "anger": 0.0004525552212726325,
+          "sadness": 0.00037378829438239336
         }
       }
     },
@@ -442,28 +442,28 @@
       "face": {
         "dominant": "neutral",
         "scores": {
-          "angry": 0.0614142008125782,
-          "disgust": 0.00020220025908201933,
-          "fear": 2.6455798149108887,
-          "happy": 28.255189895629883,
-          "sad": 1.6377582550048828,
-          "surprise": 0.002043674001470208,
-          "neutral": 67.39781951904297
+          "angry": 0.06141422688961029,
+          "disgust": 0.00020220049191266298,
+          "fear": 2.6455771923065186,
+          "happy": 28.255098342895508,
+          "sad": 1.6377604007720947,
+          "surprise": 0.0020436723716557026,
+          "neutral": 67.39789581298828
         }
       },
       "text": {
         "segment_start": 0.0,
         "segment_end": 9.0,
-        "content": "Hola, soy Gisael y este es el tercer video para probar nuestra inteligencia artificial y si puede reconocer emociones faciales.",
-        "dominant": "neutral",
+        "content": "Hola, soy Gisael y este es el tercer vídeo para probar nuestra inteligencia artificial y si puede reconocer emociones faciales.",
+        "dominant": "others",
         "scores": {
-          "anger": 0.011467252857983112,
-          "disgust": 0.027050288394093513,
-          "fear": 0.003342053387314081,
-          "joy": 0.3479863405227661,
-          "neutral": 0.5782271027565002,
-          "sadness": 0.0210697203874588,
-          "surprise": 0.01085721142590046
+          "others": 0.9640173316001892,
+          "joy": 0.02959921397268772,
+          "surprise": 0.003947151824831963,
+          "fear": 0.0011193075915798545,
+          "disgust": 0.0004905904643237591,
+          "anger": 0.0004525552212726325,
+          "sadness": 0.00037378829438239336
         }
       }
     },
@@ -473,28 +473,28 @@
       "face": {
         "dominant": "happy",
         "scores": {
-          "angry": 9.534443233860657e-05,
-          "disgust": 1.694025142384703e-09,
-          "fear": 0.0005713218124583364,
-          "happy": 96.86456298828125,
-          "sad": 0.0010524775134399533,
-          "surprise": 0.0008676437428221107,
-          "neutral": 3.132845878601074
+          "angry": 9.534414857625961e-05,
+          "disgust": 1.6940218117156292e-09,
+          "fear": 0.0005713201826438308,
+          "happy": 96.86454772949219,
+          "sad": 0.0010524733224883676,
+          "surprise": 0.0008676419965922832,
+          "neutral": 3.132852792739868
         }
       },
       "text": {
         "segment_start": 0.0,
         "segment_end": 9.0,
-        "content": "Hola, soy Gisael y este es el tercer video para probar nuestra inteligencia artificial y si puede reconocer emociones faciales.",
-        "dominant": "neutral",
+        "content": "Hola, soy Gisael y este es el tercer vídeo para probar nuestra inteligencia artificial y si puede reconocer emociones faciales.",
+        "dominant": "others",
         "scores": {
-          "anger": 0.011467252857983112,
-          "disgust": 0.027050288394093513,
-          "fear": 0.003342053387314081,
-          "joy": 0.3479863405227661,
-          "neutral": 0.5782271027565002,
-          "sadness": 0.0210697203874588,
-          "surprise": 0.01085721142590046
+          "others": 0.9640173316001892,
+          "joy": 0.02959921397268772,
+          "surprise": 0.003947151824831963,
+          "fear": 0.0011193075915798545,
+          "disgust": 0.0004905904643237591,
+          "anger": 0.0004525552212726325,
+          "sadness": 0.00037378829438239336
         }
       }
     },
@@ -504,28 +504,28 @@
       "face": {
         "dominant": "happy",
         "scores": {
-          "angry": 0.05417376384139061,
-          "disgust": 0.00012606951349880546,
-          "fear": 0.39171040058135986,
-          "happy": 84.03048706054688,
-          "sad": 0.2761865556240082,
-          "surprise": 0.008674288168549538,
-          "neutral": 15.238648414611816
+          "angry": 0.054173924028873444,
+          "disgust": 0.00012607018288690597,
+          "fear": 0.39171138405799866,
+          "happy": 84.03045654296875,
+          "sad": 0.27618712186813354,
+          "surprise": 0.008674283511936665,
+          "neutral": 15.238669395446777
         }
       },
       "text": {
         "segment_start": 0.0,
         "segment_end": 9.0,
-        "content": "Hola, soy Gisael y este es el tercer video para probar nuestra inteligencia artificial y si puede reconocer emociones faciales.",
-        "dominant": "neutral",
+        "content": "Hola, soy Gisael y este es el tercer vídeo para probar nuestra inteligencia artificial y si puede reconocer emociones faciales.",
+        "dominant": "others",
         "scores": {
-          "anger": 0.011467252857983112,
-          "disgust": 0.027050288394093513,
-          "fear": 0.003342053387314081,
-          "joy": 0.3479863405227661,
-          "neutral": 0.5782271027565002,
-          "sadness": 0.0210697203874588,
-          "surprise": 0.01085721142590046
+          "others": 0.9640173316001892,
+          "joy": 0.02959921397268772,
+          "surprise": 0.003947151824831963,
+          "fear": 0.0011193075915798545,
+          "disgust": 0.0004905904643237591,
+          "anger": 0.0004525552212726325,
+          "sadness": 0.00037378829438239336
         }
       }
     },
@@ -535,28 +535,28 @@
       "face": {
         "dominant": "happy",
         "scores": {
-          "angry": 0.2529635429382324,
-          "disgust": 0.002855584491044283,
-          "fear": 6.148936748504639,
-          "happy": 88.83450317382812,
-          "sad": 0.1945253163576126,
-          "surprise": 0.05601837858557701,
-          "neutral": 4.510193824768066
+          "angry": 0.25296396017074585,
+          "disgust": 0.002855586586520076,
+          "fear": 6.148946285247803,
+          "happy": 88.8344955444336,
+          "sad": 0.1945258229970932,
+          "surprise": 0.05601844564080238,
+          "neutral": 4.510196685791016
         }
       },
       "text": {
         "segment_start": 0.0,
         "segment_end": 9.0,
-        "content": "Hola, soy Gisael y este es el tercer video para probar nuestra inteligencia artificial y si puede reconocer emociones faciales.",
-        "dominant": "neutral",
+        "content": "Hola, soy Gisael y este es el tercer vídeo para probar nuestra inteligencia artificial y si puede reconocer emociones faciales.",
+        "dominant": "others",
         "scores": {
-          "anger": 0.011467252857983112,
-          "disgust": 0.027050288394093513,
-          "fear": 0.003342053387314081,
-          "joy": 0.3479863405227661,
-          "neutral": 0.5782271027565002,
-          "sadness": 0.0210697203874588,
-          "surprise": 0.01085721142590046
+          "others": 0.9640173316001892,
+          "joy": 0.02959921397268772,
+          "surprise": 0.003947151824831963,
+          "fear": 0.0011193075915798545,
+          "disgust": 0.0004905904643237591,
+          "anger": 0.0004525552212726325,
+          "sadness": 0.00037378829438239336
         }
       }
     },
@@ -566,28 +566,28 @@
       "face": {
         "dominant": "happy",
         "scores": {
-          "angry": 0.0031540305353701115,
-          "disgust": 1.7603710148250684e-05,
-          "fear": 0.21795642375946045,
-          "happy": 59.23777389526367,
-          "sad": 0.6067206263542175,
-          "surprise": 0.0015464489115402102,
-          "neutral": 39.93283462524414
+          "angry": 0.0031540237832814455,
+          "disgust": 1.7603653759579174e-05,
+          "fear": 0.21795549988746643,
+          "happy": 59.23786163330078,
+          "sad": 0.6067185997962952,
+          "surprise": 0.001546455780044198,
+          "neutral": 39.9327507019043
         }
       },
       "text": {
         "segment_start": 0.0,
         "segment_end": 9.0,
-        "content": "Hola, soy Gisael y este es el tercer video para probar nuestra inteligencia artificial y si puede reconocer emociones faciales.",
-        "dominant": "neutral",
+        "content": "Hola, soy Gisael y este es el tercer vídeo para probar nuestra inteligencia artificial y si puede reconocer emociones faciales.",
+        "dominant": "others",
         "scores": {
-          "anger": 0.011467252857983112,
-          "disgust": 0.027050288394093513,
-          "fear": 0.003342053387314081,
-          "joy": 0.3479863405227661,
-          "neutral": 0.5782271027565002,
-          "sadness": 0.0210697203874588,
-          "surprise": 0.01085721142590046
+          "others": 0.9640173316001892,
+          "joy": 0.02959921397268772,
+          "surprise": 0.003947151824831963,
+          "fear": 0.0011193075915798545,
+          "disgust": 0.0004905904643237591,
+          "anger": 0.0004525552212726325,
+          "sadness": 0.00037378829438239336
         }
       }
     },
@@ -597,28 +597,28 @@
       "face": {
         "dominant": "happy",
         "scores": {
-          "angry": 0.017097510397434235,
-          "disgust": 4.557624561130069e-05,
-          "fear": 0.14615385234355927,
-          "happy": 93.21090698242188,
-          "sad": 0.06750547140836716,
-          "surprise": 0.002400822238996625,
-          "neutral": 6.555880546569824
+          "angry": 0.017097480595111847,
+          "disgust": 4.557616921374574e-05,
+          "fear": 0.1461533159017563,
+          "happy": 93.21092224121094,
+          "sad": 0.0675053820014,
+          "surprise": 0.002400820143520832,
+          "neutral": 6.555870532989502
         }
       },
       "text": {
         "segment_start": 9.0,
         "segment_end": 17.0,
-        "content": "Ahora mismo estoy haciendo la cara feliz, en este video iré cambiando de emociones para ver si es capaz de reconocerlos.",
-        "dominant": "neutral",
+        "content": "Ahora mismo estoy haciendo la cara feliz, en este vídeo iré cambiando de emociones para ver si es capaz de reconocerlos.",
+        "dominant": "joy",
         "scores": {
-          "anger": 0.09534106403589249,
-          "disgust": 0.055598966777324677,
-          "fear": 0.07450266182422638,
-          "joy": 0.016926029697060585,
-          "neutral": 0.7045093178749084,
-          "sadness": 0.022992944344878197,
-          "surprise": 0.03012891858816147
+          "joy": 0.9156627655029297,
+          "others": 0.06817741692066193,
+          "sadness": 0.011047901585698128,
+          "surprise": 0.002597682410851121,
+          "fear": 0.0010899814078584313,
+          "disgust": 0.0008066511945798993,
+          "anger": 0.0006175950402393937
         }
       }
     },
@@ -628,28 +628,28 @@
       "face": {
         "dominant": "happy",
         "scores": {
-          "angry": 0.010509488172829151,
-          "disgust": 7.060899224597961e-05,
-          "fear": 0.3298705220222473,
-          "happy": 61.06680679321289,
-          "sad": 0.5748017430305481,
-          "surprise": 0.0029591431375592947,
-          "neutral": 38.01498031616211
+          "angry": 0.010509475134313107,
+          "disgust": 7.060870848363265e-05,
+          "fear": 0.3298701345920563,
+          "happy": 61.06684875488281,
+          "sad": 0.574799656867981,
+          "surprise": 0.0029591394122689962,
+          "neutral": 38.01494598388672
         }
       },
       "text": {
         "segment_start": 9.0,
         "segment_end": 17.0,
-        "content": "Ahora mismo estoy haciendo la cara feliz, en este video iré cambiando de emociones para ver si es capaz de reconocerlos.",
-        "dominant": "neutral",
+        "content": "Ahora mismo estoy haciendo la cara feliz, en este vídeo iré cambiando de emociones para ver si es capaz de reconocerlos.",
+        "dominant": "joy",
         "scores": {
-          "anger": 0.09534106403589249,
-          "disgust": 0.055598966777324677,
-          "fear": 0.07450266182422638,
-          "joy": 0.016926029697060585,
-          "neutral": 0.7045093178749084,
-          "sadness": 0.022992944344878197,
-          "surprise": 0.03012891858816147
+          "joy": 0.9156627655029297,
+          "others": 0.06817741692066193,
+          "sadness": 0.011047901585698128,
+          "surprise": 0.002597682410851121,
+          "fear": 0.0010899814078584313,
+          "disgust": 0.0008066511945798993,
+          "anger": 0.0006175950402393937
         }
       }
     },
@@ -660,27 +660,27 @@
         "dominant": "happy",
         "scores": {
           "angry": 0.00012593883730005473,
-          "disgust": 2.4074270754681493e-07,
-          "fear": 0.0068924459628760815,
+          "disgust": 2.407431622941658e-07,
+          "fear": 0.006892458535730839,
           "happy": 99.2918472290039,
-          "sad": 0.005755302030593157,
-          "surprise": 0.00022022490156814456,
-          "neutral": 0.695152759552002
+          "sad": 0.0057553076185286045,
+          "surprise": 0.00022022405755706131,
+          "neutral": 0.6951531171798706
         }
       },
       "text": {
         "segment_start": 9.0,
         "segment_end": 17.0,
-        "content": "Ahora mismo estoy haciendo la cara feliz, en este video iré cambiando de emociones para ver si es capaz de reconocerlos.",
-        "dominant": "neutral",
+        "content": "Ahora mismo estoy haciendo la cara feliz, en este vídeo iré cambiando de emociones para ver si es capaz de reconocerlos.",
+        "dominant": "joy",
         "scores": {
-          "anger": 0.09534106403589249,
-          "disgust": 0.055598966777324677,
-          "fear": 0.07450266182422638,
-          "joy": 0.016926029697060585,
-          "neutral": 0.7045093178749084,
-          "sadness": 0.022992944344878197,
-          "surprise": 0.03012891858816147
+          "joy": 0.9156627655029297,
+          "others": 0.06817741692066193,
+          "sadness": 0.011047901585698128,
+          "surprise": 0.002597682410851121,
+          "fear": 0.0010899814078584313,
+          "disgust": 0.0008066511945798993,
+          "anger": 0.0006175950402393937
         }
       }
     },
@@ -690,28 +690,28 @@
       "face": {
         "dominant": "happy",
         "scores": {
-          "angry": 0.02321765571832657,
-          "disgust": 0.00016567466082051396,
-          "fear": 0.07055747509002686,
+          "angry": 0.023217787966132164,
+          "disgust": 0.00016567578131798655,
+          "fear": 0.07055778056383133,
           "happy": 97.95851135253906,
-          "sad": 0.2314520627260208,
-          "surprise": 0.0009897338459268212,
+          "sad": 0.23145295679569244,
+          "surprise": 0.0009897355921566486,
           "neutral": 1.71510648727417
         }
       },
       "text": {
         "segment_start": 9.0,
         "segment_end": 17.0,
-        "content": "Ahora mismo estoy haciendo la cara feliz, en este video iré cambiando de emociones para ver si es capaz de reconocerlos.",
-        "dominant": "neutral",
+        "content": "Ahora mismo estoy haciendo la cara feliz, en este vídeo iré cambiando de emociones para ver si es capaz de reconocerlos.",
+        "dominant": "joy",
         "scores": {
-          "anger": 0.09534106403589249,
-          "disgust": 0.055598966777324677,
-          "fear": 0.07450266182422638,
-          "joy": 0.016926029697060585,
-          "neutral": 0.7045093178749084,
-          "sadness": 0.022992944344878197,
-          "surprise": 0.03012891858816147
+          "joy": 0.9156627655029297,
+          "others": 0.06817741692066193,
+          "sadness": 0.011047901585698128,
+          "surprise": 0.002597682410851121,
+          "fear": 0.0010899814078584313,
+          "disgust": 0.0008066511945798993,
+          "anger": 0.0006175950402393937
         }
       }
     },
@@ -721,28 +721,28 @@
       "face": {
         "dominant": "neutral",
         "scores": {
-          "angry": 0.978441059589386,
-          "disgust": 0.005277019925415516,
-          "fear": 0.5942847728729248,
-          "happy": 27.462890625,
-          "sad": 1.8465287685394287,
-          "surprise": 0.0696524828672409,
-          "neutral": 69.04293060302734
+          "angry": 0.9784427285194397,
+          "disgust": 0.005277029238641262,
+          "fear": 0.5942858457565308,
+          "happy": 27.462894439697266,
+          "sad": 1.8465310335159302,
+          "surprise": 0.06965263932943344,
+          "neutral": 69.04291534423828
         }
       },
       "text": {
         "segment_start": 9.0,
         "segment_end": 17.0,
-        "content": "Ahora mismo estoy haciendo la cara feliz, en este video iré cambiando de emociones para ver si es capaz de reconocerlos.",
-        "dominant": "neutral",
+        "content": "Ahora mismo estoy haciendo la cara feliz, en este vídeo iré cambiando de emociones para ver si es capaz de reconocerlos.",
+        "dominant": "joy",
         "scores": {
-          "anger": 0.09534106403589249,
-          "disgust": 0.055598966777324677,
-          "fear": 0.07450266182422638,
-          "joy": 0.016926029697060585,
-          "neutral": 0.7045093178749084,
-          "sadness": 0.022992944344878197,
-          "surprise": 0.03012891858816147
+          "joy": 0.9156627655029297,
+          "others": 0.06817741692066193,
+          "sadness": 0.011047901585698128,
+          "surprise": 0.002597682410851121,
+          "fear": 0.0010899814078584313,
+          "disgust": 0.0008066511945798993,
+          "anger": 0.0006175950402393937
         }
       }
     },
@@ -752,28 +752,28 @@
       "face": {
         "dominant": "happy",
         "scores": {
-          "angry": 0.0722079947590828,
-          "disgust": 0.0010880337795242667,
-          "fear": 1.0724523067474365,
-          "happy": 60.672760009765625,
-          "sad": 0.21613410115242004,
-          "surprise": 0.01125828456133604,
-          "neutral": 37.9541015625
+          "angry": 0.07220783829689026,
+          "disgust": 0.0010880300542339683,
+          "fear": 1.0724515914916992,
+          "happy": 60.67277526855469,
+          "sad": 0.21613404154777527,
+          "surprise": 0.011258256621658802,
+          "neutral": 37.954078674316406
         }
       },
       "text": {
         "segment_start": 9.0,
         "segment_end": 17.0,
-        "content": "Ahora mismo estoy haciendo la cara feliz, en este video iré cambiando de emociones para ver si es capaz de reconocerlos.",
-        "dominant": "neutral",
+        "content": "Ahora mismo estoy haciendo la cara feliz, en este vídeo iré cambiando de emociones para ver si es capaz de reconocerlos.",
+        "dominant": "joy",
         "scores": {
-          "anger": 0.09534106403589249,
-          "disgust": 0.055598966777324677,
-          "fear": 0.07450266182422638,
-          "joy": 0.016926029697060585,
-          "neutral": 0.7045093178749084,
-          "sadness": 0.022992944344878197,
-          "surprise": 0.03012891858816147
+          "joy": 0.9156627655029297,
+          "others": 0.06817741692066193,
+          "sadness": 0.011047901585698128,
+          "surprise": 0.002597682410851121,
+          "fear": 0.0010899814078584313,
+          "disgust": 0.0008066511945798993,
+          "anger": 0.0006175950402393937
         }
       }
     },
@@ -783,28 +783,28 @@
       "face": {
         "dominant": "happy",
         "scores": {
-          "angry": 0.0045157489366829395,
-          "disgust": 0.00014770787674933672,
-          "fear": 0.2861654758453369,
-          "happy": 93.94044494628906,
-          "sad": 0.08050326257944107,
-          "surprise": 0.002095770789310336,
-          "neutral": 5.686127185821533
+          "angry": 0.004515743814408779,
+          "disgust": 0.0001477071491535753,
+          "fear": 0.28616487979888916,
+          "happy": 93.94043731689453,
+          "sad": 0.08050313591957092,
+          "surprise": 0.0020957665983587503,
+          "neutral": 5.686134338378906
         }
       },
       "text": {
         "segment_start": 9.0,
         "segment_end": 17.0,
-        "content": "Ahora mismo estoy haciendo la cara feliz, en este video iré cambiando de emociones para ver si es capaz de reconocerlos.",
-        "dominant": "neutral",
+        "content": "Ahora mismo estoy haciendo la cara feliz, en este vídeo iré cambiando de emociones para ver si es capaz de reconocerlos.",
+        "dominant": "joy",
         "scores": {
-          "anger": 0.09534106403589249,
-          "disgust": 0.055598966777324677,
-          "fear": 0.07450266182422638,
-          "joy": 0.016926029697060585,
-          "neutral": 0.7045093178749084,
-          "sadness": 0.022992944344878197,
-          "surprise": 0.03012891858816147
+          "joy": 0.9156627655029297,
+          "others": 0.06817741692066193,
+          "sadness": 0.011047901585698128,
+          "surprise": 0.002597682410851121,
+          "fear": 0.0010899814078584313,
+          "disgust": 0.0008066511945798993,
+          "anger": 0.0006175950402393937
         }
       }
     },
@@ -814,28 +814,28 @@
       "face": {
         "dominant": "happy",
         "scores": {
-          "angry": 0.004427941050380468,
-          "disgust": 1.540656558063347e-05,
-          "fear": 0.06805360317230225,
-          "happy": 89.50080871582031,
-          "sad": 0.07905060052871704,
-          "surprise": 0.0011343092191964388,
-          "neutral": 10.346513748168945
+          "angry": 0.004427986219525337,
+          "disgust": 1.5406794773298316e-05,
+          "fear": 0.06805428862571716,
+          "happy": 89.50077819824219,
+          "sad": 0.07905102521181107,
+          "surprise": 0.001134318532422185,
+          "neutral": 10.34654712677002
         }
       },
       "text": {
         "segment_start": 9.0,
         "segment_end": 17.0,
-        "content": "Ahora mismo estoy haciendo la cara feliz, en este video iré cambiando de emociones para ver si es capaz de reconocerlos.",
-        "dominant": "neutral",
+        "content": "Ahora mismo estoy haciendo la cara feliz, en este vídeo iré cambiando de emociones para ver si es capaz de reconocerlos.",
+        "dominant": "joy",
         "scores": {
-          "anger": 0.09534106403589249,
-          "disgust": 0.055598966777324677,
-          "fear": 0.07450266182422638,
-          "joy": 0.016926029697060585,
-          "neutral": 0.7045093178749084,
-          "sadness": 0.022992944344878197,
-          "surprise": 0.03012891858816147
+          "joy": 0.9156627655029297,
+          "others": 0.06817741692066193,
+          "sadness": 0.011047901585698128,
+          "surprise": 0.002597682410851121,
+          "fear": 0.0010899814078584313,
+          "disgust": 0.0008066511945798993,
+          "anger": 0.0006175950402393937
         }
       }
     },
@@ -845,28 +845,28 @@
       "face": {
         "dominant": "happy",
         "scores": {
-          "angry": 0.0026276949793100357,
-          "disgust": 3.3284229630226037e-06,
-          "fear": 0.1811477243900299,
-          "happy": 77.28988647460938,
-          "sad": 2.3396406173706055,
-          "surprise": 0.0006747384904883802,
-          "neutral": 20.186016082763672
+          "angry": 0.002627690089866519,
+          "disgust": 3.3284168239333667e-06,
+          "fear": 0.18114721775054932,
+          "happy": 77.2898941040039,
+          "sad": 2.339637041091919,
+          "surprise": 0.000674736627843231,
+          "neutral": 20.18602180480957
         }
       },
       "text": {
         "segment_start": 9.0,
         "segment_end": 17.0,
-        "content": "Ahora mismo estoy haciendo la cara feliz, en este video iré cambiando de emociones para ver si es capaz de reconocerlos.",
-        "dominant": "neutral",
+        "content": "Ahora mismo estoy haciendo la cara feliz, en este vídeo iré cambiando de emociones para ver si es capaz de reconocerlos.",
+        "dominant": "joy",
         "scores": {
-          "anger": 0.09534106403589249,
-          "disgust": 0.055598966777324677,
-          "fear": 0.07450266182422638,
-          "joy": 0.016926029697060585,
-          "neutral": 0.7045093178749084,
-          "sadness": 0.022992944344878197,
-          "surprise": 0.03012891858816147
+          "joy": 0.9156627655029297,
+          "others": 0.06817741692066193,
+          "sadness": 0.011047901585698128,
+          "surprise": 0.002597682410851121,
+          "fear": 0.0010899814078584313,
+          "disgust": 0.0008066511945798993,
+          "anger": 0.0006175950402393937
         }
       }
     },
@@ -876,28 +876,28 @@
       "face": {
         "dominant": "happy",
         "scores": {
-          "angry": 0.08609975129365921,
-          "disgust": 0.000551314209587872,
-          "fear": 0.39617931842803955,
+          "angry": 0.08609974384307861,
+          "disgust": 0.0005513146752491593,
+          "fear": 0.39618024230003357,
           "happy": 65.55081939697266,
-          "sad": 0.4087807238101959,
-          "surprise": 0.034676577895879745,
-          "neutral": 33.52288818359375
+          "sad": 0.4087814688682556,
+          "surprise": 0.03467660769820213,
+          "neutral": 33.52289962768555
         }
       },
       "text": {
         "segment_start": 9.0,
         "segment_end": 17.0,
-        "content": "Ahora mismo estoy haciendo la cara feliz, en este video iré cambiando de emociones para ver si es capaz de reconocerlos.",
-        "dominant": "neutral",
+        "content": "Ahora mismo estoy haciendo la cara feliz, en este vídeo iré cambiando de emociones para ver si es capaz de reconocerlos.",
+        "dominant": "joy",
         "scores": {
-          "anger": 0.09534106403589249,
-          "disgust": 0.055598966777324677,
-          "fear": 0.07450266182422638,
-          "joy": 0.016926029697060585,
-          "neutral": 0.7045093178749084,
-          "sadness": 0.022992944344878197,
-          "surprise": 0.03012891858816147
+          "joy": 0.9156627655029297,
+          "others": 0.06817741692066193,
+          "sadness": 0.011047901585698128,
+          "surprise": 0.002597682410851121,
+          "fear": 0.0010899814078584313,
+          "disgust": 0.0008066511945798993,
+          "anger": 0.0006175950402393937
         }
       }
     },
@@ -907,28 +907,28 @@
       "face": {
         "dominant": "happy",
         "scores": {
-          "angry": 0.05738995224237442,
-          "disgust": 0.0005721272900700569,
-          "fear": 0.17246823012828827,
+          "angry": 0.05739029124379158,
+          "disgust": 0.0005721283960156143,
+          "fear": 0.17246872186660767,
           "happy": 84.71876525878906,
-          "sad": 0.22311513125896454,
-          "surprise": 0.008037342689931393,
-          "neutral": 14.81965160369873
+          "sad": 0.2231154590845108,
+          "surprise": 0.008037352003157139,
+          "neutral": 14.819658279418945
         }
       },
       "text": {
         "segment_start": 9.0,
         "segment_end": 17.0,
-        "content": "Ahora mismo estoy haciendo la cara feliz, en este video iré cambiando de emociones para ver si es capaz de reconocerlos.",
-        "dominant": "neutral",
+        "content": "Ahora mismo estoy haciendo la cara feliz, en este vídeo iré cambiando de emociones para ver si es capaz de reconocerlos.",
+        "dominant": "joy",
         "scores": {
-          "anger": 0.09534106403589249,
-          "disgust": 0.055598966777324677,
-          "fear": 0.07450266182422638,
-          "joy": 0.016926029697060585,
-          "neutral": 0.7045093178749084,
-          "sadness": 0.022992944344878197,
-          "surprise": 0.03012891858816147
+          "joy": 0.9156627655029297,
+          "others": 0.06817741692066193,
+          "sadness": 0.011047901585698128,
+          "surprise": 0.002597682410851121,
+          "fear": 0.0010899814078584313,
+          "disgust": 0.0008066511945798993,
+          "anger": 0.0006175950402393937
         }
       }
     },
@@ -938,28 +938,28 @@
       "face": {
         "dominant": "neutral",
         "scores": {
-          "angry": 0.0007377351867035031,
-          "disgust": 1.0305088835593779e-06,
-          "fear": 0.8946849703788757,
-          "happy": 32.17116165161133,
-          "sad": 0.5946317911148071,
-          "surprise": 1.403127908706665,
-          "neutral": 64.93565368652344
+          "angry": 0.0007377334986813366,
+          "disgust": 1.0305004707333865e-06,
+          "fear": 0.8946821093559265,
+          "happy": 32.17094802856445,
+          "sad": 0.594631552696228,
+          "surprise": 1.4031251668930054,
+          "neutral": 64.93587493896484
         }
       },
       "text": {
         "segment_start": 9.0,
         "segment_end": 17.0,
-        "content": "Ahora mismo estoy haciendo la cara feliz, en este video iré cambiando de emociones para ver si es capaz de reconocerlos.",
-        "dominant": "neutral",
+        "content": "Ahora mismo estoy haciendo la cara feliz, en este vídeo iré cambiando de emociones para ver si es capaz de reconocerlos.",
+        "dominant": "joy",
         "scores": {
-          "anger": 0.09534106403589249,
-          "disgust": 0.055598966777324677,
-          "fear": 0.07450266182422638,
-          "joy": 0.016926029697060585,
-          "neutral": 0.7045093178749084,
-          "sadness": 0.022992944344878197,
-          "surprise": 0.03012891858816147
+          "joy": 0.9156627655029297,
+          "others": 0.06817741692066193,
+          "sadness": 0.011047901585698128,
+          "surprise": 0.002597682410851121,
+          "fear": 0.0010899814078584313,
+          "disgust": 0.0008066511945798993,
+          "anger": 0.0006175950402393937
         }
       }
     },
@@ -969,28 +969,28 @@
       "face": {
         "dominant": "happy",
         "scores": {
-          "angry": 0.0002454683417454362,
-          "disgust": 2.782527985800698e-08,
-          "fear": 0.0009051627712324262,
+          "angry": 0.0002454674104228616,
+          "disgust": 2.7825016957194748e-08,
+          "fear": 0.0009051584056578577,
           "happy": 97.06095886230469,
-          "sad": 0.001490273280069232,
-          "surprise": 0.00365831283852458,
+          "sad": 0.001490264548920095,
+          "surprise": 0.0036582991015166044,
           "neutral": 2.9327361583709717
         }
       },
       "text": {
         "segment_start": 9.0,
         "segment_end": 17.0,
-        "content": "Ahora mismo estoy haciendo la cara feliz, en este video iré cambiando de emociones para ver si es capaz de reconocerlos.",
-        "dominant": "neutral",
+        "content": "Ahora mismo estoy haciendo la cara feliz, en este vídeo iré cambiando de emociones para ver si es capaz de reconocerlos.",
+        "dominant": "joy",
         "scores": {
-          "anger": 0.09534106403589249,
-          "disgust": 0.055598966777324677,
-          "fear": 0.07450266182422638,
-          "joy": 0.016926029697060585,
-          "neutral": 0.7045093178749084,
-          "sadness": 0.022992944344878197,
-          "surprise": 0.03012891858816147
+          "joy": 0.9156627655029297,
+          "others": 0.06817741692066193,
+          "sadness": 0.011047901585698128,
+          "surprise": 0.002597682410851121,
+          "fear": 0.0010899814078584313,
+          "disgust": 0.0008066511945798993,
+          "anger": 0.0006175950402393937
         }
       }
     },
@@ -1000,28 +1000,28 @@
       "face": {
         "dominant": "happy",
         "scores": {
-          "angry": 0.044453978538513184,
-          "disgust": 7.702971925027668e-05,
-          "fear": 0.2503215968608856,
-          "happy": 93.25159454345703,
-          "sad": 0.03901099041104317,
-          "surprise": 0.07573311030864716,
-          "neutral": 6.338812351226807
+          "angry": 0.04445439577102661,
+          "disgust": 7.703109440626577e-05,
+          "fear": 0.25032418966293335,
+          "happy": 93.25157928466797,
+          "sad": 0.03901128098368645,
+          "surprise": 0.07573338598012924,
+          "neutral": 6.3388190269470215
         }
       },
       "text": {
         "segment_start": 9.0,
         "segment_end": 17.0,
-        "content": "Ahora mismo estoy haciendo la cara feliz, en este video iré cambiando de emociones para ver si es capaz de reconocerlos.",
-        "dominant": "neutral",
+        "content": "Ahora mismo estoy haciendo la cara feliz, en este vídeo iré cambiando de emociones para ver si es capaz de reconocerlos.",
+        "dominant": "joy",
         "scores": {
-          "anger": 0.09534106403589249,
-          "disgust": 0.055598966777324677,
-          "fear": 0.07450266182422638,
-          "joy": 0.016926029697060585,
-          "neutral": 0.7045093178749084,
-          "sadness": 0.022992944344878197,
-          "surprise": 0.03012891858816147
+          "joy": 0.9156627655029297,
+          "others": 0.06817741692066193,
+          "sadness": 0.011047901585698128,
+          "surprise": 0.002597682410851121,
+          "fear": 0.0010899814078584313,
+          "disgust": 0.0008066511945798993,
+          "anger": 0.0006175950402393937
         }
       }
     },
@@ -1031,28 +1031,28 @@
       "face": {
         "dominant": "happy",
         "scores": {
-          "angry": 0.6642005443572998,
-          "disgust": 0.041553884744644165,
-          "fear": 7.808056354522705,
+          "angry": 0.6641993522644043,
+          "disgust": 0.0415540486574173,
+          "fear": 7.808034896850586,
           "happy": 64.30632781982422,
-          "sad": 2.9129891395568848,
-          "surprise": 0.05486215651035309,
-          "neutral": 24.212017059326172
+          "sad": 2.9129927158355713,
+          "surprise": 0.05486211180686951,
+          "neutral": 24.2120304107666
         }
       },
       "text": {
         "segment_start": 9.0,
         "segment_end": 17.0,
-        "content": "Ahora mismo estoy haciendo la cara feliz, en este video iré cambiando de emociones para ver si es capaz de reconocerlos.",
-        "dominant": "neutral",
+        "content": "Ahora mismo estoy haciendo la cara feliz, en este vídeo iré cambiando de emociones para ver si es capaz de reconocerlos.",
+        "dominant": "joy",
         "scores": {
-          "anger": 0.09534106403589249,
-          "disgust": 0.055598966777324677,
-          "fear": 0.07450266182422638,
-          "joy": 0.016926029697060585,
-          "neutral": 0.7045093178749084,
-          "sadness": 0.022992944344878197,
-          "surprise": 0.03012891858816147
+          "joy": 0.9156627655029297,
+          "others": 0.06817741692066193,
+          "sadness": 0.011047901585698128,
+          "surprise": 0.002597682410851121,
+          "fear": 0.0010899814078584313,
+          "disgust": 0.0008066511945798993,
+          "anger": 0.0006175950402393937
         }
       }
     },
@@ -1062,28 +1062,28 @@
       "face": {
         "dominant": "happy",
         "scores": {
-          "angry": 0.0022329085040837526,
-          "disgust": 1.7495587599114515e-05,
-          "fear": 0.021974319592118263,
-          "happy": 80.82868957519531,
-          "sad": 0.07867678254842758,
-          "surprise": 0.0001651704660616815,
-          "neutral": 19.068241119384766
+          "angry": 0.00223289686255157,
+          "disgust": 1.74955293914536e-05,
+          "fear": 0.02197420597076416,
+          "happy": 80.8287353515625,
+          "sad": 0.07867660373449326,
+          "surprise": 0.00016517023323103786,
+          "neutral": 19.068201065063477
         }
       },
       "text": {
         "segment_start": 9.0,
         "segment_end": 17.0,
-        "content": "Ahora mismo estoy haciendo la cara feliz, en este video iré cambiando de emociones para ver si es capaz de reconocerlos.",
-        "dominant": "neutral",
+        "content": "Ahora mismo estoy haciendo la cara feliz, en este vídeo iré cambiando de emociones para ver si es capaz de reconocerlos.",
+        "dominant": "joy",
         "scores": {
-          "anger": 0.09534106403589249,
-          "disgust": 0.055598966777324677,
-          "fear": 0.07450266182422638,
-          "joy": 0.016926029697060585,
-          "neutral": 0.7045093178749084,
-          "sadness": 0.022992944344878197,
-          "surprise": 0.03012891858816147
+          "joy": 0.9156627655029297,
+          "others": 0.06817741692066193,
+          "sadness": 0.011047901585698128,
+          "surprise": 0.002597682410851121,
+          "fear": 0.0010899814078584313,
+          "disgust": 0.0008066511945798993,
+          "anger": 0.0006175950402393937
         }
       }
     },
@@ -1093,12 +1093,12 @@
       "face": {
         "dominant": "neutral",
         "scores": {
-          "angry": 2.214325428009033,
-          "disgust": 0.0008651757379993796,
-          "fear": 0.2340451329946518,
-          "happy": 0.000500634138006717,
-          "sad": 3.3837990760803223,
-          "surprise": 4.47798856839654e-06,
+          "angry": 2.214324951171875,
+          "disgust": 0.0008651732932776213,
+          "fear": 0.23404456675052643,
+          "happy": 0.0005006346036680043,
+          "sad": 3.383798360824585,
+          "surprise": 4.4779717427445576e-06,
           "neutral": 94.16646575927734
         }
       },
@@ -1106,15 +1106,15 @@
         "segment_start": 17.0,
         "segment_end": 22.0,
         "content": "Ahora estoy haciendo la cara seria para ver si puede reconocer una cara seria.",
-        "dominant": "neutral",
+        "dominant": "others",
         "scores": {
-          "anger": 0.030485687777400017,
-          "disgust": 0.04190122336149216,
-          "fear": 0.04247046262025833,
-          "joy": 0.019485589116811752,
-          "neutral": 0.8325962424278259,
-          "sadness": 0.025092776864767075,
-          "surprise": 0.007967907004058361
+          "others": 0.99406898021698,
+          "surprise": 0.002117117866873741,
+          "sadness": 0.0011602286249399185,
+          "fear": 0.0009031195077113807,
+          "anger": 0.0006480341544374824,
+          "joy": 0.0006247170967981219,
+          "disgust": 0.0004776912392117083
         }
       }
     },
@@ -1124,28 +1124,28 @@
       "face": {
         "dominant": "neutral",
         "scores": {
-          "angry": 0.9323540925979614,
-          "disgust": 0.05882414057850838,
-          "fear": 4.075628280639648,
-          "happy": 0.2943725287914276,
-          "sad": 3.016525983810425,
-          "surprise": 0.0006869680364616215,
-          "neutral": 91.62161254882812
+          "angry": 0.9323513507843018,
+          "disgust": 0.058823779225349426,
+          "fear": 4.075637340545654,
+          "happy": 0.29437294602394104,
+          "sad": 3.0165257453918457,
+          "surprise": 0.0006869640201330185,
+          "neutral": 91.62159729003906
         }
       },
       "text": {
         "segment_start": 17.0,
         "segment_end": 22.0,
         "content": "Ahora estoy haciendo la cara seria para ver si puede reconocer una cara seria.",
-        "dominant": "neutral",
+        "dominant": "others",
         "scores": {
-          "anger": 0.030485687777400017,
-          "disgust": 0.04190122336149216,
-          "fear": 0.04247046262025833,
-          "joy": 0.019485589116811752,
-          "neutral": 0.8325962424278259,
-          "sadness": 0.025092776864767075,
-          "surprise": 0.007967907004058361
+          "others": 0.99406898021698,
+          "surprise": 0.002117117866873741,
+          "sadness": 0.0011602286249399185,
+          "fear": 0.0009031195077113807,
+          "anger": 0.0006480341544374824,
+          "joy": 0.0006247170967981219,
+          "disgust": 0.0004776912392117083
         }
       }
     },
@@ -1155,28 +1155,28 @@
       "face": {
         "dominant": "neutral",
         "scores": {
-          "angry": 2.238715648651123,
-          "disgust": 0.018080944195389748,
-          "fear": 11.927872657775879,
-          "happy": 1.4745612144470215,
-          "sad": 15.416468620300293,
-          "surprise": 0.016207020729780197,
-          "neutral": 68.90809631347656
+          "angry": 2.238717555999756,
+          "disgust": 0.018080921843647957,
+          "fear": 11.927888870239258,
+          "happy": 1.474563479423523,
+          "sad": 15.41647720336914,
+          "surprise": 0.01620706170797348,
+          "neutral": 68.90807342529297
         }
       },
       "text": {
         "segment_start": 17.0,
         "segment_end": 22.0,
         "content": "Ahora estoy haciendo la cara seria para ver si puede reconocer una cara seria.",
-        "dominant": "neutral",
+        "dominant": "others",
         "scores": {
-          "anger": 0.030485687777400017,
-          "disgust": 0.04190122336149216,
-          "fear": 0.04247046262025833,
-          "joy": 0.019485589116811752,
-          "neutral": 0.8325962424278259,
-          "sadness": 0.025092776864767075,
-          "surprise": 0.007967907004058361
+          "others": 0.99406898021698,
+          "surprise": 0.002117117866873741,
+          "sadness": 0.0011602286249399185,
+          "fear": 0.0009031195077113807,
+          "anger": 0.0006480341544374824,
+          "joy": 0.0006247170967981219,
+          "disgust": 0.0004776912392117083
         }
       }
     },
@@ -1186,28 +1186,28 @@
       "face": {
         "dominant": "fear",
         "scores": {
-          "angry": 20.017208099365234,
-          "disgust": 25.22658920288086,
-          "fear": 28.068330764770508,
-          "happy": 0.4096710681915283,
-          "sad": 4.847564220428467,
-          "surprise": 0.39802655577659607,
-          "neutral": 21.032611846923828
+          "angry": 20.01722526550293,
+          "disgust": 25.226699829101562,
+          "fear": 28.068248748779297,
+          "happy": 0.4096694588661194,
+          "sad": 4.847562789916992,
+          "surprise": 0.398025780916214,
+          "neutral": 21.032573699951172
         }
       },
       "text": {
         "segment_start": 17.0,
         "segment_end": 22.0,
         "content": "Ahora estoy haciendo la cara seria para ver si puede reconocer una cara seria.",
-        "dominant": "neutral",
+        "dominant": "others",
         "scores": {
-          "anger": 0.030485687777400017,
-          "disgust": 0.04190122336149216,
-          "fear": 0.04247046262025833,
-          "joy": 0.019485589116811752,
-          "neutral": 0.8325962424278259,
-          "sadness": 0.025092776864767075,
-          "surprise": 0.007967907004058361
+          "others": 0.99406898021698,
+          "surprise": 0.002117117866873741,
+          "sadness": 0.0011602286249399185,
+          "fear": 0.0009031195077113807,
+          "anger": 0.0006480341544374824,
+          "joy": 0.0006247170967981219,
+          "disgust": 0.0004776912392117083
         }
       }
     },
@@ -1217,28 +1217,28 @@
       "face": {
         "dominant": "neutral",
         "scores": {
-          "angry": 3.92742657661438,
-          "disgust": 0.046596188098192215,
-          "fear": 16.923696517944336,
-          "happy": 0.7756805419921875,
-          "sad": 10.029528617858887,
-          "surprise": 0.005282074678689241,
-          "neutral": 68.29179382324219
+          "angry": 3.9274256229400635,
+          "disgust": 0.04659627750515938,
+          "fear": 16.923662185668945,
+          "happy": 0.7756816744804382,
+          "sad": 10.029529571533203,
+          "surprise": 0.005282066762447357,
+          "neutral": 68.29182434082031
         }
       },
       "text": {
         "segment_start": 17.0,
         "segment_end": 22.0,
         "content": "Ahora estoy haciendo la cara seria para ver si puede reconocer una cara seria.",
-        "dominant": "neutral",
+        "dominant": "others",
         "scores": {
-          "anger": 0.030485687777400017,
-          "disgust": 0.04190122336149216,
-          "fear": 0.04247046262025833,
-          "joy": 0.019485589116811752,
-          "neutral": 0.8325962424278259,
-          "sadness": 0.025092776864767075,
-          "surprise": 0.007967907004058361
+          "others": 0.99406898021698,
+          "surprise": 0.002117117866873741,
+          "sadness": 0.0011602286249399185,
+          "fear": 0.0009031195077113807,
+          "anger": 0.0006480341544374824,
+          "joy": 0.0006247170967981219,
+          "disgust": 0.0004776912392117083
         }
       }
     },
@@ -1248,12 +1248,12 @@
       "face": {
         "dominant": "neutral",
         "scores": {
-          "angry": 0.30517902970314026,
-          "disgust": 0.09057773649692535,
-          "fear": 1.3399964570999146,
-          "happy": 0.2010461390018463,
-          "sad": 4.043526649475098,
-          "surprise": 0.0006984448409639299,
+          "angry": 0.30517899990081787,
+          "disgust": 0.09057755023241043,
+          "fear": 1.3399975299835205,
+          "happy": 0.20104610919952393,
+          "sad": 4.0435285568237305,
+          "surprise": 0.000698444782756269,
           "neutral": 94.01897430419922
         }
       },
@@ -1261,15 +1261,15 @@
         "segment_start": 17.0,
         "segment_end": 22.0,
         "content": "Ahora estoy haciendo la cara seria para ver si puede reconocer una cara seria.",
-        "dominant": "neutral",
+        "dominant": "others",
         "scores": {
-          "anger": 0.030485687777400017,
-          "disgust": 0.04190122336149216,
-          "fear": 0.04247046262025833,
-          "joy": 0.019485589116811752,
-          "neutral": 0.8325962424278259,
-          "sadness": 0.025092776864767075,
-          "surprise": 0.007967907004058361
+          "others": 0.99406898021698,
+          "surprise": 0.002117117866873741,
+          "sadness": 0.0011602286249399185,
+          "fear": 0.0009031195077113807,
+          "anger": 0.0006480341544374824,
+          "joy": 0.0006247170967981219,
+          "disgust": 0.0004776912392117083
         }
       }
     },
@@ -1279,28 +1279,28 @@
       "face": {
         "dominant": "neutral",
         "scores": {
-          "angry": 0.37522244453430176,
-          "disgust": 0.0005216101417317986,
-          "fear": 2.7377073764801025,
-          "happy": 2.39210844039917,
-          "sad": 1.6641631126403809,
-          "surprise": 0.0030938507989048958,
-          "neutral": 92.82718658447266
+          "angry": 0.3752228319644928,
+          "disgust": 0.000521611247677356,
+          "fear": 2.737708806991577,
+          "happy": 2.3921055793762207,
+          "sad": 1.6641608476638794,
+          "surprise": 0.0030938570853322744,
+          "neutral": 92.82719421386719
         }
       },
       "text": {
         "segment_start": 17.0,
         "segment_end": 22.0,
         "content": "Ahora estoy haciendo la cara seria para ver si puede reconocer una cara seria.",
-        "dominant": "neutral",
+        "dominant": "others",
         "scores": {
-          "anger": 0.030485687777400017,
-          "disgust": 0.04190122336149216,
-          "fear": 0.04247046262025833,
-          "joy": 0.019485589116811752,
-          "neutral": 0.8325962424278259,
-          "sadness": 0.025092776864767075,
-          "surprise": 0.007967907004058361
+          "others": 0.99406898021698,
+          "surprise": 0.002117117866873741,
+          "sadness": 0.0011602286249399185,
+          "fear": 0.0009031195077113807,
+          "anger": 0.0006480341544374824,
+          "joy": 0.0006247170967981219,
+          "disgust": 0.0004776912392117083
         }
       }
     },
@@ -1310,28 +1310,28 @@
       "face": {
         "dominant": "neutral",
         "scores": {
-          "angry": 7.50722599029541,
-          "disgust": 5.4982500076293945,
-          "fear": 22.345088958740234,
-          "happy": 0.08025646954774857,
-          "sad": 11.666801452636719,
-          "surprise": 0.01746283285319805,
-          "neutral": 52.88490676879883
+          "angry": 7.507230281829834,
+          "disgust": 5.498244285583496,
+          "fear": 22.345035552978516,
+          "happy": 0.08025631308555603,
+          "sad": 11.666799545288086,
+          "surprise": 0.01746279001235962,
+          "neutral": 52.884979248046875
         }
       },
       "text": {
         "segment_start": 17.0,
         "segment_end": 22.0,
         "content": "Ahora estoy haciendo la cara seria para ver si puede reconocer una cara seria.",
-        "dominant": "neutral",
+        "dominant": "others",
         "scores": {
-          "anger": 0.030485687777400017,
-          "disgust": 0.04190122336149216,
-          "fear": 0.04247046262025833,
-          "joy": 0.019485589116811752,
-          "neutral": 0.8325962424278259,
-          "sadness": 0.025092776864767075,
-          "surprise": 0.007967907004058361
+          "others": 0.99406898021698,
+          "surprise": 0.002117117866873741,
+          "sadness": 0.0011602286249399185,
+          "fear": 0.0009031195077113807,
+          "anger": 0.0006480341544374824,
+          "joy": 0.0006247170967981219,
+          "disgust": 0.0004776912392117083
         }
       }
     },
@@ -1341,28 +1341,28 @@
       "face": {
         "dominant": "neutral",
         "scores": {
-          "angry": 4.207539081573486,
-          "disgust": 1.4528875350952148,
-          "fear": 4.708640098571777,
-          "happy": 0.10867677628993988,
-          "sad": 7.996346950531006,
-          "surprise": 0.0015004136366769671,
-          "neutral": 81.5244140625
+          "angry": 4.207555770874023,
+          "disgust": 1.452896237373352,
+          "fear": 4.708657264709473,
+          "happy": 0.10867685824632645,
+          "sad": 7.996365547180176,
+          "surprise": 0.001500422484241426,
+          "neutral": 81.52435302734375
         }
       },
       "text": {
         "segment_start": 17.0,
         "segment_end": 22.0,
         "content": "Ahora estoy haciendo la cara seria para ver si puede reconocer una cara seria.",
-        "dominant": "neutral",
+        "dominant": "others",
         "scores": {
-          "anger": 0.030485687777400017,
-          "disgust": 0.04190122336149216,
-          "fear": 0.04247046262025833,
-          "joy": 0.019485589116811752,
-          "neutral": 0.8325962424278259,
-          "sadness": 0.025092776864767075,
-          "surprise": 0.007967907004058361
+          "others": 0.99406898021698,
+          "surprise": 0.002117117866873741,
+          "sadness": 0.0011602286249399185,
+          "fear": 0.0009031195077113807,
+          "anger": 0.0006480341544374824,
+          "joy": 0.0006247170967981219,
+          "disgust": 0.0004776912392117083
         }
       }
     },
@@ -1372,28 +1372,28 @@
       "face": {
         "dominant": "neutral",
         "scores": {
-          "angry": 2.8279919624328613,
-          "disgust": 1.3518344163894653,
-          "fear": 8.635114669799805,
-          "happy": 1.7749332189559937,
-          "sad": 15.195538520812988,
-          "surprise": 0.02687107026576996,
-          "neutral": 70.1877212524414
+          "angry": 2.8279924392700195,
+          "disgust": 1.351833701133728,
+          "fear": 8.635117530822754,
+          "happy": 1.7749360799789429,
+          "sad": 15.195542335510254,
+          "surprise": 0.026871053501963615,
+          "neutral": 70.18771362304688
         }
       },
       "text": {
         "segment_start": 17.0,
         "segment_end": 22.0,
         "content": "Ahora estoy haciendo la cara seria para ver si puede reconocer una cara seria.",
-        "dominant": "neutral",
+        "dominant": "others",
         "scores": {
-          "anger": 0.030485687777400017,
-          "disgust": 0.04190122336149216,
-          "fear": 0.04247046262025833,
-          "joy": 0.019485589116811752,
-          "neutral": 0.8325962424278259,
-          "sadness": 0.025092776864767075,
-          "surprise": 0.007967907004058361
+          "others": 0.99406898021698,
+          "surprise": 0.002117117866873741,
+          "sadness": 0.0011602286249399185,
+          "fear": 0.0009031195077113807,
+          "anger": 0.0006480341544374824,
+          "joy": 0.0006247170967981219,
+          "disgust": 0.0004776912392117083
         }
       }
     },
@@ -1403,28 +1403,28 @@
       "face": {
         "dominant": "neutral",
         "scores": {
-          "angry": 0.08741538971662521,
-          "disgust": 0.00017504164134152234,
-          "fear": 2.4905898571014404,
-          "happy": 18.671871185302734,
-          "sad": 0.8685299158096313,
-          "surprise": 0.0029434545431286097,
-          "neutral": 77.87847900390625
+          "angry": 0.08741562813520432,
+          "disgust": 0.00017504161223769188,
+          "fear": 2.490595817565918,
+          "happy": 18.671876907348633,
+          "sad": 0.8685302138328552,
+          "surprise": 0.0029434484895318747,
+          "neutral": 77.87846374511719
         }
       },
       "text": {
         "segment_start": 22.0,
         "segment_end": 31.08,
         "content": "Y ahora una cara de duda, demostrando duda o sospecha.",
-        "dominant": "neutral",
+        "dominant": "others",
         "scores": {
-          "anger": 0.007458923384547234,
-          "disgust": 0.009854666888713837,
-          "fear": 0.007198642008006573,
-          "joy": 0.010403857566416264,
-          "neutral": 0.901689350605011,
-          "sadness": 0.016623126342892647,
-          "surprise": 0.04677145555615425
+          "others": 0.4753013551235199,
+          "surprise": 0.37099507451057434,
+          "fear": 0.12049295008182526,
+          "sadness": 0.010794316418468952,
+          "disgust": 0.008791197091341019,
+          "anger": 0.007407961878925562,
+          "joy": 0.006217196583747864
         }
       }
     },
@@ -1434,28 +1434,28 @@
       "face": {
         "dominant": "neutral",
         "scores": {
-          "angry": 0.07924943417310715,
-          "disgust": 0.00035348927485756576,
-          "fear": 3.3185842037200928,
-          "happy": 10.052695274353027,
-          "sad": 0.6951954364776611,
-          "surprise": 0.010953575372695923,
-          "neutral": 85.84296417236328
+          "angry": 0.07924944907426834,
+          "disgust": 0.0003534887218847871,
+          "fear": 3.3185794353485107,
+          "happy": 10.052679061889648,
+          "sad": 0.6951956152915955,
+          "surprise": 0.010953536257147789,
+          "neutral": 85.84298706054688
         }
       },
       "text": {
         "segment_start": 22.0,
         "segment_end": 31.08,
         "content": "Y ahora una cara de duda, demostrando duda o sospecha.",
-        "dominant": "neutral",
+        "dominant": "others",
         "scores": {
-          "anger": 0.007458923384547234,
-          "disgust": 0.009854666888713837,
-          "fear": 0.007198642008006573,
-          "joy": 0.010403857566416264,
-          "neutral": 0.901689350605011,
-          "sadness": 0.016623126342892647,
-          "surprise": 0.04677145555615425
+          "others": 0.4753013551235199,
+          "surprise": 0.37099507451057434,
+          "fear": 0.12049295008182526,
+          "sadness": 0.010794316418468952,
+          "disgust": 0.008791197091341019,
+          "anger": 0.007407961878925562,
+          "joy": 0.006217196583747864
         }
       }
     },
@@ -1465,12 +1465,12 @@
       "face": {
         "dominant": "neutral",
         "scores": {
-          "angry": 0.10858215391635895,
+          "angry": 0.10858193784952164,
           "disgust": 0.00024399632820859551,
-          "fear": 0.061907291412353516,
-          "happy": 0.015174109488725662,
+          "fear": 0.06190750002861023,
+          "happy": 0.015174138359725475,
           "sad": 0.7107910513877869,
-          "surprise": 0.0001810317044146359,
+          "surprise": 0.00018103238835465163,
           "neutral": 99.10311126708984
         }
       },
@@ -1478,15 +1478,15 @@
         "segment_start": 22.0,
         "segment_end": 31.08,
         "content": "Y ahora una cara de duda, demostrando duda o sospecha.",
-        "dominant": "neutral",
+        "dominant": "others",
         "scores": {
-          "anger": 0.007458923384547234,
-          "disgust": 0.009854666888713837,
-          "fear": 0.007198642008006573,
-          "joy": 0.010403857566416264,
-          "neutral": 0.901689350605011,
-          "sadness": 0.016623126342892647,
-          "surprise": 0.04677145555615425
+          "others": 0.4753013551235199,
+          "surprise": 0.37099507451057434,
+          "fear": 0.12049295008182526,
+          "sadness": 0.010794316418468952,
+          "disgust": 0.008791197091341019,
+          "anger": 0.007407961878925562,
+          "joy": 0.006217196583747864
         }
       }
     },
@@ -1496,28 +1496,28 @@
       "face": {
         "dominant": "neutral",
         "scores": {
-          "angry": 0.5237481594085693,
+          "angry": 0.5237489342689514,
           "disgust": 4.63742571810144e-06,
-          "fear": 0.2905900478363037,
-          "happy": 0.0375167541205883,
-          "sad": 2.984283447265625,
-          "surprise": 0.012127102352678776,
-          "neutral": 96.15172576904297
+          "fear": 0.2905903458595276,
+          "happy": 0.037516772747039795,
+          "sad": 2.9842820167541504,
+          "surprise": 0.012127090245485306,
+          "neutral": 96.1517333984375
         }
       },
       "text": {
         "segment_start": 22.0,
         "segment_end": 31.08,
         "content": "Y ahora una cara de duda, demostrando duda o sospecha.",
-        "dominant": "neutral",
+        "dominant": "others",
         "scores": {
-          "anger": 0.007458923384547234,
-          "disgust": 0.009854666888713837,
-          "fear": 0.007198642008006573,
-          "joy": 0.010403857566416264,
-          "neutral": 0.901689350605011,
-          "sadness": 0.016623126342892647,
-          "surprise": 0.04677145555615425
+          "others": 0.4753013551235199,
+          "surprise": 0.37099507451057434,
+          "fear": 0.12049295008182526,
+          "sadness": 0.010794316418468952,
+          "disgust": 0.008791197091341019,
+          "anger": 0.007407961878925562,
+          "joy": 0.006217196583747864
         }
       }
     },
@@ -1527,12 +1527,12 @@
       "face": {
         "dominant": "neutral",
         "scores": {
-          "angry": 0.06840045750141144,
-          "disgust": 1.153931316366652e-05,
+          "angry": 0.06840036064386368,
+          "disgust": 1.1539291335793678e-05,
           "fear": 0.2022005319595337,
-          "happy": 0.5873833894729614,
-          "sad": 0.5013607740402222,
-          "surprise": 0.017224473878741264,
+          "happy": 0.5873822569847107,
+          "sad": 0.5013602375984192,
+          "surprise": 0.017224440351128578,
           "neutral": 98.62342071533203
         }
       },
@@ -1540,15 +1540,15 @@
         "segment_start": 22.0,
         "segment_end": 31.08,
         "content": "Y ahora una cara de duda, demostrando duda o sospecha.",
-        "dominant": "neutral",
+        "dominant": "others",
         "scores": {
-          "anger": 0.007458923384547234,
-          "disgust": 0.009854666888713837,
-          "fear": 0.007198642008006573,
-          "joy": 0.010403857566416264,
-          "neutral": 0.901689350605011,
-          "sadness": 0.016623126342892647,
-          "surprise": 0.04677145555615425
+          "others": 0.4753013551235199,
+          "surprise": 0.37099507451057434,
+          "fear": 0.12049295008182526,
+          "sadness": 0.010794316418468952,
+          "disgust": 0.008791197091341019,
+          "anger": 0.007407961878925562,
+          "joy": 0.006217196583747864
         }
       }
     },
@@ -1558,28 +1558,28 @@
       "face": {
         "dominant": "neutral",
         "scores": {
-          "angry": 0.27151039242744446,
-          "disgust": 7.2554721555206925e-06,
-          "fear": 0.06864844262599945,
-          "happy": 0.12214799970388412,
-          "sad": 1.2340668439865112,
-          "surprise": 0.00014365090464707464,
-          "neutral": 98.30347442626953
+          "angry": 0.27150970697402954,
+          "disgust": 7.255417131091235e-06,
+          "fear": 0.06864838302135468,
+          "happy": 0.1221475824713707,
+          "sad": 1.2340657711029053,
+          "surprise": 0.0001436506281606853,
+          "neutral": 98.303466796875
         }
       },
       "text": {
         "segment_start": 22.0,
         "segment_end": 31.08,
         "content": "Y ahora una cara de duda, demostrando duda o sospecha.",
-        "dominant": "neutral",
+        "dominant": "others",
         "scores": {
-          "anger": 0.007458923384547234,
-          "disgust": 0.009854666888713837,
-          "fear": 0.007198642008006573,
-          "joy": 0.010403857566416264,
-          "neutral": 0.901689350605011,
-          "sadness": 0.016623126342892647,
-          "surprise": 0.04677145555615425
+          "others": 0.4753013551235199,
+          "surprise": 0.37099507451057434,
+          "fear": 0.12049295008182526,
+          "sadness": 0.010794316418468952,
+          "disgust": 0.008791197091341019,
+          "anger": 0.007407961878925562,
+          "joy": 0.006217196583747864
         }
       }
     },
@@ -1589,28 +1589,28 @@
       "face": {
         "dominant": "neutral",
         "scores": {
-          "angry": 0.4930896461009979,
-          "disgust": 2.289066651428584e-05,
-          "fear": 0.36416858434677124,
-          "happy": 0.20493851602077484,
-          "sad": 3.6504745483398438,
-          "surprise": 0.0008863972034305334,
-          "neutral": 95.28641510009766
+          "angry": 0.49309027194976807,
+          "disgust": 2.289072835992556e-05,
+          "fear": 0.36416977643966675,
+          "happy": 0.2049388885498047,
+          "sad": 3.6504812240600586,
+          "surprise": 0.0008863970870152116,
+          "neutral": 95.28640747070312
         }
       },
       "text": {
         "segment_start": 22.0,
         "segment_end": 31.08,
         "content": "Y ahora una cara de duda, demostrando duda o sospecha.",
-        "dominant": "neutral",
+        "dominant": "others",
         "scores": {
-          "anger": 0.007458923384547234,
-          "disgust": 0.009854666888713837,
-          "fear": 0.007198642008006573,
-          "joy": 0.010403857566416264,
-          "neutral": 0.901689350605011,
-          "sadness": 0.016623126342892647,
-          "surprise": 0.04677145555615425
+          "others": 0.4753013551235199,
+          "surprise": 0.37099507451057434,
+          "fear": 0.12049295008182526,
+          "sadness": 0.010794316418468952,
+          "disgust": 0.008791197091341019,
+          "anger": 0.007407961878925562,
+          "joy": 0.006217196583747864
         }
       }
     },
@@ -1620,28 +1620,28 @@
       "face": {
         "dominant": "neutral",
         "scores": {
-          "angry": 0.16850140690803528,
-          "disgust": 0.0004620923427864909,
-          "fear": 3.0427587032318115,
-          "happy": 1.9060466289520264,
-          "sad": 2.011639356613159,
-          "surprise": 0.002321290085092187,
-          "neutral": 92.86827087402344
+          "angry": 0.16850119829177856,
+          "disgust": 0.00046209240099415183,
+          "fear": 3.0427517890930176,
+          "happy": 1.906045913696289,
+          "sad": 2.011636734008789,
+          "surprise": 0.002321287989616394,
+          "neutral": 92.86827850341797
         }
       },
       "text": {
         "segment_start": 22.0,
         "segment_end": 31.08,
         "content": "Y ahora una cara de duda, demostrando duda o sospecha.",
-        "dominant": "neutral",
+        "dominant": "others",
         "scores": {
-          "anger": 0.007458923384547234,
-          "disgust": 0.009854666888713837,
-          "fear": 0.007198642008006573,
-          "joy": 0.010403857566416264,
-          "neutral": 0.901689350605011,
-          "sadness": 0.016623126342892647,
-          "surprise": 0.04677145555615425
+          "others": 0.4753013551235199,
+          "surprise": 0.37099507451057434,
+          "fear": 0.12049295008182526,
+          "sadness": 0.010794316418468952,
+          "disgust": 0.008791197091341019,
+          "anger": 0.007407961878925562,
+          "joy": 0.006217196583747864
         }
       }
     },
@@ -1651,28 +1651,28 @@
       "face": {
         "dominant": "neutral",
         "scores": {
-          "angry": 0.2093900591135025,
-          "disgust": 1.09674234138879e-08,
-          "fear": 6.519379138946533,
-          "happy": 0.03684326261281967,
-          "sad": 0.8581209182739258,
-          "surprise": 0.06557407975196838,
-          "neutral": 92.3106918334961
+          "angry": 0.20939026772975922,
+          "disgust": 1.096736301775536e-08,
+          "fear": 6.519360065460205,
+          "happy": 0.036843132227659225,
+          "sad": 0.858120322227478,
+          "surprise": 0.06557366251945496,
+          "neutral": 92.31071472167969
         }
       },
       "text": {
         "segment_start": 22.0,
         "segment_end": 31.08,
         "content": "Y ahora una cara de duda, demostrando duda o sospecha.",
-        "dominant": "neutral",
+        "dominant": "others",
         "scores": {
-          "anger": 0.007458923384547234,
-          "disgust": 0.009854666888713837,
-          "fear": 0.007198642008006573,
-          "joy": 0.010403857566416264,
-          "neutral": 0.901689350605011,
-          "sadness": 0.016623126342892647,
-          "surprise": 0.04677145555615425
+          "others": 0.4753013551235199,
+          "surprise": 0.37099507451057434,
+          "fear": 0.12049295008182526,
+          "sadness": 0.010794316418468952,
+          "disgust": 0.008791197091341019,
+          "anger": 0.007407961878925562,
+          "joy": 0.006217196583747864
         }
       }
     },
@@ -1682,28 +1682,28 @@
       "face": {
         "dominant": "neutral",
         "scores": {
-          "angry": 1.2549936771392822,
-          "disgust": 5.825160314998357e-06,
-          "fear": 0.2800673246383667,
-          "happy": 0.7756695747375488,
-          "sad": 1.0745525360107422,
-          "surprise": 0.001583788776770234,
-          "neutral": 96.6131362915039
+          "angry": 1.2549971342086792,
+          "disgust": 5.825204425491393e-06,
+          "fear": 0.28006795048713684,
+          "happy": 0.7756699323654175,
+          "sad": 1.0745550394058228,
+          "surprise": 0.001583791570737958,
+          "neutral": 96.61312103271484
         }
       },
       "text": {
         "segment_start": 22.0,
         "segment_end": 31.08,
         "content": "Y ahora una cara de duda, demostrando duda o sospecha.",
-        "dominant": "neutral",
+        "dominant": "others",
         "scores": {
-          "anger": 0.007458923384547234,
-          "disgust": 0.009854666888713837,
-          "fear": 0.007198642008006573,
-          "joy": 0.010403857566416264,
-          "neutral": 0.901689350605011,
-          "sadness": 0.016623126342892647,
-          "surprise": 0.04677145555615425
+          "others": 0.4753013551235199,
+          "surprise": 0.37099507451057434,
+          "fear": 0.12049295008182526,
+          "sadness": 0.010794316418468952,
+          "disgust": 0.008791197091341019,
+          "anger": 0.007407961878925562,
+          "joy": 0.006217196583747864
         }
       }
     },
@@ -1715,10 +1715,10 @@
         "scores": {
           "angry": 1.0007370710372925,
           "disgust": 0.00013939931523054838,
-          "fear": 0.2797704339027405,
-          "happy": 0.8063306212425232,
-          "sad": 2.265249252319336,
-          "surprise": 0.0012433793162927032,
+          "fear": 0.27977120876312256,
+          "happy": 0.806333601474762,
+          "sad": 2.2652509212493896,
+          "surprise": 0.0012433852534741163,
           "neutral": 95.64653015136719
         }
       },
@@ -1726,15 +1726,15 @@
         "segment_start": 22.0,
         "segment_end": 31.08,
         "content": "Y ahora una cara de duda, demostrando duda o sospecha.",
-        "dominant": "neutral",
+        "dominant": "others",
         "scores": {
-          "anger": 0.007458923384547234,
-          "disgust": 0.009854666888713837,
-          "fear": 0.007198642008006573,
-          "joy": 0.010403857566416264,
-          "neutral": 0.901689350605011,
-          "sadness": 0.016623126342892647,
-          "surprise": 0.04677145555615425
+          "others": 0.4753013551235199,
+          "surprise": 0.37099507451057434,
+          "fear": 0.12049295008182526,
+          "sadness": 0.010794316418468952,
+          "disgust": 0.008791197091341019,
+          "anger": 0.007407961878925562,
+          "joy": 0.006217196583747864
         }
       }
     },
@@ -1744,28 +1744,28 @@
       "face": {
         "dominant": "neutral",
         "scores": {
-          "angry": 1.63436758518219,
-          "disgust": 2.4551496608182788e-05,
-          "fear": 0.8237563967704773,
-          "happy": 0.15559649467468262,
-          "sad": 1.2681479454040527,
-          "surprise": 0.0005017677322030067,
-          "neutral": 96.11760711669922
+          "angry": 1.634366750717163,
+          "disgust": 2.455151843605563e-05,
+          "fear": 0.8237549066543579,
+          "happy": 0.15559597313404083,
+          "sad": 1.2681485414505005,
+          "surprise": 0.0005017658695578575,
+          "neutral": 96.11759948730469
         }
       },
       "text": {
         "segment_start": 22.0,
         "segment_end": 31.08,
         "content": "Y ahora una cara de duda, demostrando duda o sospecha.",
-        "dominant": "neutral",
+        "dominant": "others",
         "scores": {
-          "anger": 0.007458923384547234,
-          "disgust": 0.009854666888713837,
-          "fear": 0.007198642008006573,
-          "joy": 0.010403857566416264,
-          "neutral": 0.901689350605011,
-          "sadness": 0.016623126342892647,
-          "surprise": 0.04677145555615425
+          "others": 0.4753013551235199,
+          "surprise": 0.37099507451057434,
+          "fear": 0.12049295008182526,
+          "sadness": 0.010794316418468952,
+          "disgust": 0.008791197091341019,
+          "anger": 0.007407961878925562,
+          "joy": 0.006217196583747864
         }
       }
     },
@@ -1775,12 +1775,12 @@
       "face": {
         "dominant": "neutral",
         "scores": {
-          "angry": 0.4132644236087799,
-          "disgust": 2.1392430426203646e-05,
-          "fear": 0.44280770421028137,
+          "angry": 0.4132656455039978,
+          "disgust": 2.1392534108599648e-05,
+          "fear": 0.4428083598613739,
           "happy": 0.23439332842826843,
-          "sad": 1.6344630718231201,
-          "surprise": 7.262312283273786e-05,
+          "sad": 1.6344660520553589,
+          "surprise": 7.262318831635639e-05,
           "neutral": 97.27497863769531
         }
       },
@@ -1788,15 +1788,15 @@
         "segment_start": 22.0,
         "segment_end": 31.08,
         "content": "Y ahora una cara de duda, demostrando duda o sospecha.",
-        "dominant": "neutral",
+        "dominant": "others",
         "scores": {
-          "anger": 0.007458923384547234,
-          "disgust": 0.009854666888713837,
-          "fear": 0.007198642008006573,
-          "joy": 0.010403857566416264,
-          "neutral": 0.901689350605011,
-          "sadness": 0.016623126342892647,
-          "surprise": 0.04677145555615425
+          "others": 0.4753013551235199,
+          "surprise": 0.37099507451057434,
+          "fear": 0.12049295008182526,
+          "sadness": 0.010794316418468952,
+          "disgust": 0.008791197091341019,
+          "anger": 0.007407961878925562,
+          "joy": 0.006217196583747864
         }
       }
     },
@@ -1806,11 +1806,11 @@
       "face": {
         "dominant": "neutral",
         "scores": {
-          "angry": 0.5818693041801453,
-          "disgust": 0.0020659880246967077,
-          "fear": 1.1637091636657715,
-          "happy": 1.7457855939865112,
-          "sad": 3.4200356006622314,
+          "angry": 0.5818687677383423,
+          "disgust": 0.0020659940782934427,
+          "fear": 1.1637097597122192,
+          "happy": 1.7457852363586426,
+          "sad": 3.4200377464294434,
           "surprise": 0.0006280670640990138,
           "neutral": 93.08590698242188
         }
@@ -1819,15 +1819,15 @@
         "segment_start": 22.0,
         "segment_end": 31.08,
         "content": "Y ahora una cara de duda, demostrando duda o sospecha.",
-        "dominant": "neutral",
+        "dominant": "others",
         "scores": {
-          "anger": 0.007458923384547234,
-          "disgust": 0.009854666888713837,
-          "fear": 0.007198642008006573,
-          "joy": 0.010403857566416264,
-          "neutral": 0.901689350605011,
-          "sadness": 0.016623126342892647,
-          "surprise": 0.04677145555615425
+          "others": 0.4753013551235199,
+          "surprise": 0.37099507451057434,
+          "fear": 0.12049295008182526,
+          "sadness": 0.010794316418468952,
+          "disgust": 0.008791197091341019,
+          "anger": 0.007407961878925562,
+          "joy": 0.006217196583747864
         }
       }
     },
@@ -1837,28 +1837,28 @@
       "face": {
         "dominant": "neutral",
         "scores": {
-          "angry": 6.110232830047607,
-          "disgust": 0.00017377332551404834,
-          "fear": 3.5631823539733887,
-          "happy": 0.05695772543549538,
-          "sad": 5.256409168243408,
-          "surprise": 0.0014886311255395412,
-          "neutral": 85.01155090332031
+          "angry": 6.110234260559082,
+          "disgust": 0.00017377352924086154,
+          "fear": 3.563180685043335,
+          "happy": 0.056957729160785675,
+          "sad": 5.25640869140625,
+          "surprise": 0.0014886284479871392,
+          "neutral": 85.01155853271484
         }
       },
       "text": {
         "segment_start": 22.0,
         "segment_end": 31.08,
         "content": "Y ahora una cara de duda, demostrando duda o sospecha.",
-        "dominant": "neutral",
+        "dominant": "others",
         "scores": {
-          "anger": 0.007458923384547234,
-          "disgust": 0.009854666888713837,
-          "fear": 0.007198642008006573,
-          "joy": 0.010403857566416264,
-          "neutral": 0.901689350605011,
-          "sadness": 0.016623126342892647,
-          "surprise": 0.04677145555615425
+          "others": 0.4753013551235199,
+          "surprise": 0.37099507451057434,
+          "fear": 0.12049295008182526,
+          "sadness": 0.010794316418468952,
+          "disgust": 0.008791197091341019,
+          "anger": 0.007407961878925562,
+          "joy": 0.006217196583747864
         }
       }
     },
@@ -1868,12 +1868,12 @@
       "face": {
         "dominant": "neutral",
         "scores": {
-          "angry": 8.20583724975586,
-          "disgust": 0.00027372577460482717,
-          "fear": 3.033419132232666,
-          "happy": 0.019478511065244675,
-          "sad": 7.1033525466918945,
-          "surprise": 0.0001842483034124598,
+          "angry": 8.205846786499023,
+          "disgust": 0.0002737255417741835,
+          "fear": 3.0334131717681885,
+          "happy": 0.019478492438793182,
+          "sad": 7.103349685668945,
+          "surprise": 0.0001842475903686136,
           "neutral": 81.63745880126953
         }
       },
@@ -1881,15 +1881,15 @@
         "segment_start": 22.0,
         "segment_end": 31.08,
         "content": "Y ahora una cara de duda, demostrando duda o sospecha.",
-        "dominant": "neutral",
+        "dominant": "others",
         "scores": {
-          "anger": 0.007458923384547234,
-          "disgust": 0.009854666888713837,
-          "fear": 0.007198642008006573,
-          "joy": 0.010403857566416264,
-          "neutral": 0.901689350605011,
-          "sadness": 0.016623126342892647,
-          "surprise": 0.04677145555615425
+          "others": 0.4753013551235199,
+          "surprise": 0.37099507451057434,
+          "fear": 0.12049295008182526,
+          "sadness": 0.010794316418468952,
+          "disgust": 0.008791197091341019,
+          "anger": 0.007407961878925562,
+          "joy": 0.006217196583747864
         }
       }
     },
@@ -1899,28 +1899,28 @@
       "face": {
         "dominant": "neutral",
         "scores": {
-          "angry": 3.9089484214782715,
-          "disgust": 0.0013802683679386973,
-          "fear": 4.720752239227295,
-          "happy": 0.01680452935397625,
-          "sad": 18.644012451171875,
-          "surprise": 7.462364010279998e-05,
-          "neutral": 72.7080307006836
+          "angry": 3.9089481830596924,
+          "disgust": 0.001380271278321743,
+          "fear": 4.720748424530029,
+          "happy": 0.016804534941911697,
+          "sad": 18.64399528503418,
+          "surprise": 7.462365465471521e-05,
+          "neutral": 72.70804595947266
         }
       },
       "text": {
         "segment_start": 22.0,
         "segment_end": 31.08,
         "content": "Y ahora una cara de duda, demostrando duda o sospecha.",
-        "dominant": "neutral",
+        "dominant": "others",
         "scores": {
-          "anger": 0.007458923384547234,
-          "disgust": 0.009854666888713837,
-          "fear": 0.007198642008006573,
-          "joy": 0.010403857566416264,
-          "neutral": 0.901689350605011,
-          "sadness": 0.016623126342892647,
-          "surprise": 0.04677145555615425
+          "others": 0.4753013551235199,
+          "surprise": 0.37099507451057434,
+          "fear": 0.12049295008182526,
+          "sadness": 0.010794316418468952,
+          "disgust": 0.008791197091341019,
+          "anger": 0.007407961878925562,
+          "joy": 0.006217196583747864
         }
       }
     },
@@ -1930,11 +1930,11 @@
       "face": {
         "dominant": "neutral",
         "scores": {
-          "angry": 0.47630369663238525,
-          "disgust": 4.685684871219564e-06,
-          "fear": 2.1422512531280518,
-          "happy": 4.364609241485596,
-          "sad": 1.2863411903381348,
+          "angry": 0.47630321979522705,
+          "disgust": 4.6856757762725465e-06,
+          "fear": 2.142249822616577,
+          "happy": 4.364603042602539,
+          "sad": 1.2863398790359497,
           "surprise": 0.0030875452794134617,
           "neutral": 91.72740936279297
         }
@@ -1943,15 +1943,15 @@
         "segment_start": 22.0,
         "segment_end": 31.08,
         "content": "Y ahora una cara de duda, demostrando duda o sospecha.",
-        "dominant": "neutral",
+        "dominant": "others",
         "scores": {
-          "anger": 0.007458923384547234,
-          "disgust": 0.009854666888713837,
-          "fear": 0.007198642008006573,
-          "joy": 0.010403857566416264,
-          "neutral": 0.901689350605011,
-          "sadness": 0.016623126342892647,
-          "surprise": 0.04677145555615425
+          "others": 0.4753013551235199,
+          "surprise": 0.37099507451057434,
+          "fear": 0.12049295008182526,
+          "sadness": 0.010794316418468952,
+          "disgust": 0.008791197091341019,
+          "anger": 0.007407961878925562,
+          "joy": 0.006217196583747864
         }
       }
     },
@@ -1961,13 +1961,13 @@
       "face": {
         "dominant": "neutral",
         "scores": {
-          "angry": 1.3509794473648071,
-          "disgust": 1.7612994270166382e-05,
-          "fear": 0.802946925163269,
-          "happy": 0.4589391052722931,
-          "sad": 1.8513658046722412,
-          "surprise": 0.001625541946850717,
-          "neutral": 95.53412628173828
+          "angry": 1.3509844541549683,
+          "disgust": 1.7613194359000772e-05,
+          "fear": 0.8029517531394958,
+          "happy": 0.4589408040046692,
+          "sad": 1.8513725996017456,
+          "surprise": 0.0016255492810159922,
+          "neutral": 95.53411102294922
         }
       },
       "text": {
@@ -1984,13 +1984,13 @@
       "face": {
         "dominant": "neutral",
         "scores": {
-          "angry": 0.43874591588974,
-          "disgust": 9.361947377328761e-07,
-          "fear": 0.03068886324763298,
-          "happy": 0.15584999322891235,
-          "sad": 1.357812523841858,
-          "surprise": 9.431838407181203e-05,
-          "neutral": 98.01680755615234
+          "angry": 0.43874692916870117,
+          "disgust": 9.36200081014249e-07,
+          "fear": 0.030688975006341934,
+          "happy": 0.1558501273393631,
+          "sad": 1.3578150272369385,
+          "surprise": 9.431855869479477e-05,
+          "neutral": 98.01679229736328
         }
       },
       "text": {
@@ -2007,12 +2007,12 @@
       "face": {
         "dominant": "neutral",
         "scores": {
-          "angry": 0.3877542018890381,
+          "angry": 0.3877536654472351,
           "disgust": 7.787462550368218e-07,
-          "fear": 0.10164563357830048,
-          "happy": 0.1072998121380806,
-          "sad": 0.8488672375679016,
-          "surprise": 0.00025290044141002,
+          "fear": 0.10164552927017212,
+          "happy": 0.1073000580072403,
+          "sad": 0.8488667607307434,
+          "surprise": 0.00025290093617513776,
           "neutral": 98.55418395996094
         }
       },

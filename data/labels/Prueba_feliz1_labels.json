@@ -1,0 +1,12 @@
+{
+  "video": "data/raw_videos/Prueba_feliz1.mp4",
+  "fps_note": "timestamps en segundos",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 33.78,
+      "label": "happy",
+      "note": "felicidad sostenida durante todo el video"
+    }
+  ]
+}

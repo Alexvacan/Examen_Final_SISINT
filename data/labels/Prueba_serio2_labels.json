@@ -1,0 +1,7 @@
+{
+  "video": "data/raw_videos/Prueba_serio2.mp4",
+  "fps_note": "timestamps en segundos",
+  "segments": [
+    { "start": 0.0, "end": 30.10, "emotion": "others", "note": "rostro neutral/serio (robertuito lo agrupa como others)" }
+  ]
+}

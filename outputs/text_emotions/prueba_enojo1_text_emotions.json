@@ -1,0 +1,20 @@
+{
+  "n_segments": 1,
+  "items": [
+    {
+      "start": 0.59,
+      "end": 29.59,
+      "text": "Hola a todos, esta es la prueba del rostro inofado, la idea es seguir entrenando el modelo para ver si reconoce el rostro de manera correcta y bueno, si lo hace de manera correcta esto se añadirá a toda la documentación respectiva y sabremos si ya está reconociendo de una buena manera si este es un rostro enojado o como lo predicione el herido, así que gracias y sigan viendo los videos.",
+      "dominant_emotion": "others",
+      "scores": {
+        "others": 0.9801675081253052,
+        "anger": 0.0070757013745605946,
+        "sadness": 0.005969783756881952,
+        "surprise": 0.002198300324380398,
+        "joy": 0.0020003283862024546,
+        "disgust": 0.0016573311295360327,
+        "fear": 0.0009311056928709149
+      }
+    }
+  ]
+}

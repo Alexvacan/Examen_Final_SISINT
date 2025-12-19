@@ -5,105 +5,105 @@
       "start": 0.59,
       "end": 5.27,
       "text": "Ok, este es el cuarto vídeo que estamos haciendo para las pruebas y ahora",
-      "dominant_emotion": "neutral",
+      "dominant_emotion": "others",
       "scores": {
-        "anger": 0.056841205805540085,
-        "disgust": 0.11694356054067612,
-        "fear": 0.028896106407046318,
-        "joy": 0.018597107380628586,
-        "neutral": 0.748948872089386,
-        "sadness": 0.011732698418200016,
-        "surprise": 0.018040457740426064
+        "others": 0.9916817545890808,
+        "surprise": 0.004580462817102671,
+        "fear": 0.0011541025014594197,
+        "joy": 0.0009220061474479735,
+        "sadness": 0.0008059297106228769,
+        "anger": 0.0005702797789126635,
+        "disgust": 0.00028548354748636484
       }
     },
     {
       "start": 5.27,
-      "end": 14.37,
-      "text": "empezaré con la emoción del asombro, no podía hablar con esa, entonces ahora",
-      "dominant_emotion": "neutral",
+      "end": 14.71,
+      "text": "empezaré con la emoción del asombro. No podía hablar con esa, entonces ahora",
+      "dominant_emotion": "others",
       "scores": {
-        "anger": 0.06808137148618698,
-        "disgust": 0.07242067903280258,
-        "fear": 0.06833110004663467,
-        "joy": 0.018458588048815727,
-        "neutral": 0.6629282832145691,
-        "sadness": 0.08386366814374924,
-        "surprise": 0.02591623179614544
+        "others": 0.8520340323448181,
+        "surprise": 0.07534530758857727,
+        "joy": 0.057910796254873276,
+        "sadness": 0.0071466341614723206,
+        "fear": 0.00629320228472352,
+        "disgust": 0.0007362938486039639,
+        "anger": 0.0005338850314728916
       }
     },
     {
-      "start": 14.37,
+      "start": 14.71,
       "end": 20.57,
-      "text": "continuaré con la emoción del enojo, para ver si nuestra vida puede reconocer la",
-      "dominant_emotion": "neutral",
+      "text": "continuaré con la emoción del enojo para ver si nuestra vida puede reconocer la",
+      "dominant_emotion": "others",
       "scores": {
-        "anger": 0.13574044406414032,
-        "disgust": 0.06892950087785721,
-        "fear": 0.1399625539779663,
-        "joy": 0.03114871121942997,
-        "neutral": 0.5445539355278015,
-        "sadness": 0.05886552482843399,
-        "surprise": 0.02079928293824196
+        "others": 0.9686574339866638,
+        "sadness": 0.025442324578762054,
+        "joy": 0.002232725266367197,
+        "anger": 0.001746818539686501,
+        "surprise": 0.000766056589782238,
+        "fear": 0.0007373237167485058,
+        "disgust": 0.0004173832421656698
       }
     },
     {
       "start": 20.57,
       "end": 28.09,
-      "text": "emoción del enojo, después continuaré con la emoción de alegría o estar",
-      "dominant_emotion": "neutral",
+      "text": "emoción del enojo. Después continuaré con la emoción de alegría o estar",
+      "dominant_emotion": "others",
       "scores": {
-        "anger": 0.09069426357746124,
-        "disgust": 0.09908201545476913,
-        "fear": 0.11207184195518494,
-        "joy": 0.037149615585803986,
-        "neutral": 0.5564026236534119,
-        "sadness": 0.08389253169298172,
-        "surprise": 0.020707087591290474
+        "others": 0.7981873154640198,
+        "joy": 0.09681282192468643,
+        "sadness": 0.08786904066801071,
+        "surprise": 0.005723350215703249,
+        "anger": 0.005075507797300816,
+        "fear": 0.004823889583349228,
+        "disgust": 0.0015081585152074695
       }
     },
     {
       "start": 28.09,
       "end": 33.93,
       "text": "feliz, sonriendo, para ver si es capaz de reconocer los diferentes",
-      "dominant_emotion": "neutral",
+      "dominant_emotion": "joy",
       "scores": {
-        "anger": 0.06108197197318077,
-        "disgust": 0.0928940549492836,
-        "fear": 0.024510545656085014,
-        "joy": 0.01786135509610176,
-        "neutral": 0.7756402492523193,
-        "sadness": 0.014782063663005829,
-        "surprise": 0.013229773379862309
+        "joy": 0.9909182786941528,
+        "others": 0.004639912862330675,
+        "sadness": 0.0022634901106357574,
+        "surprise": 0.0006748075829818845,
+        "disgust": 0.0005847770371474326,
+        "fear": 0.0005608000210486352,
+        "anger": 0.00035789201501756907
       }
     },
     {
       "start": 33.93,
       "end": 40.05,
       "text": "gestos y que no se confunda con mi trabajo de lengua y a ver si puede reconocer",
-      "dominant_emotion": "neutral",
+      "dominant_emotion": "others",
       "scores": {
-        "anger": 0.0821424126625061,
-        "disgust": 0.06645064055919647,
-        "fear": 0.09984756261110306,
-        "joy": 0.010532274842262268,
-        "neutral": 0.6847237348556519,
-        "sadness": 0.041227295994758606,
-        "surprise": 0.015076091513037682
+        "others": 0.9729581475257874,
+        "anger": 0.01177669595927,
+        "surprise": 0.004375648684799671,
+        "joy": 0.003584640333428979,
+        "disgust": 0.0026709081139415503,
+        "fear": 0.0024413263890892267,
+        "sadness": 0.0021924881730228662
       }
     },
     {
       "start": 40.05,
-      "end": 42.57,
-      "text": "también eso",
-      "dominant_emotion": "neutral",
+      "end": 42.65,
+      "text": "también eso.",
+      "dominant_emotion": "others",
       "scores": {
-        "anger": 0.06904739141464233,
-        "disgust": 0.07613677531480789,
-        "fear": 0.040311697870492935,
-        "joy": 0.015084473416209221,
-        "neutral": 0.6144997477531433,
-        "sadness": 0.039825353771448135,
-        "surprise": 0.14509449899196625
+        "others": 0.8659850358963013,
+        "joy": 0.08128891885280609,
+        "sadness": 0.025965183973312378,
+        "surprise": 0.014060727320611477,
+        "anger": 0.005523071624338627,
+        "fear": 0.004856294486671686,
+        "disgust": 0.00232075247913599
       }
     }
   ]

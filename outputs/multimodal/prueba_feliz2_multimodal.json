@@ -1,0 +1,1934 @@
+{
+  "video": "prueba_feliz2",
+  "n_items": 64,
+  "items": [
+    {
+      "t": 0.0,
+      "frame": "frame_000000_t0.00.jpg",
+      "face": {
+        "dominant": "happy",
+        "scores": {
+          "angry": 0.004077591933310032,
+          "disgust": 4.469123268791009e-06,
+          "fear": 0.00862214993685484,
+          "happy": 96.65509033203125,
+          "sad": 0.06800680607557297,
+          "surprise": 0.47167399525642395,
+          "neutral": 2.7925283908843994
+        }
+      },
+      "text": {
+        "segment_start": null,
+        "segment_end": null,
+        "content": null,
+        "dominant": null,
+        "scores": null
+      }
+    },
+    {
+      "t": 0.48,
+      "frame": "frame_000008_t0.48.jpg",
+      "face": {
+        "dominant": "happy",
+        "scores": {
+          "angry": 0.0035834137815982103,
+          "disgust": 1.537081152491737e-05,
+          "fear": 0.008523468859493732,
+          "happy": 98.75279998779297,
+          "sad": 0.30206799507141113,
+          "surprise": 0.02757735177874565,
+          "neutral": 0.9054195880889893
+        }
+      },
+      "text": {
+        "segment_start": null,
+        "segment_end": null,
+        "content": null,
+        "dominant": null,
+        "scores": null
+      }
+    },
+    {
+      "t": 0.97,
+      "frame": "frame_000016_t0.97.jpg",
+      "face": {
+        "dominant": "happy",
+        "scores": {
+          "angry": 9.162430069409311e-05,
+          "disgust": 8.410156056015694e-07,
+          "fear": 9.703441173769534e-05,
+          "happy": 89.70496368408203,
+          "sad": 0.017243308946490288,
+          "surprise": 0.01713055744767189,
+          "neutral": 10.260477066040039
+        }
+      },
+      "text": {
+        "segment_start": 0.94,
+        "segment_end": 8.78,
+        "content": "Hola, este es otro prueba de Rostro Feliz para seguir comparando resultados y el modelo ya puede",
+        "dominant": "others",
+        "scores": {
+          "others": 0.9903091788291931,
+          "joy": 0.00667552137747407,
+          "surprise": 0.0011473629856482148,
+          "sadness": 0.0007153364713303745,
+          "anger": 0.0005329754785634577,
+          "disgust": 0.00038095907075330615,
+          "fear": 0.00023868712014518678
+        }
+      }
+    },
+    {
+      "t": 1.45,
+      "frame": "frame_000024_t1.45.jpg",
+      "face": {
+        "dominant": "happy",
+        "scores": {
+          "angry": 0.00033973113750107586,
+          "disgust": 2.003205963774235e-06,
+          "fear": 0.00047135562635958195,
+          "happy": 73.393798828125,
+          "sad": 0.047068171203136444,
+          "surprise": 0.04238223657011986,
+          "neutral": 26.51594352722168
+        }
+      },
+      "text": {
+        "segment_start": 0.94,
+        "segment_end": 8.78,
+        "content": "Hola, este es otro prueba de Rostro Feliz para seguir comparando resultados y el modelo ya puede",
+        "dominant": "others",
+        "scores": {
+          "others": 0.9903091788291931,
+          "joy": 0.00667552137747407,
+          "surprise": 0.0011473629856482148,
+          "sadness": 0.0007153364713303745,
+          "anger": 0.0005329754785634577,
+          "disgust": 0.00038095907075330615,
+          "fear": 0.00023868712014518678
+        }
+      }
+    },
+    {
+      "t": 1.93,
+      "frame": "frame_000032_t1.93.jpg",
+      "face": {
+        "dominant": "happy",
+        "scores": {
+          "angry": 2.102139660564717e-05,
+          "disgust": 1.4125964398203905e-08,
+          "fear": 1.4827883205725811e-05,
+          "happy": 99.82642364501953,
+          "sad": 0.0014881888637319207,
+          "surprise": 0.008565682917833328,
+          "neutral": 0.16348695755004883
+        }
+      },
+      "text": {
+        "segment_start": 0.94,
+        "segment_end": 8.78,
+        "content": "Hola, este es otro prueba de Rostro Feliz para seguir comparando resultados y el modelo ya puede",
+        "dominant": "others",
+        "scores": {
+          "others": 0.9903091788291931,
+          "joy": 0.00667552137747407,
+          "surprise": 0.0011473629856482148,
+          "sadness": 0.0007153364713303745,
+          "anger": 0.0005329754785634577,
+          "disgust": 0.00038095907075330615,
+          "fear": 0.00023868712014518678
+        }
+      }
+    },
+    {
+      "t": 2.41,
+      "frame": "frame_000040_t2.41.jpg",
+      "face": {
+        "dominant": "happy",
+        "scores": {
+          "angry": 0.0009956348221749067,
+          "disgust": 1.0121790182893164e-05,
+          "fear": 0.0007038352778181434,
+          "happy": 97.64859771728516,
+          "sad": 0.027859997004270554,
+          "surprise": 0.028911136090755463,
+          "neutral": 2.292924404144287
+        }
+      },
+      "text": {
+        "segment_start": 0.94,
+        "segment_end": 8.78,
+        "content": "Hola, este es otro prueba de Rostro Feliz para seguir comparando resultados y el modelo ya puede",
+        "dominant": "others",
+        "scores": {
+          "others": 0.9903091788291931,
+          "joy": 0.00667552137747407,
+          "surprise": 0.0011473629856482148,
+          "sadness": 0.0007153364713303745,
+          "anger": 0.0005329754785634577,
+          "disgust": 0.00038095907075330615,
+          "fear": 0.00023868712014518678
+        }
+      }
+    },
+    {
+      "t": 2.9,
+      "frame": "frame_000048_t2.90.jpg",
+      "face": {
+        "dominant": "sad",
+        "scores": {
+          "angry": 8.927656173706055,
+          "disgust": 0.7540465593338013,
+          "fear": 1.7369827032089233,
+          "happy": 0.00433074776083231,
+          "sad": 73.52519226074219,
+          "surprise": 0.0012112932745367289,
+          "neutral": 15.050583839416504
+        }
+      },
+      "text": {
+        "segment_start": 0.94,
+        "segment_end": 8.78,
+        "content": "Hola, este es otro prueba de Rostro Feliz para seguir comparando resultados y el modelo ya puede",
+        "dominant": "others",
+        "scores": {
+          "others": 0.9903091788291931,
+          "joy": 0.00667552137747407,
+          "surprise": 0.0011473629856482148,
+          "sadness": 0.0007153364713303745,
+          "anger": 0.0005329754785634577,
+          "disgust": 0.00038095907075330615,
+          "fear": 0.00023868712014518678
+        }
+      }
+    },
+    {
+      "t": 3.38,
+      "frame": "frame_000056_t3.38.jpg",
+      "face": {
+        "dominant": "neutral",
+        "scores": {
+          "angry": 0.0007310432265512645,
+          "disgust": 5.702963878917444e-09,
+          "fear": 0.0005775851896032691,
+          "happy": 0.04043824225664139,
+          "sad": 0.031080691143870354,
+          "surprise": 0.003058650065213442,
+          "neutral": 99.92411041259766
+        }
+      },
+      "text": {
+        "segment_start": 0.94,
+        "segment_end": 8.78,
+        "content": "Hola, este es otro prueba de Rostro Feliz para seguir comparando resultados y el modelo ya puede",
+        "dominant": "others",
+        "scores": {
+          "others": 0.9903091788291931,
+          "joy": 0.00667552137747407,
+          "surprise": 0.0011473629856482148,
+          "sadness": 0.0007153364713303745,
+          "anger": 0.0005329754785634577,
+          "disgust": 0.00038095907075330615,
+          "fear": 0.00023868712014518678
+        }
+      }
+    },
+    {
+      "t": 3.86,
+      "frame": "frame_000064_t3.86.jpg",
+      "face": {
+        "dominant": "happy",
+        "scores": {
+          "angry": 0.006792951375246048,
+          "disgust": 1.4236725291993935e-06,
+          "fear": 0.0017691513057798147,
+          "happy": 81.80644989013672,
+          "sad": 0.1204499825835228,
+          "surprise": 0.15215040743350983,
+          "neutral": 17.91238021850586
+        }
+      },
+      "text": {
+        "segment_start": 0.94,
+        "segment_end": 8.78,
+        "content": "Hola, este es otro prueba de Rostro Feliz para seguir comparando resultados y el modelo ya puede",
+        "dominant": "others",
+        "scores": {
+          "others": 0.9903091788291931,
+          "joy": 0.00667552137747407,
+          "surprise": 0.0011473629856482148,
+          "sadness": 0.0007153364713303745,
+          "anger": 0.0005329754785634577,
+          "disgust": 0.00038095907075330615,
+          "fear": 0.00023868712014518678
+        }
+      }
+    },
+    {
+      "t": 4.34,
+      "frame": "frame_000072_t4.34.jpg",
+      "face": {
+        "dominant": "neutral",
+        "scores": {
+          "angry": 0.07017982006072998,
+          "disgust": 2.4877001578715863e-06,
+          "fear": 0.002150773536413908,
+          "happy": 12.178572654724121,
+          "sad": 0.7758336663246155,
+          "surprise": 0.2696247100830078,
+          "neutral": 86.7036361694336
+        }
+      },
+      "text": {
+        "segment_start": 0.94,
+        "segment_end": 8.78,
+        "content": "Hola, este es otro prueba de Rostro Feliz para seguir comparando resultados y el modelo ya puede",
+        "dominant": "others",
+        "scores": {
+          "others": 0.9903091788291931,
+          "joy": 0.00667552137747407,
+          "surprise": 0.0011473629856482148,
+          "sadness": 0.0007153364713303745,
+          "anger": 0.0005329754785634577,
+          "disgust": 0.00038095907075330615,
+          "fear": 0.00023868712014518678
+        }
+      }
+    },
+    {
+      "t": 4.83,
+      "frame": "frame_000080_t4.83.jpg",
+      "face": {
+        "dominant": "happy",
+        "scores": {
+          "angry": 0.0008345774258486927,
+          "disgust": 1.5898389449375827e-07,
+          "fear": 3.758222737815231e-05,
+          "happy": 97.73260498046875,
+          "sad": 0.01550906803458929,
+          "surprise": 0.02248303033411503,
+          "neutral": 2.228537082672119
+        }
+      },
+      "text": {
+        "segment_start": 0.94,
+        "segment_end": 8.78,
+        "content": "Hola, este es otro prueba de Rostro Feliz para seguir comparando resultados y el modelo ya puede",
+        "dominant": "others",
+        "scores": {
+          "others": 0.9903091788291931,
+          "joy": 0.00667552137747407,
+          "surprise": 0.0011473629856482148,
+          "sadness": 0.0007153364713303745,
+          "anger": 0.0005329754785634577,
+          "disgust": 0.00038095907075330615,
+          "fear": 0.00023868712014518678
+        }
+      }
+    },
+    {
+      "t": 5.31,
+      "frame": "frame_000088_t5.31.jpg",
+      "face": {
+        "dominant": "neutral",
+        "scores": {
+          "angry": 0.028576713055372238,
+          "disgust": 6.040805544671457e-08,
+          "fear": 0.0004942432860843837,
+          "happy": 0.005686039570719004,
+          "sad": 0.49223968386650085,
+          "surprise": 0.0021907801274210215,
+          "neutral": 99.47081756591797
+        }
+      },
+      "text": {
+        "segment_start": 0.94,
+        "segment_end": 8.78,
+        "content": "Hola, este es otro prueba de Rostro Feliz para seguir comparando resultados y el modelo ya puede",
+        "dominant": "others",
+        "scores": {
+          "others": 0.9903091788291931,
+          "joy": 0.00667552137747407,
+          "surprise": 0.0011473629856482148,
+          "sadness": 0.0007153364713303745,
+          "anger": 0.0005329754785634577,
+          "disgust": 0.00038095907075330615,
+          "fear": 0.00023868712014518678
+        }
+      }
+    },
+    {
+      "t": 5.79,
+      "frame": "frame_000096_t5.79.jpg",
+      "face": {
+        "dominant": "happy",
+        "scores": {
+          "angry": 0.00131133699323982,
+          "disgust": 2.6732942970397744e-08,
+          "fear": 3.9649810787523165e-05,
+          "happy": 97.5574722290039,
+          "sad": 0.006095001008361578,
+          "surprise": 0.1452706903219223,
+          "neutral": 2.289807081222534
+        }
+      },
+      "text": {
+        "segment_start": 0.94,
+        "segment_end": 8.78,
+        "content": "Hola, este es otro prueba de Rostro Feliz para seguir comparando resultados y el modelo ya puede",
+        "dominant": "others",
+        "scores": {
+          "others": 0.9903091788291931,
+          "joy": 0.00667552137747407,
+          "surprise": 0.0011473629856482148,
+          "sadness": 0.0007153364713303745,
+          "anger": 0.0005329754785634577,
+          "disgust": 0.00038095907075330615,
+          "fear": 0.00023868712014518678
+        }
+      }
+    },
+    {
+      "t": 6.27,
+      "frame": "frame_000104_t6.27.jpg",
+      "face": {
+        "dominant": "neutral",
+        "scores": {
+          "angry": 0.2139127105474472,
+          "disgust": 1.4541832570102997e-05,
+          "fear": 0.00856157299131155,
+          "happy": 30.897756576538086,
+          "sad": 1.0782530307769775,
+          "surprise": 1.1157523393630981,
+          "neutral": 66.68574523925781
+        }
+      },
+      "text": {
+        "segment_start": 0.94,
+        "segment_end": 8.78,
+        "content": "Hola, este es otro prueba de Rostro Feliz para seguir comparando resultados y el modelo ya puede",
+        "dominant": "others",
+        "scores": {
+          "others": 0.9903091788291931,
+          "joy": 0.00667552137747407,
+          "surprise": 0.0011473629856482148,
+          "sadness": 0.0007153364713303745,
+          "anger": 0.0005329754785634577,
+          "disgust": 0.00038095907075330615,
+          "fear": 0.00023868712014518678
+        }
+      }
+    },
+    {
+      "t": 6.76,
+      "frame": "frame_000112_t6.76.jpg",
+      "face": {
+        "dominant": "happy",
+        "scores": {
+          "angry": 0.0003717904619406909,
+          "disgust": 4.353966520653785e-09,
+          "fear": 6.541802576975897e-05,
+          "happy": 98.92572784423828,
+          "sad": 0.004599806386977434,
+          "surprise": 0.38097092509269714,
+          "neutral": 0.6882694363594055
+        }
+      },
+      "text": {
+        "segment_start": 0.94,
+        "segment_end": 8.78,
+        "content": "Hola, este es otro prueba de Rostro Feliz para seguir comparando resultados y el modelo ya puede",
+        "dominant": "others",
+        "scores": {
+          "others": 0.9903091788291931,
+          "joy": 0.00667552137747407,
+          "surprise": 0.0011473629856482148,
+          "sadness": 0.0007153364713303745,
+          "anger": 0.0005329754785634577,
+          "disgust": 0.00038095907075330615,
+          "fear": 0.00023868712014518678
+        }
+      }
+    },
+    {
+      "t": 7.24,
+      "frame": "frame_000120_t7.24.jpg",
+      "face": {
+        "dominant": "happy",
+        "scores": {
+          "angry": 5.798795973532833e-05,
+          "disgust": 1.4575301035546495e-11,
+          "fear": 2.4160626708180644e-05,
+          "happy": 99.95964050292969,
+          "sad": 8.785875252215192e-05,
+          "surprise": 0.0310294758528471,
+          "neutral": 0.009150427766144276
+        }
+      },
+      "text": {
+        "segment_start": 0.94,
+        "segment_end": 8.78,
+        "content": "Hola, este es otro prueba de Rostro Feliz para seguir comparando resultados y el modelo ya puede",
+        "dominant": "others",
+        "scores": {
+          "others": 0.9903091788291931,
+          "joy": 0.00667552137747407,
+          "surprise": 0.0011473629856482148,
+          "sadness": 0.0007153364713303745,
+          "anger": 0.0005329754785634577,
+          "disgust": 0.00038095907075330615,
+          "fear": 0.00023868712014518678
+        }
+      }
+    },
+    {
+      "t": 7.72,
+      "frame": "frame_000128_t7.72.jpg",
+      "face": {
+        "dominant": "happy",
+        "scores": {
+          "angry": 0.030286641791462898,
+          "disgust": 7.816074685251806e-07,
+          "fear": 0.002074129180982709,
+          "happy": 81.63367462158203,
+          "sad": 0.12626685202121735,
+          "surprise": 1.484724760055542,
+          "neutral": 16.722978591918945
+        }
+      },
+      "text": {
+        "segment_start": 0.94,
+        "segment_end": 8.78,
+        "content": "Hola, este es otro prueba de Rostro Feliz para seguir comparando resultados y el modelo ya puede",
+        "dominant": "others",
+        "scores": {
+          "others": 0.9903091788291931,
+          "joy": 0.00667552137747407,
+          "surprise": 0.0011473629856482148,
+          "sadness": 0.0007153364713303745,
+          "anger": 0.0005329754785634577,
+          "disgust": 0.00038095907075330615,
+          "fear": 0.00023868712014518678
+        }
+      }
+    },
+    {
+      "t": 8.21,
+      "frame": "frame_000136_t8.21.jpg",
+      "face": {
+        "dominant": "fear",
+        "scores": {
+          "angry": 3.9984526665648445e-05,
+          "disgust": 7.898485684942891e-12,
+          "fear": 78.35382080078125,
+          "happy": 0.548299252986908,
+          "sad": 20.146133422851562,
+          "surprise": 0.0009119898895733058,
+          "neutral": 0.9508030414581299
+        }
+      },
+      "text": {
+        "segment_start": 0.94,
+        "segment_end": 8.78,
+        "content": "Hola, este es otro prueba de Rostro Feliz para seguir comparando resultados y el modelo ya puede",
+        "dominant": "others",
+        "scores": {
+          "others": 0.9903091788291931,
+          "joy": 0.00667552137747407,
+          "surprise": 0.0011473629856482148,
+          "sadness": 0.0007153364713303745,
+          "anger": 0.0005329754785634577,
+          "disgust": 0.00038095907075330615,
+          "fear": 0.00023868712014518678
+        }
+      }
+    },
+    {
+      "t": 8.69,
+      "frame": "frame_000144_t8.69.jpg",
+      "face": {
+        "dominant": "neutral",
+        "scores": {
+          "angry": 0.06854972243309021,
+          "disgust": 1.2121615782234585e-06,
+          "fear": 0.0021555640269070864,
+          "happy": 0.4671114683151245,
+          "sad": 1.5393165349960327,
+          "surprise": 0.011438034474849701,
+          "neutral": 97.91143035888672
+        }
+      },
+      "text": {
+        "segment_start": 0.94,
+        "segment_end": 8.78,
+        "content": "Hola, este es otro prueba de Rostro Feliz para seguir comparando resultados y el modelo ya puede",
+        "dominant": "others",
+        "scores": {
+          "others": 0.9903091788291931,
+          "joy": 0.00667552137747407,
+          "surprise": 0.0011473629856482148,
+          "sadness": 0.0007153364713303745,
+          "anger": 0.0005329754785634577,
+          "disgust": 0.00038095907075330615,
+          "fear": 0.00023868712014518678
+        }
+      }
+    },
+    {
+      "t": 9.17,
+      "frame": "frame_000152_t9.17.jpg",
+      "face": {
+        "dominant": "happy",
+        "scores": {
+          "angry": 0.013544273562729359,
+          "disgust": 4.642318174319371e-08,
+          "fear": 0.00021877355175092816,
+          "happy": 81.97846984863281,
+          "sad": 0.07213766872882843,
+          "surprise": 0.245574951171875,
+          "neutral": 17.69005012512207
+        }
+      },
+      "text": {
+        "segment_start": 8.78,
+        "segment_end": 17.18,
+        "content": "identificar de mejor manera si es que estoy con un Rostro Feliz si estuviera con otro tipo de",
+        "dominant": "others",
+        "scores": {
+          "others": 0.9835509657859802,
+          "joy": 0.008433879353106022,
+          "sadness": 0.005331525579094887,
+          "surprise": 0.0008389897993765771,
+          "anger": 0.0008265781798399985,
+          "disgust": 0.0005603056633844972,
+          "fear": 0.00045760133070871234
+        }
+      }
+    },
+    {
+      "t": 9.65,
+      "frame": "frame_000160_t9.65.jpg",
+      "face": {
+        "dominant": "neutral",
+        "scores": {
+          "angry": 0.06347406655550003,
+          "disgust": 5.4126798204379156e-05,
+          "fear": 0.13358385860919952,
+          "happy": 1.6951712369918823,
+          "sad": 2.0187745094299316,
+          "surprise": 0.7438203692436218,
+          "neutral": 95.34512329101562
+        }
+      },
+      "text": {
+        "segment_start": 8.78,
+        "segment_end": 17.18,
+        "content": "identificar de mejor manera si es que estoy con un Rostro Feliz si estuviera con otro tipo de",
+        "dominant": "others",
+        "scores": {
+          "others": 0.9835509657859802,
+          "joy": 0.008433879353106022,
+          "sadness": 0.005331525579094887,
+          "surprise": 0.0008389897993765771,
+          "anger": 0.0008265781798399985,
+          "disgust": 0.0005603056633844972,
+          "fear": 0.00045760133070871234
+        }
+      }
+    },
+    {
+      "t": 10.14,
+      "frame": "frame_000168_t10.14.jpg",
+      "face": {
+        "dominant": "neutral",
+        "scores": {
+          "angry": 0.41560661792755127,
+          "disgust": 6.1721934798697475e-06,
+          "fear": 0.048994481563568115,
+          "happy": 0.011885449290275574,
+          "sad": 15.131698608398438,
+          "surprise": 0.004452535882592201,
+          "neutral": 84.38735961914062
+        }
+      },
+      "text": {
+        "segment_start": 8.78,
+        "segment_end": 17.18,
+        "content": "identificar de mejor manera si es que estoy con un Rostro Feliz si estuviera con otro tipo de",
+        "dominant": "others",
+        "scores": {
+          "others": 0.9835509657859802,
+          "joy": 0.008433879353106022,
+          "sadness": 0.005331525579094887,
+          "surprise": 0.0008389897993765771,
+          "anger": 0.0008265781798399985,
+          "disgust": 0.0005603056633844972,
+          "fear": 0.00045760133070871234
+        }
+      }
+    },
+    {
+      "t": 10.62,
+      "frame": "frame_000176_t10.62.jpg",
+      "face": {
+        "dominant": "happy",
+        "scores": {
+          "angry": 0.0011933587957173586,
+          "disgust": 6.702632049382373e-08,
+          "fear": 0.00010821119940374047,
+          "happy": 98.81548309326172,
+          "sad": 0.0027228679973632097,
+          "surprise": 0.611753523349762,
+          "neutral": 0.5687444806098938
+        }
+      },
+      "text": {
+        "segment_start": 8.78,
+        "segment_end": 17.18,
+        "content": "identificar de mejor manera si es que estoy con un Rostro Feliz si estuviera con otro tipo de",
+        "dominant": "others",
+        "scores": {
+          "others": 0.9835509657859802,
+          "joy": 0.008433879353106022,
+          "sadness": 0.005331525579094887,
+          "surprise": 0.0008389897993765771,
+          "anger": 0.0008265781798399985,
+          "disgust": 0.0005603056633844972,
+          "fear": 0.00045760133070871234
+        }
+      }
+    },
+    {
+      "t": 11.1,
+      "frame": "frame_000184_t11.10.jpg",
+      "face": {
+        "dominant": "neutral",
+        "scores": {
+          "angry": 0.00048495832015760243,
+          "disgust": 4.397439443831752e-12,
+          "fear": 1.742091178894043,
+          "happy": 0.03549247235059738,
+          "sad": 4.0981621742248535,
+          "surprise": 0.00024254190793726593,
+          "neutral": 94.12352752685547
+        }
+      },
+      "text": {
+        "segment_start": 8.78,
+        "segment_end": 17.18,
+        "content": "identificar de mejor manera si es que estoy con un Rostro Feliz si estuviera con otro tipo de",
+        "dominant": "others",
+        "scores": {
+          "others": 0.9835509657859802,
+          "joy": 0.008433879353106022,
+          "sadness": 0.005331525579094887,
+          "surprise": 0.0008389897993765771,
+          "anger": 0.0008265781798399985,
+          "disgust": 0.0005603056633844972,
+          "fear": 0.00045760133070871234
+        }
+      }
+    },
+    {
+      "t": 11.58,
+      "frame": "frame_000192_t11.58.jpg",
+      "face": {
+        "dominant": "happy",
+        "scores": {
+          "angry": 0.0007644076831638813,
+          "disgust": 6.513535936392145e-06,
+          "fear": 0.0004088876012247056,
+          "happy": 97.64107513427734,
+          "sad": 0.023588217794895172,
+          "surprise": 0.03748347982764244,
+          "neutral": 2.2966716289520264
+        }
+      },
+      "text": {
+        "segment_start": 8.78,
+        "segment_end": 17.18,
+        "content": "identificar de mejor manera si es que estoy con un Rostro Feliz si estuviera con otro tipo de",
+        "dominant": "others",
+        "scores": {
+          "others": 0.9835509657859802,
+          "joy": 0.008433879353106022,
+          "sadness": 0.005331525579094887,
+          "surprise": 0.0008389897993765771,
+          "anger": 0.0008265781798399985,
+          "disgust": 0.0005603056633844972,
+          "fear": 0.00045760133070871234
+        }
+      }
+    },
+    {
+      "t": 12.07,
+      "frame": "frame_000200_t12.07.jpg",
+      "face": {
+        "dominant": "happy",
+        "scores": {
+          "angry": 0.0009200999047607183,
+          "disgust": 1.723474696291305e-08,
+          "fear": 0.0009728336008265615,
+          "happy": 72.77033233642578,
+          "sad": 0.002500542439520359,
+          "surprise": 2.908545970916748,
+          "neutral": 24.31671905517578
+        }
+      },
+      "text": {
+        "segment_start": 8.78,
+        "segment_end": 17.18,
+        "content": "identificar de mejor manera si es que estoy con un Rostro Feliz si estuviera con otro tipo de",
+        "dominant": "others",
+        "scores": {
+          "others": 0.9835509657859802,
+          "joy": 0.008433879353106022,
+          "sadness": 0.005331525579094887,
+          "surprise": 0.0008389897993765771,
+          "anger": 0.0008265781798399985,
+          "disgust": 0.0005603056633844972,
+          "fear": 0.00045760133070871234
+        }
+      }
+    },
+    {
+      "t": 12.55,
+      "frame": "frame_000208_t12.55.jpg",
+      "face": {
+        "dominant": "happy",
+        "scores": {
+          "angry": 0.00016264473379123956,
+          "disgust": 5.513214884622641e-10,
+          "fear": 2.59017451753607e-06,
+          "happy": 97.57070922851562,
+          "sad": 0.0009525082423351705,
+          "surprise": 0.009155933745205402,
+          "neutral": 2.419006824493408
+        }
+      },
+      "text": {
+        "segment_start": 8.78,
+        "segment_end": 17.18,
+        "content": "identificar de mejor manera si es que estoy con un Rostro Feliz si estuviera con otro tipo de",
+        "dominant": "others",
+        "scores": {
+          "others": 0.9835509657859802,
+          "joy": 0.008433879353106022,
+          "sadness": 0.005331525579094887,
+          "surprise": 0.0008389897993765771,
+          "anger": 0.0008265781798399985,
+          "disgust": 0.0005603056633844972,
+          "fear": 0.00045760133070871234
+        }
+      }
+    },
+    {
+      "t": 13.03,
+      "frame": "frame_000216_t13.03.jpg",
+      "face": {
+        "dominant": "happy",
+        "scores": {
+          "angry": 0.0002022369735641405,
+          "disgust": 2.723974691642983e-11,
+          "fear": 9.395156439495622e-07,
+          "happy": 99.90074157714844,
+          "sad": 6.250191654544324e-05,
+          "surprise": 0.00848416704684496,
+          "neutral": 0.09051430970430374
+        }
+      },
+      "text": {
+        "segment_start": 8.78,
+        "segment_end": 17.18,
+        "content": "identificar de mejor manera si es que estoy con un Rostro Feliz si estuviera con otro tipo de",
+        "dominant": "others",
+        "scores": {
+          "others": 0.9835509657859802,
+          "joy": 0.008433879353106022,
+          "sadness": 0.005331525579094887,
+          "surprise": 0.0008389897993765771,
+          "anger": 0.0008265781798399985,
+          "disgust": 0.0005603056633844972,
+          "fear": 0.00045760133070871234
+        }
+      }
+    },
+    {
+      "t": 13.51,
+      "frame": "frame_000224_t13.51.jpg",
+      "face": {
+        "dominant": "happy",
+        "scores": {
+          "angry": 3.529191599227488e-05,
+          "disgust": 3.730400068250331e-16,
+          "fear": 2.6636479688590953e-09,
+          "happy": 99.88372802734375,
+          "sad": 3.0231512937461957e-07,
+          "surprise": 0.0040847728960216045,
+          "neutral": 0.1121467649936676
+        }
+      },
+      "text": {
+        "segment_start": 8.78,
+        "segment_end": 17.18,
+        "content": "identificar de mejor manera si es que estoy con un Rostro Feliz si estuviera con otro tipo de",
+        "dominant": "others",
+        "scores": {
+          "others": 0.9835509657859802,
+          "joy": 0.008433879353106022,
+          "sadness": 0.005331525579094887,
+          "surprise": 0.0008389897993765771,
+          "anger": 0.0008265781798399985,
+          "disgust": 0.0005603056633844972,
+          "fear": 0.00045760133070871234
+        }
+      }
+    },
+    {
+      "t": 14.0,
+      "frame": "frame_000232_t14.00.jpg",
+      "face": {
+        "dominant": "happy",
+        "scores": {
+          "angry": 0.0020693133119493723,
+          "disgust": 4.4994502568229677e-10,
+          "fear": 1.350491129414877e-05,
+          "happy": 99.21154022216797,
+          "sad": 0.00023752919514663517,
+          "surprise": 0.30064430832862854,
+          "neutral": 0.48548680543899536
+        }
+      },
+      "text": {
+        "segment_start": 8.78,
+        "segment_end": 17.18,
+        "content": "identificar de mejor manera si es que estoy con un Rostro Feliz si estuviera con otro tipo de",
+        "dominant": "others",
+        "scores": {
+          "others": 0.9835509657859802,
+          "joy": 0.008433879353106022,
+          "sadness": 0.005331525579094887,
+          "surprise": 0.0008389897993765771,
+          "anger": 0.0008265781798399985,
+          "disgust": 0.0005603056633844972,
+          "fear": 0.00045760133070871234
+        }
+      }
+    },
+    {
+      "t": 14.48,
+      "frame": "frame_000240_t14.48.jpg",
+      "face": {
+        "dominant": "fear",
+        "scores": {
+          "angry": 1.0884262323379517,
+          "disgust": 5.986192627460696e-05,
+          "fear": 58.89936447143555,
+          "happy": 3.278160333633423,
+          "sad": 15.728562355041504,
+          "surprise": 0.02447289414703846,
+          "neutral": 20.9809513092041
+        }
+      },
+      "text": {
+        "segment_start": 8.78,
+        "segment_end": 17.18,
+        "content": "identificar de mejor manera si es que estoy con un Rostro Feliz si estuviera con otro tipo de",
+        "dominant": "others",
+        "scores": {
+          "others": 0.9835509657859802,
+          "joy": 0.008433879353106022,
+          "sadness": 0.005331525579094887,
+          "surprise": 0.0008389897993765771,
+          "anger": 0.0008265781798399985,
+          "disgust": 0.0005603056633844972,
+          "fear": 0.00045760133070871234
+        }
+      }
+    },
+    {
+      "t": 14.96,
+      "frame": "frame_000248_t14.96.jpg",
+      "face": {
+        "dominant": "happy",
+        "scores": {
+          "angry": 0.00022929804981686175,
+          "disgust": 1.7495030135705747e-07,
+          "fear": 7.694568921579048e-05,
+          "happy": 96.14801788330078,
+          "sad": 0.007285329978913069,
+          "surprise": 0.05257591977715492,
+          "neutral": 3.7918131351470947
+        }
+      },
+      "text": {
+        "segment_start": 8.78,
+        "segment_end": 17.18,
+        "content": "identificar de mejor manera si es que estoy con un Rostro Feliz si estuviera con otro tipo de",
+        "dominant": "others",
+        "scores": {
+          "others": 0.9835509657859802,
+          "joy": 0.008433879353106022,
+          "sadness": 0.005331525579094887,
+          "surprise": 0.0008389897993765771,
+          "anger": 0.0008265781798399985,
+          "disgust": 0.0005603056633844972,
+          "fear": 0.00045760133070871234
+        }
+      }
+    },
+    {
+      "t": 15.45,
+      "frame": "frame_000256_t15.45.jpg",
+      "face": {
+        "dominant": "happy",
+        "scores": {
+          "angry": 0.0009428770863451064,
+          "disgust": 3.6758322039531777e-06,
+          "fear": 0.0006761560798622668,
+          "happy": 94.5480728149414,
+          "sad": 0.06235889717936516,
+          "surprise": 0.17164583504199982,
+          "neutral": 5.216298580169678
+        }
+      },
+      "text": {
+        "segment_start": 8.78,
+        "segment_end": 17.18,
+        "content": "identificar de mejor manera si es que estoy con un Rostro Feliz si estuviera con otro tipo de",
+        "dominant": "others",
+        "scores": {
+          "others": 0.9835509657859802,
+          "joy": 0.008433879353106022,
+          "sadness": 0.005331525579094887,
+          "surprise": 0.0008389897993765771,
+          "anger": 0.0008265781798399985,
+          "disgust": 0.0005603056633844972,
+          "fear": 0.00045760133070871234
+        }
+      }
+    },
+    {
+      "t": 15.93,
+      "frame": "frame_000264_t15.93.jpg",
+      "face": {
+        "dominant": "happy",
+        "scores": {
+          "angry": 0.0008119906997308135,
+          "disgust": 2.5668454028959786e-08,
+          "fear": 0.00013365937047638,
+          "happy": 97.54391479492188,
+          "sad": 0.002877266611903906,
+          "surprise": 0.4702064096927643,
+          "neutral": 1.9820491075515747
+        }
+      },
+      "text": {
+        "segment_start": 8.78,
+        "segment_end": 17.18,
+        "content": "identificar de mejor manera si es que estoy con un Rostro Feliz si estuviera con otro tipo de",
+        "dominant": "others",
+        "scores": {
+          "others": 0.9835509657859802,
+          "joy": 0.008433879353106022,
+          "sadness": 0.005331525579094887,
+          "surprise": 0.0008389897993765771,
+          "anger": 0.0008265781798399985,
+          "disgust": 0.0005603056633844972,
+          "fear": 0.00045760133070871234
+        }
+      }
+    },
+    {
+      "t": 16.41,
+      "frame": "frame_000272_t16.41.jpg",
+      "face": {
+        "dominant": "neutral",
+        "scores": {
+          "angry": 0.013200921006500721,
+          "disgust": 4.6397818209698016e-07,
+          "fear": 0.0004195503715891391,
+          "happy": 47.05704879760742,
+          "sad": 0.23076516389846802,
+          "surprise": 0.4553079605102539,
+          "neutral": 52.243255615234375
+        }
+      },
+      "text": {
+        "segment_start": 8.78,
+        "segment_end": 17.18,
+        "content": "identificar de mejor manera si es que estoy con un Rostro Feliz si estuviera con otro tipo de",
+        "dominant": "others",
+        "scores": {
+          "others": 0.9835509657859802,
+          "joy": 0.008433879353106022,
+          "sadness": 0.005331525579094887,
+          "surprise": 0.0008389897993765771,
+          "anger": 0.0008265781798399985,
+          "disgust": 0.0005603056633844972,
+          "fear": 0.00045760133070871234
+        }
+      }
+    },
+    {
+      "t": 16.89,
+      "frame": "frame_000280_t16.89.jpg",
+      "face": {
+        "dominant": "neutral",
+        "scores": {
+          "angry": 0.27990731596946716,
+          "disgust": 5.70125439480762e-06,
+          "fear": 0.01018056645989418,
+          "happy": 0.02284867875277996,
+          "sad": 2.8207948207855225,
+          "surprise": 0.0674530565738678,
+          "neutral": 96.7988052368164
+        }
+      },
+      "text": {
+        "segment_start": 8.78,
+        "segment_end": 17.18,
+        "content": "identificar de mejor manera si es que estoy con un Rostro Feliz si estuviera con otro tipo de",
+        "dominant": "others",
+        "scores": {
+          "others": 0.9835509657859802,
+          "joy": 0.008433879353106022,
+          "sadness": 0.005331525579094887,
+          "surprise": 0.0008389897993765771,
+          "anger": 0.0008265781798399985,
+          "disgust": 0.0005603056633844972,
+          "fear": 0.00045760133070871234
+        }
+      }
+    },
+    {
+      "t": 17.38,
+      "frame": "frame_000288_t17.38.jpg",
+      "face": {
+        "dominant": "neutral",
+        "scores": {
+          "angry": 0.23809774219989777,
+          "disgust": 1.0743070788521436e-06,
+          "fear": 0.012182576581835747,
+          "happy": 0.0029107145965099335,
+          "sad": 2.9762473106384277,
+          "surprise": 0.013309246860444546,
+          "neutral": 96.75724792480469
+        }
+      },
+      "text": {
+        "segment_start": 17.18,
+        "segment_end": 23.26,
+        "content": "Rostro y que el reúntodo del más probable sea con el modelito. Sigan viendo para más información",
+        "dominant": "others",
+        "scores": {
+          "others": 0.9915863275527954,
+          "surprise": 0.004367629997432232,
+          "fear": 0.0017163836164399981,
+          "sadness": 0.0009756161598488688,
+          "joy": 0.000594473909586668,
+          "anger": 0.0004261112480890006,
+          "disgust": 0.00033347296994179487
+        }
+      }
+    },
+    {
+      "t": 17.86,
+      "frame": "frame_000296_t17.86.jpg",
+      "face": {
+        "dominant": "happy",
+        "scores": {
+          "angry": 0.002895884681493044,
+          "disgust": 2.5938567266292623e-11,
+          "fear": 1.1320478733978234e-05,
+          "happy": 99.16586303710938,
+          "sad": 9.471291559748352e-05,
+          "surprise": 0.7651609778404236,
+          "neutral": 0.06597450375556946
+        }
+      },
+      "text": {
+        "segment_start": 17.18,
+        "segment_end": 23.26,
+        "content": "Rostro y que el reúntodo del más probable sea con el modelito. Sigan viendo para más información",
+        "dominant": "others",
+        "scores": {
+          "others": 0.9915863275527954,
+          "surprise": 0.004367629997432232,
+          "fear": 0.0017163836164399981,
+          "sadness": 0.0009756161598488688,
+          "joy": 0.000594473909586668,
+          "anger": 0.0004261112480890006,
+          "disgust": 0.00033347296994179487
+        }
+      }
+    },
+    {
+      "t": 18.34,
+      "frame": "frame_000304_t18.34.jpg",
+      "face": {
+        "dominant": "neutral",
+        "scores": {
+          "angry": 0.4659106433391571,
+          "disgust": 4.578150310408091e-06,
+          "fear": 0.01762077398598194,
+          "happy": 26.34493637084961,
+          "sad": 0.35291415452957153,
+          "surprise": 10.644624710083008,
+          "neutral": 62.17399215698242
+        }
+      },
+      "text": {
+        "segment_start": 17.18,
+        "segment_end": 23.26,
+        "content": "Rostro y que el reúntodo del más probable sea con el modelito. Sigan viendo para más información",
+        "dominant": "others",
+        "scores": {
+          "others": 0.9915863275527954,
+          "surprise": 0.004367629997432232,
+          "fear": 0.0017163836164399981,
+          "sadness": 0.0009756161598488688,
+          "joy": 0.000594473909586668,
+          "anger": 0.0004261112480890006,
+          "disgust": 0.00033347296994179487
+        }
+      }
+    },
+    {
+      "t": 18.82,
+      "frame": "frame_000312_t18.82.jpg",
+      "face": {
+        "dominant": "neutral",
+        "scores": {
+          "angry": 2.3806815147399902,
+          "disgust": 0.00021381385158747435,
+          "fear": 0.03120129369199276,
+          "happy": 0.0095984460785985,
+          "sad": 9.173840522766113,
+          "surprise": 0.007593328133225441,
+          "neutral": 88.3968734741211
+        }
+      },
+      "text": {
+        "segment_start": 17.18,
+        "segment_end": 23.26,
+        "content": "Rostro y que el reúntodo del más probable sea con el modelito. Sigan viendo para más información",
+        "dominant": "others",
+        "scores": {
+          "others": 0.9915863275527954,
+          "surprise": 0.004367629997432232,
+          "fear": 0.0017163836164399981,
+          "sadness": 0.0009756161598488688,
+          "joy": 0.000594473909586668,
+          "anger": 0.0004261112480890006,
+          "disgust": 0.00033347296994179487
+        }
+      }
+    },
+    {
+      "t": 19.31,
+      "frame": "frame_000320_t19.31.jpg",
+      "face": {
+        "dominant": "neutral",
+        "scores": {
+          "angry": 0.4024893343448639,
+          "disgust": 0.0021674290765076876,
+          "fear": 0.32639557123184204,
+          "happy": 0.00034150955616496503,
+          "sad": 17.212566375732422,
+          "surprise": 0.00012182520003989339,
+          "neutral": 82.05592346191406
+        }
+      },
+      "text": {
+        "segment_start": 17.18,
+        "segment_end": 23.26,
+        "content": "Rostro y que el reúntodo del más probable sea con el modelito. Sigan viendo para más información",
+        "dominant": "others",
+        "scores": {
+          "others": 0.9915863275527954,
+          "surprise": 0.004367629997432232,
+          "fear": 0.0017163836164399981,
+          "sadness": 0.0009756161598488688,
+          "joy": 0.000594473909586668,
+          "anger": 0.0004261112480890006,
+          "disgust": 0.00033347296994179487
+        }
+      }
+    },
+    {
+      "t": 19.79,
+      "frame": "frame_000328_t19.79.jpg",
+      "face": {
+        "dominant": "neutral",
+        "scores": {
+          "angry": 0.3170716166496277,
+          "disgust": 2.1758765797130764e-05,
+          "fear": 0.014755996875464916,
+          "happy": 0.013626127503812313,
+          "sad": 3.414276123046875,
+          "surprise": 0.005882547702640295,
+          "neutral": 96.23435974121094
+        }
+      },
+      "text": {
+        "segment_start": 17.18,
+        "segment_end": 23.26,
+        "content": "Rostro y que el reúntodo del más probable sea con el modelito. Sigan viendo para más información",
+        "dominant": "others",
+        "scores": {
+          "others": 0.9915863275527954,
+          "surprise": 0.004367629997432232,
+          "fear": 0.0017163836164399981,
+          "sadness": 0.0009756161598488688,
+          "joy": 0.000594473909586668,
+          "anger": 0.0004261112480890006,
+          "disgust": 0.00033347296994179487
+        }
+      }
+    },
+    {
+      "t": 20.27,
+      "frame": "frame_000336_t20.27.jpg",
+      "face": {
+        "dominant": "happy",
+        "scores": {
+          "angry": 0.0027164279017597437,
+          "disgust": 8.691983310882279e-08,
+          "fear": 0.0011648564832285047,
+          "happy": 93.54947662353516,
+          "sad": 0.029599769040942192,
+          "surprise": 1.6330633163452148,
+          "neutral": 4.783980369567871
+        }
+      },
+      "text": {
+        "segment_start": 17.18,
+        "segment_end": 23.26,
+        "content": "Rostro y que el reúntodo del más probable sea con el modelito. Sigan viendo para más información",
+        "dominant": "others",
+        "scores": {
+          "others": 0.9915863275527954,
+          "surprise": 0.004367629997432232,
+          "fear": 0.0017163836164399981,
+          "sadness": 0.0009756161598488688,
+          "joy": 0.000594473909586668,
+          "anger": 0.0004261112480890006,
+          "disgust": 0.00033347296994179487
+        }
+      }
+    },
+    {
+      "t": 20.76,
+      "frame": "frame_000344_t20.76.jpg",
+      "face": {
+        "dominant": "happy",
+        "scores": {
+          "angry": 0.00015247610281221569,
+          "disgust": 4.963679120506548e-11,
+          "fear": 7.059095878503285e-06,
+          "happy": 99.49849700927734,
+          "sad": 0.00011131574137834832,
+          "surprise": 0.3473909795284271,
+          "neutral": 0.15383924543857574
+        }
+      },
+      "text": {
+        "segment_start": 17.18,
+        "segment_end": 23.26,
+        "content": "Rostro y que el reúntodo del más probable sea con el modelito. Sigan viendo para más información",
+        "dominant": "others",
+        "scores": {
+          "others": 0.9915863275527954,
+          "surprise": 0.004367629997432232,
+          "fear": 0.0017163836164399981,
+          "sadness": 0.0009756161598488688,
+          "joy": 0.000594473909586668,
+          "anger": 0.0004261112480890006,
+          "disgust": 0.00033347296994179487
+        }
+      }
+    },
+    {
+      "t": 21.24,
+      "frame": "frame_000352_t21.24.jpg",
+      "face": {
+        "dominant": "happy",
+        "scores": {
+          "angry": 0.0004615299985744059,
+          "disgust": 5.55024082249389e-10,
+          "fear": 6.589176337001845e-06,
+          "happy": 99.54129791259766,
+          "sad": 0.0005980838905088603,
+          "surprise": 0.08630344271659851,
+          "neutral": 0.3713362514972687
+        }
+      },
+      "text": {
+        "segment_start": 17.18,
+        "segment_end": 23.26,
+        "content": "Rostro y que el reúntodo del más probable sea con el modelito. Sigan viendo para más información",
+        "dominant": "others",
+        "scores": {
+          "others": 0.9915863275527954,
+          "surprise": 0.004367629997432232,
+          "fear": 0.0017163836164399981,
+          "sadness": 0.0009756161598488688,
+          "joy": 0.000594473909586668,
+          "anger": 0.0004261112480890006,
+          "disgust": 0.00033347296994179487
+        }
+      }
+    },
+    {
+      "t": 21.72,
+      "frame": "frame_000360_t21.72.jpg",
+      "face": {
+        "dominant": "neutral",
+        "scores": {
+          "angry": 0.007376491092145443,
+          "disgust": 9.85231549122112e-11,
+          "fear": 16.344322204589844,
+          "happy": 0.10921069979667664,
+          "sad": 25.68194580078125,
+          "surprise": 0.005262588616460562,
+          "neutral": 57.85188674926758
+        }
+      },
+      "text": {
+        "segment_start": 17.18,
+        "segment_end": 23.26,
+        "content": "Rostro y que el reúntodo del más probable sea con el modelito. Sigan viendo para más información",
+        "dominant": "others",
+        "scores": {
+          "others": 0.9915863275527954,
+          "surprise": 0.004367629997432232,
+          "fear": 0.0017163836164399981,
+          "sadness": 0.0009756161598488688,
+          "joy": 0.000594473909586668,
+          "anger": 0.0004261112480890006,
+          "disgust": 0.00033347296994179487
+        }
+      }
+    },
+    {
+      "t": 22.2,
+      "frame": "frame_000368_t22.20.jpg",
+      "face": {
+        "dominant": "happy",
+        "scores": {
+          "angry": 0.0029832283034920692,
+          "disgust": 3.059628284063365e-07,
+          "fear": 0.0003397289547137916,
+          "happy": 98.5449447631836,
+          "sad": 0.03586621955037117,
+          "surprise": 0.20661607384681702,
+          "neutral": 1.2092519998550415
+        }
+      },
+      "text": {
+        "segment_start": 17.18,
+        "segment_end": 23.26,
+        "content": "Rostro y que el reúntodo del más probable sea con el modelito. Sigan viendo para más información",
+        "dominant": "others",
+        "scores": {
+          "others": 0.9915863275527954,
+          "surprise": 0.004367629997432232,
+          "fear": 0.0017163836164399981,
+          "sadness": 0.0009756161598488688,
+          "joy": 0.000594473909586668,
+          "anger": 0.0004261112480890006,
+          "disgust": 0.00033347296994179487
+        }
+      }
+    },
+    {
+      "t": 22.69,
+      "frame": "frame_000376_t22.69.jpg",
+      "face": {
+        "dominant": "neutral",
+        "scores": {
+          "angry": 0.04102681577205658,
+          "disgust": 1.4975175872677937e-05,
+          "fear": 0.02912076562643051,
+          "happy": 0.6312178373336792,
+          "sad": 1.052830696105957,
+          "surprise": 0.015799865126609802,
+          "neutral": 98.22998809814453
+        }
+      },
+      "text": {
+        "segment_start": 17.18,
+        "segment_end": 23.26,
+        "content": "Rostro y que el reúntodo del más probable sea con el modelito. Sigan viendo para más información",
+        "dominant": "others",
+        "scores": {
+          "others": 0.9915863275527954,
+          "surprise": 0.004367629997432232,
+          "fear": 0.0017163836164399981,
+          "sadness": 0.0009756161598488688,
+          "joy": 0.000594473909586668,
+          "anger": 0.0004261112480890006,
+          "disgust": 0.00033347296994179487
+        }
+      }
+    },
+    {
+      "t": 23.17,
+      "frame": "frame_000384_t23.17.jpg",
+      "face": {
+        "dominant": "neutral",
+        "scores": {
+          "angry": 0.015858713537454605,
+          "disgust": 2.4687597743877632e-08,
+          "fear": 0.0002976030809804797,
+          "happy": 0.041136156767606735,
+          "sad": 0.21377231180667877,
+          "surprise": 0.002063923981040716,
+          "neutral": 99.72687530517578
+        }
+      },
+      "text": {
+        "segment_start": 17.18,
+        "segment_end": 23.26,
+        "content": "Rostro y que el reúntodo del más probable sea con el modelito. Sigan viendo para más información",
+        "dominant": "others",
+        "scores": {
+          "others": 0.9915863275527954,
+          "surprise": 0.004367629997432232,
+          "fear": 0.0017163836164399981,
+          "sadness": 0.0009756161598488688,
+          "joy": 0.000594473909586668,
+          "anger": 0.0004261112480890006,
+          "disgust": 0.00033347296994179487
+        }
+      }
+    },
+    {
+      "t": 23.65,
+      "frame": "frame_000392_t23.65.jpg",
+      "face": {
+        "dominant": "happy",
+        "scores": {
+          "angry": 0.0001373046252410859,
+          "disgust": 5.086612304694427e-07,
+          "fear": 0.005361160263419151,
+          "happy": 99.3682861328125,
+          "sad": 0.008418859913945198,
+          "surprise": 0.05346399545669556,
+          "neutral": 0.5643284916877747
+        }
+      },
+      "text": {
+        "segment_start": 23.26,
+        "segment_end": 28.14,
+        "content": "puedes estar al reacto en el informe de una mejor manera. Gracias",
+        "dominant": "others",
+        "scores": {
+          "others": 0.9931595325469971,
+          "joy": 0.0018030701903626323,
+          "anger": 0.0013795018894597888,
+          "surprise": 0.001188395544886589,
+          "fear": 0.0010685588931664824,
+          "sadness": 0.0009335374343208969,
+          "disgust": 0.00046742468839511275
+        }
+      }
+    },
+    {
+      "t": 24.13,
+      "frame": "frame_000400_t24.13.jpg",
+      "face": {
+        "dominant": "happy",
+        "scores": {
+          "angry": 0.04874889552593231,
+          "disgust": 4.087496563442983e-06,
+          "fear": 0.005252583418041468,
+          "happy": 81.32305908203125,
+          "sad": 0.6012855172157288,
+          "surprise": 0.3534795045852661,
+          "neutral": 17.668170928955078
+        }
+      },
+      "text": {
+        "segment_start": 23.26,
+        "segment_end": 28.14,
+        "content": "puedes estar al reacto en el informe de una mejor manera. Gracias",
+        "dominant": "others",
+        "scores": {
+          "others": 0.9931595325469971,
+          "joy": 0.0018030701903626323,
+          "anger": 0.0013795018894597888,
+          "surprise": 0.001188395544886589,
+          "fear": 0.0010685588931664824,
+          "sadness": 0.0009335374343208969,
+          "disgust": 0.00046742468839511275
+        }
+      }
+    },
+    {
+      "t": 24.62,
+      "frame": "frame_000408_t24.62.jpg",
+      "face": {
+        "dominant": "neutral",
+        "scores": {
+          "angry": 1.6893154382705688,
+          "disgust": 0.00018657730834092945,
+          "fear": 0.22016961872577667,
+          "happy": 0.06408596783876419,
+          "sad": 35.084815979003906,
+          "surprise": 0.009429235942661762,
+          "neutral": 62.9319953918457
+        }
+      },
+      "text": {
+        "segment_start": 23.26,
+        "segment_end": 28.14,
+        "content": "puedes estar al reacto en el informe de una mejor manera. Gracias",
+        "dominant": "others",
+        "scores": {
+          "others": 0.9931595325469971,
+          "joy": 0.0018030701903626323,
+          "anger": 0.0013795018894597888,
+          "surprise": 0.001188395544886589,
+          "fear": 0.0010685588931664824,
+          "sadness": 0.0009335374343208969,
+          "disgust": 0.00046742468839511275
+        }
+      }
+    },
+    {
+      "t": 25.1,
+      "frame": "frame_000416_t25.10.jpg",
+      "face": {
+        "dominant": "happy",
+        "scores": {
+          "angry": 0.0022747917100787163,
+          "disgust": 3.3277413535870437e-07,
+          "fear": 0.0011156962718814611,
+          "happy": 97.59812927246094,
+          "sad": 0.0356697253882885,
+          "surprise": 0.5701819062232971,
+          "neutral": 1.7926276922225952
+        }
+      },
+      "text": {
+        "segment_start": 23.26,
+        "segment_end": 28.14,
+        "content": "puedes estar al reacto en el informe de una mejor manera. Gracias",
+        "dominant": "others",
+        "scores": {
+          "others": 0.9931595325469971,
+          "joy": 0.0018030701903626323,
+          "anger": 0.0013795018894597888,
+          "surprise": 0.001188395544886589,
+          "fear": 0.0010685588931664824,
+          "sadness": 0.0009335374343208969,
+          "disgust": 0.00046742468839511275
+        }
+      }
+    },
+    {
+      "t": 25.58,
+      "frame": "frame_000424_t25.58.jpg",
+      "face": {
+        "dominant": "neutral",
+        "scores": {
+          "angry": 2.9759373664855957,
+          "disgust": 0.00032721678144298494,
+          "fear": 0.0525418221950531,
+          "happy": 27.00052261352539,
+          "sad": 4.0721235275268555,
+          "surprise": 3.0641751289367676,
+          "neutral": 62.83436965942383
+        }
+      },
+      "text": {
+        "segment_start": 23.26,
+        "segment_end": 28.14,
+        "content": "puedes estar al reacto en el informe de una mejor manera. Gracias",
+        "dominant": "others",
+        "scores": {
+          "others": 0.9931595325469971,
+          "joy": 0.0018030701903626323,
+          "anger": 0.0013795018894597888,
+          "surprise": 0.001188395544886589,
+          "fear": 0.0010685588931664824,
+          "sadness": 0.0009335374343208969,
+          "disgust": 0.00046742468839511275
+        }
+      }
+    },
+    {
+      "t": 26.06,
+      "frame": "frame_000432_t26.06.jpg",
+      "face": {
+        "dominant": "neutral",
+        "scores": {
+          "angry": 1.7091234922409058,
+          "disgust": 0.0006175083108246326,
+          "fear": 0.3236507475376129,
+          "happy": 4.767348766326904,
+          "sad": 20.83894920349121,
+          "surprise": 0.7822622656822205,
+          "neutral": 71.57804107666016
+        }
+      },
+      "text": {
+        "segment_start": 23.26,
+        "segment_end": 28.14,
+        "content": "puedes estar al reacto en el informe de una mejor manera. Gracias",
+        "dominant": "others",
+        "scores": {
+          "others": 0.9931595325469971,
+          "joy": 0.0018030701903626323,
+          "anger": 0.0013795018894597888,
+          "surprise": 0.001188395544886589,
+          "fear": 0.0010685588931664824,
+          "sadness": 0.0009335374343208969,
+          "disgust": 0.00046742468839511275
+        }
+      }
+    },
+    {
+      "t": 26.55,
+      "frame": "frame_000440_t26.55.jpg",
+      "face": {
+        "dominant": "neutral",
+        "scores": {
+          "angry": 5.402669429779053,
+          "disgust": 0.0015305771958082914,
+          "fear": 0.05698111653327942,
+          "happy": 0.5348253846168518,
+          "sad": 15.95932388305664,
+          "surprise": 0.03699852153658867,
+          "neutral": 78.00767517089844
+        }
+      },
+      "text": {
+        "segment_start": 23.26,
+        "segment_end": 28.14,
+        "content": "puedes estar al reacto en el informe de una mejor manera. Gracias",
+        "dominant": "others",
+        "scores": {
+          "others": 0.9931595325469971,
+          "joy": 0.0018030701903626323,
+          "anger": 0.0013795018894597888,
+          "surprise": 0.001188395544886589,
+          "fear": 0.0010685588931664824,
+          "sadness": 0.0009335374343208969,
+          "disgust": 0.00046742468839511275
+        }
+      }
+    },
+    {
+      "t": 27.03,
+      "frame": "frame_000448_t27.03.jpg",
+      "face": {
+        "dominant": "neutral",
+        "scores": {
+          "angry": 2.868051767349243,
+          "disgust": 0.0004010644624941051,
+          "fear": 0.14001275599002838,
+          "happy": 0.003764342749491334,
+          "sad": 15.968122482299805,
+          "surprise": 0.0004980928497388959,
+          "neutral": 81.01914978027344
+        }
+      },
+      "text": {
+        "segment_start": 23.26,
+        "segment_end": 28.14,
+        "content": "puedes estar al reacto en el informe de una mejor manera. Gracias",
+        "dominant": "others",
+        "scores": {
+          "others": 0.9931595325469971,
+          "joy": 0.0018030701903626323,
+          "anger": 0.0013795018894597888,
+          "surprise": 0.001188395544886589,
+          "fear": 0.0010685588931664824,
+          "sadness": 0.0009335374343208969,
+          "disgust": 0.00046742468839511275
+        }
+      }
+    },
+    {
+      "t": 27.51,
+      "frame": "frame_000456_t27.51.jpg",
+      "face": {
+        "dominant": "happy",
+        "scores": {
+          "angry": 0.09254240244626999,
+          "disgust": 7.71135603372386e-07,
+          "fear": 0.0024650690611451864,
+          "happy": 79.63186645507812,
+          "sad": 0.5539866089820862,
+          "surprise": 1.4980348348617554,
+          "neutral": 18.22109603881836
+        }
+      },
+      "text": {
+        "segment_start": 23.26,
+        "segment_end": 28.14,
+        "content": "puedes estar al reacto en el informe de una mejor manera. Gracias",
+        "dominant": "others",
+        "scores": {
+          "others": 0.9931595325469971,
+          "joy": 0.0018030701903626323,
+          "anger": 0.0013795018894597888,
+          "surprise": 0.001188395544886589,
+          "fear": 0.0010685588931664824,
+          "sadness": 0.0009335374343208969,
+          "disgust": 0.00046742468839511275
+        }
+      }
+    },
+    {
+      "t": 28.0,
+      "frame": "frame_000464_t28.00.jpg",
+      "face": {
+        "dominant": "happy",
+        "scores": {
+          "angry": 0.00012146471271989867,
+          "disgust": 1.6709333916509195e-09,
+          "fear": 2.1991590983816423e-05,
+          "happy": 98.8538589477539,
+          "sad": 0.004140324890613556,
+          "surprise": 0.047736700624227524,
+          "neutral": 1.094120979309082
+        }
+      },
+      "text": {
+        "segment_start": 23.26,
+        "segment_end": 28.14,
+        "content": "puedes estar al reacto en el informe de una mejor manera. Gracias",
+        "dominant": "others",
+        "scores": {
+          "others": 0.9931595325469971,
+          "joy": 0.0018030701903626323,
+          "anger": 0.0013795018894597888,
+          "surprise": 0.001188395544886589,
+          "fear": 0.0010685588931664824,
+          "sadness": 0.0009335374343208969,
+          "disgust": 0.00046742468839511275
+        }
+      }
+    },
+    {
+      "t": 28.48,
+      "frame": "frame_000472_t28.48.jpg",
+      "face": {
+        "dominant": "happy",
+        "scores": {
+          "angry": 0.027781682088971138,
+          "disgust": 2.368150120446444e-08,
+          "fear": 0.0013759847497567534,
+          "happy": 86.52301025390625,
+          "sad": 0.005925504956394434,
+          "surprise": 10.91009521484375,
+          "neutral": 2.531818151473999
+        }
+      },
+      "text": {
+        "segment_start": null,
+        "segment_end": null,
+        "content": null,
+        "dominant": null,
+        "scores": null
+      }
+    },
+    {
+      "t": 28.96,
+      "frame": "frame_000480_t28.96.jpg",
+      "face": {
+        "dominant": "happy",
+        "scores": {
+          "angry": 0.003389061661437154,
+          "disgust": 5.328308461116649e-08,
+          "fear": 0.0015700759831815958,
+          "happy": 98.867431640625,
+          "sad": 0.005479246377944946,
+          "surprise": 0.830955982208252,
+          "neutral": 0.2911749482154846
+        }
+      },
+      "text": {
+        "segment_start": null,
+        "segment_end": null,
+        "content": null,
+        "dominant": null,
+        "scores": null
+      }
+    },
+    {
+      "t": 29.44,
+      "frame": "frame_000488_t29.44.jpg",
+      "face": {
+        "dominant": "happy",
+        "scores": {
+          "angry": 0.0005213745753280818,
+          "disgust": 3.5650060681291507e-08,
+          "fear": 4.753826942760497e-05,
+          "happy": 98.46684265136719,
+          "sad": 0.010910973884165287,
+          "surprise": 0.07468951493501663,
+          "neutral": 1.4469906091690063
+        }
+      },
+      "text": {
+        "segment_start": null,
+        "segment_end": null,
+        "content": null,
+        "dominant": null,
+        "scores": null
+      }
+    },
+    {
+      "t": 29.93,
+      "frame": "frame_000496_t29.93.jpg",
+      "face": {
+        "dominant": "happy",
+        "scores": {
+          "angry": 0.01461757905781269,
+          "disgust": 7.705089228693396e-05,
+          "fear": 0.4164744019508362,
+          "happy": 94.08917236328125,
+          "sad": 2.37687349319458,
+          "surprise": 0.03599603474140167,
+          "neutral": 3.0667884349823
+        }
+      },
+      "text": {
+        "segment_start": null,
+        "segment_end": null,
+        "content": null,
+        "dominant": null,
+        "scores": null
+      }
+    },
+    {
+      "t": 30.41,
+      "frame": "frame_000504_t30.41.jpg",
+      "face": {
+        "dominant": "sad",
+        "scores": {
+          "angry": 1.8227165937423706,
+          "disgust": 0.0029178308323025703,
+          "fear": 0.36070024967193604,
+          "happy": 0.39493343234062195,
+          "sad": 64.26434326171875,
+          "surprise": 0.04491333290934563,
+          "neutral": 33.10947799682617
+        }
+      },
+      "text": {
+        "segment_start": null,
+        "segment_end": null,
+        "content": null,
+        "dominant": null,
+        "scores": null
+      }
+    }
+  ]
+}

@@ -1,5 +1,7 @@
 {
   "video": "prueba3",
+  "multimodal_path": "..\\outputs\\multimodal\\prueba3_multimodal.json",
+  "labels_path": "..\\data\\labels\\Prueba3_labels.json",
   "changes": {
     "n_face_changes": 11,
     "n_text_changes": 0,
@@ -76,22 +78,30 @@
   "metrics": {
     "face_vs_text": {
       "total_with_text": 63,
-      "match": 33,
-      "mismatch": 30,
-      "match_rate": 0.5238095238095238
+      "match": 45,
+      "mismatch": 18,
+      "match_rate": 0.7142857142857143,
+      "skipped_no_face": 0,
+      "skipped_no_text": 3,
+      "skipped_unmappable_face": 0,
+      "skipped_unmappable_text": 0,
+      "text_segments": 63
     },
     "vs_manual_labels": {
-      "labels_path": "data/labels\\prueba3_labels.json",
+      "labels_path": "..\\data\\labels\\Prueba3_labels.json",
+      "gt_taxonomy": "normalized_manual_map",
+      "compared_signal": "face_smoothed",
       "total_labeled": 65,
-      "match": 58,
-      "mismatch": 7,
-      "match_rate": 0.8923076923076924,
-      "unknown_frames": 1
+      "match": 62,
+      "mismatch": 3,
+      "match_rate": 0.9538461538461539,
+      "unknown_frames": 0,
+      "skipped_no_pred": 0
     }
   },
   "insights": [
     "[prueba3] Alta variación facial: 11 cambios (posible inestabilidad emocional).",
-    "[prueba3] Congruencia cara-texto media (match_rate=0.52).",
-    "[prueba3] Buen acuerdo con etiquetas manuales (match_rate=0.89)."
+    "[prueba3] Alta congruencia cara-texto (match_rate=0.71).",
+    "[prueba3] Buen acuerdo con etiquetas manuales (match_rate=0.95)."
   ]
 }

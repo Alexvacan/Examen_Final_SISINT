@@ -1,0 +1,7 @@
+{
+  "video": "data/raw_videos/Prueba_feliz2.mp4",
+  "fps_note": "timestamps en segundos",
+  "segments": [
+    { "start": 0.0, "end": 28.14, "emotion": "joy", "note": "rostro feliz predominante" }
+  ]
+}

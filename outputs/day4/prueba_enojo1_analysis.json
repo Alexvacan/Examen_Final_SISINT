@@ -1,0 +1,240 @@
+{
+  "video": "prueba_enojo1",
+  "multimodal_path": "..\\outputs\\multimodal\\prueba_enojo1_multimodal.json",
+  "labels_path": "..\\data\\labels\\Prueba_enojo1_labels.json",
+  "changes": {
+    "n_face_changes": 32,
+    "n_text_changes": 0,
+    "face_changes": [
+      {
+        "t": 3.37,
+        "source": "face",
+        "from": "fear",
+        "to": "disgust"
+      },
+      {
+        "t": 3.85,
+        "source": "face",
+        "from": "disgust",
+        "to": "fear"
+      },
+      {
+        "t": 6.25,
+        "source": "face",
+        "from": "fear",
+        "to": "sad"
+      },
+      {
+        "t": 6.73,
+        "source": "face",
+        "from": "sad",
+        "to": "fear"
+      },
+      {
+        "t": 9.13,
+        "source": "face",
+        "from": "fear",
+        "to": "sad"
+      },
+      {
+        "t": 9.62,
+        "source": "face",
+        "from": "sad",
+        "to": "fear"
+      },
+      {
+        "t": 11.06,
+        "source": "face",
+        "from": "fear",
+        "to": "neutral"
+      },
+      {
+        "t": 12.02,
+        "source": "face",
+        "from": "neutral",
+        "to": "angry"
+      },
+      {
+        "t": 12.98,
+        "source": "face",
+        "from": "angry",
+        "to": "fear"
+      },
+      {
+        "t": 13.94,
+        "source": "face",
+        "from": "fear",
+        "to": "angry"
+      },
+      {
+        "t": 14.42,
+        "source": "face",
+        "from": "angry",
+        "to": "disgust"
+      },
+      {
+        "t": 14.9,
+        "source": "face",
+        "from": "disgust",
+        "to": "fear"
+      },
+      {
+        "t": 15.38,
+        "source": "face",
+        "from": "fear",
+        "to": "neutral"
+      },
+      {
+        "t": 15.87,
+        "source": "face",
+        "from": "neutral",
+        "to": "fear"
+      },
+      {
+        "t": 16.83,
+        "source": "face",
+        "from": "fear",
+        "to": "angry"
+      },
+      {
+        "t": 17.31,
+        "source": "face",
+        "from": "angry",
+        "to": "disgust"
+      },
+      {
+        "t": 17.79,
+        "source": "face",
+        "from": "disgust",
+        "to": "angry"
+      },
+      {
+        "t": 18.27,
+        "source": "face",
+        "from": "angry",
+        "to": "fear"
+      },
+      {
+        "t": 18.75,
+        "source": "face",
+        "from": "fear",
+        "to": "sad"
+      },
+      {
+        "t": 19.23,
+        "source": "face",
+        "from": "sad",
+        "to": "fear"
+      },
+      {
+        "t": 20.67,
+        "source": "face",
+        "from": "fear",
+        "to": "angry"
+      },
+      {
+        "t": 21.15,
+        "source": "face",
+        "from": "angry",
+        "to": "fear"
+      },
+      {
+        "t": 21.63,
+        "source": "face",
+        "from": "fear",
+        "to": "sad"
+      },
+      {
+        "t": 22.6,
+        "source": "face",
+        "from": "sad",
+        "to": "angry"
+      },
+      {
+        "t": 23.08,
+        "source": "face",
+        "from": "angry",
+        "to": "disgust"
+      },
+      {
+        "t": 23.56,
+        "source": "face",
+        "from": "disgust",
+        "to": "fear"
+      },
+      {
+        "t": 24.04,
+        "source": "face",
+        "from": "fear",
+        "to": "sad"
+      },
+      {
+        "t": 26.92,
+        "source": "face",
+        "from": "sad",
+        "to": "fear"
+      },
+      {
+        "t": 27.88,
+        "source": "face",
+        "from": "fear",
+        "to": "sad"
+      },
+      {
+        "t": 29.81,
+        "source": "face",
+        "from": "sad",
+        "to": "fear"
+      },
+      {
+        "t": 32.21,
+        "source": "face",
+        "from": "fear",
+        "to": "disgust"
+      },
+      {
+        "t": 33.17,
+        "source": "face",
+        "from": "disgust",
+        "to": "sad"
+      }
+    ],
+    "text_changes": []
+  },
+  "metrics": {
+    "face_vs_text": {
+      "total_with_text": 0,
+      "match": 0,
+      "mismatch": 0,
+      "match_rate": null,
+      "skipped_no_face": 0,
+      "skipped_no_text": 70,
+      "skipped_unmappable_face": 0,
+      "skipped_unmappable_text": 0,
+      "text_segments": 0
+    },
+    "vs_manual_labels": {
+      "labels_path": "..\\data\\labels\\Prueba_enojo1_labels.json",
+      "gt_taxonomy": "normalized_manual_map",
+      "compared_signal": "face_smoothed",
+      "total_labeled": 62,
+      "match": 22,
+      "mismatch": 40,
+      "match_rate": 0.3548387096774194,
+      "unknown_frames": 0,
+      "skipped_no_pred": 0,
+      "n_adjusted": 11,
+      "heuristic_on": true,
+      "thresholds": {
+        "fear": 50.0,
+        "angry": 5.0,
+        "disgust": 0.3
+      }
+    }
+  },
+  "insights": [
+    "[prueba_enojo1] Alta variación facial: 32 cambios (posible inestabilidad emocional).",
+    "[prueba_enojo1] No hay suficientes puntos con emoción de texto para medir congruencia cara-texto.",
+    "[prueba_enojo1] Acuerdo bajo con etiquetas manuales (match_rate=0.35)."
+  ]
+}

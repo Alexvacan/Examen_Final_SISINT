@@ -1,0 +1,50 @@
+{
+  "n_segments": 3,
+  "items": [
+    {
+      "start": 0.78,
+      "end": 12.78,
+      "text": "Hola, soy Alexandra, y estoy haciendo la prueba de sonrisa nuevamente para verificar si el modelo ya reconoce de mejor minera un rostro feliz.",
+      "dominant_emotion": "others",
+      "scores": {
+        "others": 0.9667668342590332,
+        "joy": 0.02724750153720379,
+        "surprise": 0.0023771680425852537,
+        "anger": 0.0011601124424487352,
+        "sadness": 0.0010025789961218834,
+        "disgust": 0.0007891657296568155,
+        "fear": 0.0006565486546605825
+      }
+    },
+    {
+      "start": 12.78,
+      "end": 28.78,
+      "text": "Entonces este video es uno de varios que van a ir haciendo pruebas sobre los experimentos con distintos tipos de rostros para intentar identificar si el modelo reconoce de una idea correcta.",
+      "dominant_emotion": "others",
+      "scores": {
+        "others": 0.9935595989227295,
+        "surprise": 0.002986456034705043,
+        "fear": 0.000915244803763926,
+        "sadness": 0.0008533437503501773,
+        "anger": 0.0007459101616404951,
+        "joy": 0.0006213680608198047,
+        "disgust": 0.0003179833001922816
+      }
+    },
+    {
+      "start": 28.78,
+      "end": 33.78,
+      "text": "Entonces, gracias y hasta luego.",
+      "dominant_emotion": "others",
+      "scores": {
+        "others": 0.9173614382743835,
+        "joy": 0.03527856990695,
+        "sadness": 0.027389245107769966,
+        "surprise": 0.006578382570296526,
+        "anger": 0.005698740016669035,
+        "disgust": 0.005567810032516718,
+        "fear": 0.0021256543695926666
+      }
+    }
+  ]
+}

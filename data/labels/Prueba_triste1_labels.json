@@ -1,0 +1,7 @@
+{
+  "video": "data/raw_videos/Prueba_triste1.mp4",
+  "fps_note": "timestamps en segundos",
+  "segments": [
+    { "start": 0.0, "end": 31.20, "emotion": "sadness", "note": "rostro triste predominante" }
+  ]
+}

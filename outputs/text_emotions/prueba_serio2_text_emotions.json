@@ -1,0 +1,65 @@
+{
+  "n_segments": 4,
+  "items": [
+    {
+      "start": 1.58,
+      "end": 11.9,
+      "text": "de nuevo, otro tipo de prueba de rostro neutral, como se mencionó anteriormente, este es para seguir",
+      "dominant_emotion": "others",
+      "scores": {
+        "others": 0.9959791898727417,
+        "surprise": 0.0016338075511157513,
+        "sadness": 0.0007958346977829933,
+        "joy": 0.0005128138000145555,
+        "anger": 0.0004687646869570017,
+        "fear": 0.0004072702140547335,
+        "disgust": 0.00020234938710927963
+      }
+    },
+    {
+      "start": 11.9,
+      "end": 18.7,
+      "text": "comparando de manera más exhaustiva si el modelo reconoce de manera correcta rostro neutral,",
+      "dominant_emotion": "others",
+      "scores": {
+        "others": 0.9952045679092407,
+        "surprise": 0.001726584741845727,
+        "sadness": 0.0009921384043991566,
+        "anger": 0.0007586072897538543,
+        "fear": 0.0005852181930094957,
+        "joy": 0.0005108547047711909,
+        "disgust": 0.0002221417671535164
+      }
+    },
+    {
+      "start": 18.7,
+      "end": 22.54,
+      "text": "si el modelo reconoce de manera correcta rostro neutral, aunque puede parecer que es un poco más",
+      "dominant_emotion": "others",
+      "scores": {
+        "others": 0.9961159229278564,
+        "sadness": 0.0014122538268566132,
+        "surprise": 0.0007442867499776185,
+        "anger": 0.0005724673974327743,
+        "joy": 0.0005280635668896139,
+        "fear": 0.0003321374242659658,
+        "disgust": 0.0002948636538349092
+      }
+    },
+    {
+      "start": 22.54,
+      "end": 30.1,
+      "text": "lo que sea, entonces le des ver cómo lo reconoce el modelo, así que los productos serán públicos",
+      "dominant_emotion": "others",
+      "scores": {
+        "others": 0.9963777661323547,
+        "joy": 0.0011530043557286263,
+        "sadness": 0.0008388225105591118,
+        "anger": 0.0005748411640524864,
+        "surprise": 0.0005192551761865616,
+        "fear": 0.00028156908228993416,
+        "disgust": 0.0002546395407989621
+      }
+    }
+  ]
+}

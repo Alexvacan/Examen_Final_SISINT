@@ -1,46 +1,47 @@
 {
+  "audio": "outputs\\audio\\prueba1.wav",
   "language": "es",
-  "language_probability": 1,
+  "language_probability": 1.0,
   "segments": [
     {
       "start": 1.23,
       "end": 10.23,
-      "text": "Hola soy Alexander, Alexander Bacaflores y esta es mi primera prueba para la materia de sistemas inteligentes"
+      "text": "Hola, soy Alexander, Alexander Bacaflores y esta es mi primera prueba para la materia de sistemas inteligentes"
     },
     {
       "start": 10.23,
       "end": 15.23,
-      "text": "prueba uno para reconocimiento facial de un rostro feliz"
+      "text": "Prueba uno para reconocimiento facial de un rostro feliz"
     },
     {
       "start": 15.23,
       "end": 23.23,
-      "text": "en este vídeo quiero aprovechar de mostrar un rostro fácil de reconocer como un sonrisa"
+      "text": "En este vídeo quiero aprovechar de mostrar un rostro fácil de reconocer como un sonrisa"
     },
     {
       "start": 23.23,
       "end": 29.23,
-      "text": "y que la red neuronal lo reconozca como un cara feliz y las mujeres"
+      "text": "y que la red neuronal lo reconozca como un cara feliz y las emociones"
     },
     {
       "start": 29.23,
       "end": 34.23,
-      "text": "aprovechan también de grabar la voz para el reconocimiento de audio"
+      "text": "Aprovechan también de grabar la voz para el reconocimiento de audio"
     },
     {
       "start": 34.23,
-      "end": 43.23,
-      "text": "y saber si este tipo de procesos puede hacer que la red neuronal evolucione con el paso del tiempo"
+      "end": 41.23,
+      "text": "y saber si este tipo de procesos puede hacer que la red neuronal evolucione"
     },
     {
-      "start": 43.23,
+      "start": 41.23,
       "end": 50.23,
-      "text": "con distintos entrenamientos con nuevos datasets y distintas formas de entrenamiento"
+      "text": "con el paso del tiempo, con distintos entrenamientos, con nuevos datasets y distintas formas de entrenamiento"
     },
     {
       "start": 50.23,
       "end": 55.23,
-      "text": "este es Alexander y primera prueba finalizada"
+      "text": "Este es Alexander y primera prueba finalizada"
     }
   ]
 }

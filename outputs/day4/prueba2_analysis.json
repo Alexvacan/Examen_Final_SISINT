@@ -1,8 +1,10 @@
 {
   "video": "prueba2",
+  "multimodal_path": "..\\outputs\\multimodal\\prueba2_multimodal.json",
+  "labels_path": "..\\data\\labels\\Prueba2_labels.json",
   "changes": {
     "n_face_changes": 38,
-    "n_text_changes": 4,
+    "n_text_changes": 0,
     "face_changes": [
       {
         "t": 4.48,
@@ -233,53 +235,35 @@
         "to": "happy"
       }
     ],
-    "text_changes": [
-      {
-        "t": 6.46,
-        "source": "text",
-        "from": "neutral",
-        "to": "fear"
-      },
-      {
-        "t": 12.43,
-        "source": "text",
-        "from": "fear",
-        "to": "neutral"
-      },
-      {
-        "t": 21.38,
-        "source": "text",
-        "from": "neutral",
-        "to": "anger"
-      },
-      {
-        "t": 25.36,
-        "source": "text",
-        "from": "anger",
-        "to": "neutral"
-      }
-    ]
+    "text_changes": []
   },
   "metrics": {
     "face_vs_text": {
-      "total_with_text": 74,
-      "match": 11,
-      "mismatch": 63,
-      "match_rate": 0.14864864864864866
+      "total_with_text": 72,
+      "match": 13,
+      "mismatch": 59,
+      "match_rate": 0.18055555555555555,
+      "skipped_no_face": 0,
+      "skipped_no_text": 5,
+      "skipped_unmappable_face": 0,
+      "skipped_unmappable_text": 0,
+      "text_segments": 72
     },
     "vs_manual_labels": {
-      "labels_path": "data/labels\\prueba2_labels.json",
+      "labels_path": "..\\data\\labels\\Prueba2_labels.json",
+      "gt_taxonomy": "normalized_manual_map",
+      "compared_signal": "face_smoothed",
       "total_labeled": 75,
-      "match": 49,
-      "mismatch": 26,
-      "match_rate": 0.6533333333333333,
-      "unknown_frames": 2
+      "match": 63,
+      "mismatch": 12,
+      "match_rate": 0.84,
+      "unknown_frames": 0,
+      "skipped_no_pred": 0
     }
   },
   "insights": [
     "[prueba2] Alta variación facial: 38 cambios (posible inestabilidad emocional).",
-    "[prueba2] Variación emocional en texto detectada: 4 cambios.",
-    "[prueba2] Baja congruencia cara-texto (match_rate=0.15).",
-    "[prueba2] Acuerdo medio con etiquetas manuales (match_rate=0.65)."
+    "[prueba2] Baja congruencia cara-texto (match_rate=0.18).",
+    "[prueba2] Buen acuerdo con etiquetas manuales (match_rate=0.84)."
   ]
 }

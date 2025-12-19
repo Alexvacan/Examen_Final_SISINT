@@ -1,0 +1,2065 @@
+{
+  "video": "prueba_serio2",
+  "n_items": 69,
+  "items": [
+    {
+      "t": 0.0,
+      "frame": "frame_000000_t0.00.jpg",
+      "face": {
+        "dominant": "neutral",
+        "scores": {
+          "angry": 0.08546829223632812,
+          "disgust": 0.000145020880154334,
+          "fear": 17.07773780822754,
+          "happy": 0.2467937171459198,
+          "sad": 25.025333404541016,
+          "surprise": 0.022334273904561996,
+          "neutral": 57.54219055175781
+        }
+      },
+      "text": {
+        "segment_start": null,
+        "segment_end": null,
+        "content": null,
+        "dominant": null,
+        "scores": null
+      }
+    },
+    {
+      "t": 0.48,
+      "frame": "frame_000008_t0.48.jpg",
+      "face": {
+        "dominant": "fear",
+        "scores": {
+          "angry": 0.012151799164712429,
+          "disgust": 0.0037604549434036016,
+          "fear": 61.71532440185547,
+          "happy": 0.2550622224807739,
+          "sad": 7.9011030197143555,
+          "surprise": 0.07785660773515701,
+          "neutral": 30.03474998474121
+        }
+      },
+      "text": {
+        "segment_start": null,
+        "segment_end": null,
+        "content": null,
+        "dominant": null,
+        "scores": null
+      }
+    },
+    {
+      "t": 0.96,
+      "frame": "frame_000016_t0.96.jpg",
+      "face": {
+        "dominant": "neutral",
+        "scores": {
+          "angry": 0.011986101977527142,
+          "disgust": 0.0022797472774982452,
+          "fear": 10.558616638183594,
+          "happy": 0.4028220772743225,
+          "sad": 8.890498161315918,
+          "surprise": 0.04395100846886635,
+          "neutral": 80.08984375
+        }
+      },
+      "text": {
+        "segment_start": null,
+        "segment_end": null,
+        "content": null,
+        "dominant": null,
+        "scores": null
+      }
+    },
+    {
+      "t": 1.44,
+      "frame": "frame_000024_t1.44.jpg",
+      "face": {
+        "dominant": "neutral",
+        "scores": {
+          "angry": 0.014735051430761814,
+          "disgust": 0.00010391803516540676,
+          "fear": 13.055609703063965,
+          "happy": 0.019334089010953903,
+          "sad": 18.052059173583984,
+          "surprise": 0.0023270389065146446,
+          "neutral": 68.8558349609375
+        }
+      },
+      "text": {
+        "segment_start": null,
+        "segment_end": null,
+        "content": null,
+        "dominant": null,
+        "scores": null
+      }
+    },
+    {
+      "t": 1.92,
+      "frame": "frame_000032_t1.92.jpg",
+      "face": {
+        "dominant": "neutral",
+        "scores": {
+          "angry": 0.013587988913059235,
+          "disgust": 0.00025910622207447886,
+          "fear": 5.8030877113342285,
+          "happy": 0.04599688574671745,
+          "sad": 7.249032020568848,
+          "surprise": 0.010939352214336395,
+          "neutral": 86.8770980834961
+        }
+      },
+      "text": {
+        "segment_start": 1.58,
+        "segment_end": 11.9,
+        "content": "de nuevo, otro tipo de prueba de rostro neutral, como se mencionó anteriormente, este es para seguir",
+        "dominant": "others",
+        "scores": {
+          "others": 0.9959791898727417,
+          "surprise": 0.0016338075511157513,
+          "sadness": 0.0007958346977829933,
+          "joy": 0.0005128138000145555,
+          "anger": 0.0004687646869570017,
+          "fear": 0.0004072702140547335,
+          "disgust": 0.00020234938710927963
+        }
+      }
+    },
+    {
+      "t": 2.4,
+      "frame": "frame_000040_t2.40.jpg",
+      "face": {
+        "dominant": "neutral",
+        "scores": {
+          "angry": 0.18106263875961304,
+          "disgust": 0.023624544963240623,
+          "fear": 8.084738731384277,
+          "happy": 0.007960519753396511,
+          "sad": 28.618408203125,
+          "surprise": 0.008527400903403759,
+          "neutral": 63.075679779052734
+        }
+      },
+      "text": {
+        "segment_start": 1.58,
+        "segment_end": 11.9,
+        "content": "de nuevo, otro tipo de prueba de rostro neutral, como se mencionó anteriormente, este es para seguir",
+        "dominant": "others",
+        "scores": {
+          "others": 0.9959791898727417,
+          "surprise": 0.0016338075511157513,
+          "sadness": 0.0007958346977829933,
+          "joy": 0.0005128138000145555,
+          "anger": 0.0004687646869570017,
+          "fear": 0.0004072702140547335,
+          "disgust": 0.00020234938710927963
+        }
+      }
+    },
+    {
+      "t": 2.88,
+      "frame": "frame_000048_t2.88.jpg",
+      "face": {
+        "dominant": "neutral",
+        "scores": {
+          "angry": 0.006303597707301378,
+          "disgust": 1.2193858083264786e-06,
+          "fear": 0.4387512803077698,
+          "happy": 0.01674928516149521,
+          "sad": 7.109259605407715,
+          "surprise": 0.00044031330617144704,
+          "neutral": 92.42849731445312
+        }
+      },
+      "text": {
+        "segment_start": 1.58,
+        "segment_end": 11.9,
+        "content": "de nuevo, otro tipo de prueba de rostro neutral, como se mencionó anteriormente, este es para seguir",
+        "dominant": "others",
+        "scores": {
+          "others": 0.9959791898727417,
+          "surprise": 0.0016338075511157513,
+          "sadness": 0.0007958346977829933,
+          "joy": 0.0005128138000145555,
+          "anger": 0.0004687646869570017,
+          "fear": 0.0004072702140547335,
+          "disgust": 0.00020234938710927963
+        }
+      }
+    },
+    {
+      "t": 3.37,
+      "frame": "frame_000056_t3.37.jpg",
+      "face": {
+        "dominant": "neutral",
+        "scores": {
+          "angry": 0.03505228832364082,
+          "disgust": 2.7757287170970812e-05,
+          "fear": 0.7670817375183105,
+          "happy": 0.009099561721086502,
+          "sad": 13.598002433776855,
+          "surprise": 0.0005739046027883887,
+          "neutral": 85.59016418457031
+        }
+      },
+      "text": {
+        "segment_start": 1.58,
+        "segment_end": 11.9,
+        "content": "de nuevo, otro tipo de prueba de rostro neutral, como se mencionó anteriormente, este es para seguir",
+        "dominant": "others",
+        "scores": {
+          "others": 0.9959791898727417,
+          "surprise": 0.0016338075511157513,
+          "sadness": 0.0007958346977829933,
+          "joy": 0.0005128138000145555,
+          "anger": 0.0004687646869570017,
+          "fear": 0.0004072702140547335,
+          "disgust": 0.00020234938710927963
+        }
+      }
+    },
+    {
+      "t": 3.85,
+      "frame": "frame_000064_t3.85.jpg",
+      "face": {
+        "dominant": "neutral",
+        "scores": {
+          "angry": 0.18189328908920288,
+          "disgust": 0.0011844895780086517,
+          "fear": 3.367668867111206,
+          "happy": 0.0028294583316892385,
+          "sad": 22.663326263427734,
+          "surprise": 0.0013568020658567548,
+          "neutral": 73.78174591064453
+        }
+      },
+      "text": {
+        "segment_start": 1.58,
+        "segment_end": 11.9,
+        "content": "de nuevo, otro tipo de prueba de rostro neutral, como se mencionó anteriormente, este es para seguir",
+        "dominant": "others",
+        "scores": {
+          "others": 0.9959791898727417,
+          "surprise": 0.0016338075511157513,
+          "sadness": 0.0007958346977829933,
+          "joy": 0.0005128138000145555,
+          "anger": 0.0004687646869570017,
+          "fear": 0.0004072702140547335,
+          "disgust": 0.00020234938710927963
+        }
+      }
+    },
+    {
+      "t": 4.33,
+      "frame": "frame_000072_t4.33.jpg",
+      "face": {
+        "dominant": "sad",
+        "scores": {
+          "angry": 0.14722900092601776,
+          "disgust": 7.00131495250389e-05,
+          "fear": 2.669144630432129,
+          "happy": 0.0002601777669042349,
+          "sad": 54.42265701293945,
+          "surprise": 9.344450518256053e-05,
+          "neutral": 42.76054763793945
+        }
+      },
+      "text": {
+        "segment_start": 1.58,
+        "segment_end": 11.9,
+        "content": "de nuevo, otro tipo de prueba de rostro neutral, como se mencionó anteriormente, este es para seguir",
+        "dominant": "others",
+        "scores": {
+          "others": 0.9959791898727417,
+          "surprise": 0.0016338075511157513,
+          "sadness": 0.0007958346977829933,
+          "joy": 0.0005128138000145555,
+          "anger": 0.0004687646869570017,
+          "fear": 0.0004072702140547335,
+          "disgust": 0.00020234938710927963
+        }
+      }
+    },
+    {
+      "t": 4.81,
+      "frame": "frame_000080_t4.81.jpg",
+      "face": {
+        "dominant": "neutral",
+        "scores": {
+          "angry": 0.13697762787342072,
+          "disgust": 0.00013725424651056528,
+          "fear": 0.19132161140441895,
+          "happy": 0.00012562361371237785,
+          "sad": 10.13638687133789,
+          "surprise": 6.111131369834766e-06,
+          "neutral": 89.53504180908203
+        }
+      },
+      "text": {
+        "segment_start": 1.58,
+        "segment_end": 11.9,
+        "content": "de nuevo, otro tipo de prueba de rostro neutral, como se mencionó anteriormente, este es para seguir",
+        "dominant": "others",
+        "scores": {
+          "others": 0.9959791898727417,
+          "surprise": 0.0016338075511157513,
+          "sadness": 0.0007958346977829933,
+          "joy": 0.0005128138000145555,
+          "anger": 0.0004687646869570017,
+          "fear": 0.0004072702140547335,
+          "disgust": 0.00020234938710927963
+        }
+      }
+    },
+    {
+      "t": 5.29,
+      "frame": "frame_000088_t5.29.jpg",
+      "face": {
+        "dominant": "neutral",
+        "scores": {
+          "angry": 0.02200109139084816,
+          "disgust": 0.0001957685744855553,
+          "fear": 6.521893501281738,
+          "happy": 0.0050323959439992905,
+          "sad": 12.631781578063965,
+          "surprise": 0.0011420075315982103,
+          "neutral": 80.81795501708984
+        }
+      },
+      "text": {
+        "segment_start": 1.58,
+        "segment_end": 11.9,
+        "content": "de nuevo, otro tipo de prueba de rostro neutral, como se mencionó anteriormente, este es para seguir",
+        "dominant": "others",
+        "scores": {
+          "others": 0.9959791898727417,
+          "surprise": 0.0016338075511157513,
+          "sadness": 0.0007958346977829933,
+          "joy": 0.0005128138000145555,
+          "anger": 0.0004687646869570017,
+          "fear": 0.0004072702140547335,
+          "disgust": 0.00020234938710927963
+        }
+      }
+    },
+    {
+      "t": 5.77,
+      "frame": "frame_000096_t5.77.jpg",
+      "face": {
+        "dominant": "neutral",
+        "scores": {
+          "angry": 0.0004348970833234489,
+          "disgust": 1.9320601975930662e-13,
+          "fear": 12.201681137084961,
+          "happy": 0.03139058127999306,
+          "sad": 7.708652496337891,
+          "surprise": 0.0021873852238059044,
+          "neutral": 80.05565643310547
+        }
+      },
+      "text": {
+        "segment_start": 1.58,
+        "segment_end": 11.9,
+        "content": "de nuevo, otro tipo de prueba de rostro neutral, como se mencionó anteriormente, este es para seguir",
+        "dominant": "others",
+        "scores": {
+          "others": 0.9959791898727417,
+          "surprise": 0.0016338075511157513,
+          "sadness": 0.0007958346977829933,
+          "joy": 0.0005128138000145555,
+          "anger": 0.0004687646869570017,
+          "fear": 0.0004072702140547335,
+          "disgust": 0.00020234938710927963
+        }
+      }
+    },
+    {
+      "t": 6.25,
+      "frame": "frame_000104_t6.25.jpg",
+      "face": {
+        "dominant": "neutral",
+        "scores": {
+          "angry": 0.013634266331791878,
+          "disgust": 3.644552180048777e-06,
+          "fear": 0.02548355795443058,
+          "happy": 0.0002679639437701553,
+          "sad": 1.6972576379776,
+          "surprise": 6.878401563881198e-06,
+          "neutral": 98.26335144042969
+        }
+      },
+      "text": {
+        "segment_start": 1.58,
+        "segment_end": 11.9,
+        "content": "de nuevo, otro tipo de prueba de rostro neutral, como se mencionó anteriormente, este es para seguir",
+        "dominant": "others",
+        "scores": {
+          "others": 0.9959791898727417,
+          "surprise": 0.0016338075511157513,
+          "sadness": 0.0007958346977829933,
+          "joy": 0.0005128138000145555,
+          "anger": 0.0004687646869570017,
+          "fear": 0.0004072702140547335,
+          "disgust": 0.00020234938710927963
+        }
+      }
+    },
+    {
+      "t": 6.73,
+      "frame": "frame_000112_t6.73.jpg",
+      "face": {
+        "dominant": "sad",
+        "scores": {
+          "angry": 1.0926539897918701,
+          "disgust": 0.125512033700943,
+          "fear": 4.042951583862305,
+          "happy": 0.0006763438577763736,
+          "sad": 64.76386260986328,
+          "surprise": 7.239992555696517e-05,
+          "neutral": 29.97426986694336
+        }
+      },
+      "text": {
+        "segment_start": 1.58,
+        "segment_end": 11.9,
+        "content": "de nuevo, otro tipo de prueba de rostro neutral, como se mencionó anteriormente, este es para seguir",
+        "dominant": "others",
+        "scores": {
+          "others": 0.9959791898727417,
+          "surprise": 0.0016338075511157513,
+          "sadness": 0.0007958346977829933,
+          "joy": 0.0005128138000145555,
+          "anger": 0.0004687646869570017,
+          "fear": 0.0004072702140547335,
+          "disgust": 0.00020234938710927963
+        }
+      }
+    },
+    {
+      "t": 7.21,
+      "frame": "frame_000120_t7.21.jpg",
+      "face": {
+        "dominant": "neutral",
+        "scores": {
+          "angry": 0.033887654542922974,
+          "disgust": 0.0001996814098674804,
+          "fear": 6.879725933074951,
+          "happy": 0.0008211341337300837,
+          "sad": 45.3095588684082,
+          "surprise": 0.00015852571232244372,
+          "neutral": 47.77565002441406
+        }
+      },
+      "text": {
+        "segment_start": 1.58,
+        "segment_end": 11.9,
+        "content": "de nuevo, otro tipo de prueba de rostro neutral, como se mencionó anteriormente, este es para seguir",
+        "dominant": "others",
+        "scores": {
+          "others": 0.9959791898727417,
+          "surprise": 0.0016338075511157513,
+          "sadness": 0.0007958346977829933,
+          "joy": 0.0005128138000145555,
+          "anger": 0.0004687646869570017,
+          "fear": 0.0004072702140547335,
+          "disgust": 0.00020234938710927963
+        }
+      }
+    },
+    {
+      "t": 7.69,
+      "frame": "frame_000128_t7.69.jpg",
+      "face": {
+        "dominant": "neutral",
+        "scores": {
+          "angry": 0.366530179977417,
+          "disgust": 0.0003858523559756577,
+          "fear": 1.2174365520477295,
+          "happy": 0.002009933115914464,
+          "sad": 19.838315963745117,
+          "surprise": 0.00015321355022024363,
+          "neutral": 78.5751724243164
+        }
+      },
+      "text": {
+        "segment_start": 1.58,
+        "segment_end": 11.9,
+        "content": "de nuevo, otro tipo de prueba de rostro neutral, como se mencionó anteriormente, este es para seguir",
+        "dominant": "others",
+        "scores": {
+          "others": 0.9959791898727417,
+          "surprise": 0.0016338075511157513,
+          "sadness": 0.0007958346977829933,
+          "joy": 0.0005128138000145555,
+          "anger": 0.0004687646869570017,
+          "fear": 0.0004072702140547335,
+          "disgust": 0.00020234938710927963
+        }
+      }
+    },
+    {
+      "t": 8.17,
+      "frame": "frame_000136_t8.17.jpg",
+      "face": {
+        "dominant": "neutral",
+        "scores": {
+          "angry": 0.005650676786899567,
+          "disgust": 3.697981365569092e-10,
+          "fear": 5.389492511749268,
+          "happy": 0.03518013283610344,
+          "sad": 7.68851375579834,
+          "surprise": 0.006227165460586548,
+          "neutral": 86.87493896484375
+        }
+      },
+      "text": {
+        "segment_start": 1.58,
+        "segment_end": 11.9,
+        "content": "de nuevo, otro tipo de prueba de rostro neutral, como se mencionó anteriormente, este es para seguir",
+        "dominant": "others",
+        "scores": {
+          "others": 0.9959791898727417,
+          "surprise": 0.0016338075511157513,
+          "sadness": 0.0007958346977829933,
+          "joy": 0.0005128138000145555,
+          "anger": 0.0004687646869570017,
+          "fear": 0.0004072702140547335,
+          "disgust": 0.00020234938710927963
+        }
+      }
+    },
+    {
+      "t": 8.65,
+      "frame": "frame_000144_t8.65.jpg",
+      "face": {
+        "dominant": "neutral",
+        "scores": {
+          "angry": 0.004112373571842909,
+          "disgust": 0.00024868117179721594,
+          "fear": 0.8102370500564575,
+          "happy": 2.5041091442108154,
+          "sad": 5.039961814880371,
+          "surprise": 0.0144785912707448,
+          "neutral": 91.6268539428711
+        }
+      },
+      "text": {
+        "segment_start": 1.58,
+        "segment_end": 11.9,
+        "content": "de nuevo, otro tipo de prueba de rostro neutral, como se mencionó anteriormente, este es para seguir",
+        "dominant": "others",
+        "scores": {
+          "others": 0.9959791898727417,
+          "surprise": 0.0016338075511157513,
+          "sadness": 0.0007958346977829933,
+          "joy": 0.0005128138000145555,
+          "anger": 0.0004687646869570017,
+          "fear": 0.0004072702140547335,
+          "disgust": 0.00020234938710927963
+        }
+      }
+    },
+    {
+      "t": 9.14,
+      "frame": "frame_000152_t9.14.jpg",
+      "face": {
+        "dominant": "neutral",
+        "scores": {
+          "angry": 0.0259755440056324,
+          "disgust": 0.0005035634385421872,
+          "fear": 2.9647960662841797,
+          "happy": 0.17252807319164276,
+          "sad": 11.764945983886719,
+          "surprise": 0.015045110136270523,
+          "neutral": 85.05621337890625
+        }
+      },
+      "text": {
+        "segment_start": 1.58,
+        "segment_end": 11.9,
+        "content": "de nuevo, otro tipo de prueba de rostro neutral, como se mencionó anteriormente, este es para seguir",
+        "dominant": "others",
+        "scores": {
+          "others": 0.9959791898727417,
+          "surprise": 0.0016338075511157513,
+          "sadness": 0.0007958346977829933,
+          "joy": 0.0005128138000145555,
+          "anger": 0.0004687646869570017,
+          "fear": 0.0004072702140547335,
+          "disgust": 0.00020234938710927963
+        }
+      }
+    },
+    {
+      "t": 9.62,
+      "frame": "frame_000160_t9.62.jpg",
+      "face": {
+        "dominant": "neutral",
+        "scores": {
+          "angry": 0.3948096036911011,
+          "disgust": 0.00011712681589415297,
+          "fear": 0.07141988724470139,
+          "happy": 0.000295036326861009,
+          "sad": 5.299388885498047,
+          "surprise": 2.580059845058713e-05,
+          "neutral": 94.23394012451172
+        }
+      },
+      "text": {
+        "segment_start": 1.58,
+        "segment_end": 11.9,
+        "content": "de nuevo, otro tipo de prueba de rostro neutral, como se mencionó anteriormente, este es para seguir",
+        "dominant": "others",
+        "scores": {
+          "others": 0.9959791898727417,
+          "surprise": 0.0016338075511157513,
+          "sadness": 0.0007958346977829933,
+          "joy": 0.0005128138000145555,
+          "anger": 0.0004687646869570017,
+          "fear": 0.0004072702140547335,
+          "disgust": 0.00020234938710927963
+        }
+      }
+    },
+    {
+      "t": 10.1,
+      "frame": "frame_000168_t10.10.jpg",
+      "face": {
+        "dominant": "neutral",
+        "scores": {
+          "angry": 0.11006701737642288,
+          "disgust": 0.00776967266574502,
+          "fear": 2.058617115020752,
+          "happy": 0.236246258020401,
+          "sad": 20.240819931030273,
+          "surprise": 0.021113215014338493,
+          "neutral": 77.32537078857422
+        }
+      },
+      "text": {
+        "segment_start": 1.58,
+        "segment_end": 11.9,
+        "content": "de nuevo, otro tipo de prueba de rostro neutral, como se mencionó anteriormente, este es para seguir",
+        "dominant": "others",
+        "scores": {
+          "others": 0.9959791898727417,
+          "surprise": 0.0016338075511157513,
+          "sadness": 0.0007958346977829933,
+          "joy": 0.0005128138000145555,
+          "anger": 0.0004687646869570017,
+          "fear": 0.0004072702140547335,
+          "disgust": 0.00020234938710927963
+        }
+      }
+    },
+    {
+      "t": 10.58,
+      "frame": "frame_000176_t10.58.jpg",
+      "face": {
+        "dominant": "sad",
+        "scores": {
+          "angry": 1.7071577310562134,
+          "disgust": 0.08026532828807831,
+          "fear": 3.371124744415283,
+          "happy": 0.001894074841402471,
+          "sad": 72.59444427490234,
+          "surprise": 0.00036089084460400045,
+          "neutral": 22.2447509765625
+        }
+      },
+      "text": {
+        "segment_start": 1.58,
+        "segment_end": 11.9,
+        "content": "de nuevo, otro tipo de prueba de rostro neutral, como se mencionó anteriormente, este es para seguir",
+        "dominant": "others",
+        "scores": {
+          "others": 0.9959791898727417,
+          "surprise": 0.0016338075511157513,
+          "sadness": 0.0007958346977829933,
+          "joy": 0.0005128138000145555,
+          "anger": 0.0004687646869570017,
+          "fear": 0.0004072702140547335,
+          "disgust": 0.00020234938710927963
+        }
+      }
+    },
+    {
+      "t": 11.06,
+      "frame": "frame_000184_t11.06.jpg",
+      "face": {
+        "dominant": "sad",
+        "scores": {
+          "angry": 3.942960500717163,
+          "disgust": 0.18316760659217834,
+          "fear": 4.078298568725586,
+          "happy": 0.003184428671374917,
+          "sad": 56.291961669921875,
+          "surprise": 0.0025191509630531073,
+          "neutral": 35.497901916503906
+        }
+      },
+      "text": {
+        "segment_start": 1.58,
+        "segment_end": 11.9,
+        "content": "de nuevo, otro tipo de prueba de rostro neutral, como se mencionó anteriormente, este es para seguir",
+        "dominant": "others",
+        "scores": {
+          "others": 0.9959791898727417,
+          "surprise": 0.0016338075511157513,
+          "sadness": 0.0007958346977829933,
+          "joy": 0.0005128138000145555,
+          "anger": 0.0004687646869570017,
+          "fear": 0.0004072702140547335,
+          "disgust": 0.00020234938710927963
+        }
+      }
+    },
+    {
+      "t": 11.54,
+      "frame": "frame_000192_t11.54.jpg",
+      "face": {
+        "dominant": "neutral",
+        "scores": {
+          "angry": 0.2750853896141052,
+          "disgust": 0.00238150916993618,
+          "fear": 2.0198988914489746,
+          "happy": 0.03553509712219238,
+          "sad": 19.339824676513672,
+          "surprise": 0.006931205280125141,
+          "neutral": 78.32035064697266
+        }
+      },
+      "text": {
+        "segment_start": 1.58,
+        "segment_end": 11.9,
+        "content": "de nuevo, otro tipo de prueba de rostro neutral, como se mencionó anteriormente, este es para seguir",
+        "dominant": "others",
+        "scores": {
+          "others": 0.9959791898727417,
+          "surprise": 0.0016338075511157513,
+          "sadness": 0.0007958346977829933,
+          "joy": 0.0005128138000145555,
+          "anger": 0.0004687646869570017,
+          "fear": 0.0004072702140547335,
+          "disgust": 0.00020234938710927963
+        }
+      }
+    },
+    {
+      "t": 12.02,
+      "frame": "frame_000200_t12.02.jpg",
+      "face": {
+        "dominant": "sad",
+        "scores": {
+          "angry": 1.4057729244232178,
+          "disgust": 0.03915813937783241,
+          "fear": 9.805793762207031,
+          "happy": 0.009177797473967075,
+          "sad": 45.01805877685547,
+          "surprise": 0.0007482758373953402,
+          "neutral": 43.721290588378906
+        }
+      },
+      "text": {
+        "segment_start": 11.9,
+        "segment_end": 18.7,
+        "content": "comparando de manera más exhaustiva si el modelo reconoce de manera correcta rostro neutral,",
+        "dominant": "others",
+        "scores": {
+          "others": 0.9952045679092407,
+          "surprise": 0.001726584741845727,
+          "sadness": 0.0009921384043991566,
+          "anger": 0.0007586072897538543,
+          "fear": 0.0005852181930094957,
+          "joy": 0.0005108547047711909,
+          "disgust": 0.0002221417671535164
+        }
+      }
+    },
+    {
+      "t": 12.5,
+      "frame": "frame_000208_t12.50.jpg",
+      "face": {
+        "dominant": "neutral",
+        "scores": {
+          "angry": 0.4872526526451111,
+          "disgust": 0.0009471640805713832,
+          "fear": 0.4682559370994568,
+          "happy": 0.0007074918248690665,
+          "sad": 6.968761920928955,
+          "surprise": 0.00028876453870907426,
+          "neutral": 92.07378387451172
+        }
+      },
+      "text": {
+        "segment_start": 11.9,
+        "segment_end": 18.7,
+        "content": "comparando de manera más exhaustiva si el modelo reconoce de manera correcta rostro neutral,",
+        "dominant": "others",
+        "scores": {
+          "others": 0.9952045679092407,
+          "surprise": 0.001726584741845727,
+          "sadness": 0.0009921384043991566,
+          "anger": 0.0007586072897538543,
+          "fear": 0.0005852181930094957,
+          "joy": 0.0005108547047711909,
+          "disgust": 0.0002221417671535164
+        }
+      }
+    },
+    {
+      "t": 12.98,
+      "frame": "frame_000216_t12.98.jpg",
+      "face": {
+        "dominant": "neutral",
+        "scores": {
+          "angry": 1.7040858268737793,
+          "disgust": 0.032532546669244766,
+          "fear": 0.5547862648963928,
+          "happy": 0.0009124925709329545,
+          "sad": 30.34889030456543,
+          "surprise": 0.0002001931716222316,
+          "neutral": 67.35859680175781
+        }
+      },
+      "text": {
+        "segment_start": 11.9,
+        "segment_end": 18.7,
+        "content": "comparando de manera más exhaustiva si el modelo reconoce de manera correcta rostro neutral,",
+        "dominant": "others",
+        "scores": {
+          "others": 0.9952045679092407,
+          "surprise": 0.001726584741845727,
+          "sadness": 0.0009921384043991566,
+          "anger": 0.0007586072897538543,
+          "fear": 0.0005852181930094957,
+          "joy": 0.0005108547047711909,
+          "disgust": 0.0002221417671535164
+        }
+      }
+    },
+    {
+      "t": 13.46,
+      "frame": "frame_000224_t13.46.jpg",
+      "face": {
+        "dominant": "neutral",
+        "scores": {
+          "angry": 0.03917868807911873,
+          "disgust": 0.00010972682503052056,
+          "fear": 1.5747363567352295,
+          "happy": 0.032379500567913055,
+          "sad": 8.668149948120117,
+          "surprise": 0.005850144196301699,
+          "neutral": 89.67959594726562
+        }
+      },
+      "text": {
+        "segment_start": 11.9,
+        "segment_end": 18.7,
+        "content": "comparando de manera más exhaustiva si el modelo reconoce de manera correcta rostro neutral,",
+        "dominant": "others",
+        "scores": {
+          "others": 0.9952045679092407,
+          "surprise": 0.001726584741845727,
+          "sadness": 0.0009921384043991566,
+          "anger": 0.0007586072897538543,
+          "fear": 0.0005852181930094957,
+          "joy": 0.0005108547047711909,
+          "disgust": 0.0002221417671535164
+        }
+      }
+    },
+    {
+      "t": 13.94,
+      "frame": "frame_000232_t13.94.jpg",
+      "face": {
+        "dominant": "neutral",
+        "scores": {
+          "angry": 0.049058057367801666,
+          "disgust": 4.876680836929381e-09,
+          "fear": 23.804546356201172,
+          "happy": 0.5870664715766907,
+          "sad": 9.187115669250488,
+          "surprise": 0.0034058750607073307,
+          "neutral": 66.36880493164062
+        }
+      },
+      "text": {
+        "segment_start": 11.9,
+        "segment_end": 18.7,
+        "content": "comparando de manera más exhaustiva si el modelo reconoce de manera correcta rostro neutral,",
+        "dominant": "others",
+        "scores": {
+          "others": 0.9952045679092407,
+          "surprise": 0.001726584741845727,
+          "sadness": 0.0009921384043991566,
+          "anger": 0.0007586072897538543,
+          "fear": 0.0005852181930094957,
+          "joy": 0.0005108547047711909,
+          "disgust": 0.0002221417671535164
+        }
+      }
+    },
+    {
+      "t": 14.42,
+      "frame": "frame_000240_t14.42.jpg",
+      "face": {
+        "dominant": "neutral",
+        "scores": {
+          "angry": 0.2891063690185547,
+          "disgust": 0.0010413974523544312,
+          "fear": 2.4321374893188477,
+          "happy": 0.0398624911904335,
+          "sad": 14.069009780883789,
+          "surprise": 0.00821270514279604,
+          "neutral": 83.16063690185547
+        }
+      },
+      "text": {
+        "segment_start": 11.9,
+        "segment_end": 18.7,
+        "content": "comparando de manera más exhaustiva si el modelo reconoce de manera correcta rostro neutral,",
+        "dominant": "others",
+        "scores": {
+          "others": 0.9952045679092407,
+          "surprise": 0.001726584741845727,
+          "sadness": 0.0009921384043991566,
+          "anger": 0.0007586072897538543,
+          "fear": 0.0005852181930094957,
+          "joy": 0.0005108547047711909,
+          "disgust": 0.0002221417671535164
+        }
+      }
+    },
+    {
+      "t": 14.91,
+      "frame": "frame_000248_t14.91.jpg",
+      "face": {
+        "dominant": "neutral",
+        "scores": {
+          "angry": 0.1086803525686264,
+          "disgust": 0.0007167195435613394,
+          "fear": 3.4132280349731445,
+          "happy": 0.22116497159004211,
+          "sad": 14.236794471740723,
+          "surprise": 0.017873123288154602,
+          "neutral": 82.00154113769531
+        }
+      },
+      "text": {
+        "segment_start": 11.9,
+        "segment_end": 18.7,
+        "content": "comparando de manera más exhaustiva si el modelo reconoce de manera correcta rostro neutral,",
+        "dominant": "others",
+        "scores": {
+          "others": 0.9952045679092407,
+          "surprise": 0.001726584741845727,
+          "sadness": 0.0009921384043991566,
+          "anger": 0.0007586072897538543,
+          "fear": 0.0005852181930094957,
+          "joy": 0.0005108547047711909,
+          "disgust": 0.0002221417671535164
+        }
+      }
+    },
+    {
+      "t": 15.39,
+      "frame": "frame_000256_t15.39.jpg",
+      "face": {
+        "dominant": "neutral",
+        "scores": {
+          "angry": 0.1560334712266922,
+          "disgust": 0.0001868376275524497,
+          "fear": 0.7730852365493774,
+          "happy": 0.022387508302927017,
+          "sad": 12.391443252563477,
+          "surprise": 0.011884699575603008,
+          "neutral": 86.64497375488281
+        }
+      },
+      "text": {
+        "segment_start": 11.9,
+        "segment_end": 18.7,
+        "content": "comparando de manera más exhaustiva si el modelo reconoce de manera correcta rostro neutral,",
+        "dominant": "others",
+        "scores": {
+          "others": 0.9952045679092407,
+          "surprise": 0.001726584741845727,
+          "sadness": 0.0009921384043991566,
+          "anger": 0.0007586072897538543,
+          "fear": 0.0005852181930094957,
+          "joy": 0.0005108547047711909,
+          "disgust": 0.0002221417671535164
+        }
+      }
+    },
+    {
+      "t": 15.87,
+      "frame": "frame_000264_t15.87.jpg",
+      "face": {
+        "dominant": "neutral",
+        "scores": {
+          "angry": 0.9058958888053894,
+          "disgust": 0.002335253171622753,
+          "fear": 0.09154076129198074,
+          "happy": 0.0006011742516420782,
+          "sad": 8.554937362670898,
+          "surprise": 3.696004569064826e-05,
+          "neutral": 90.44465637207031
+        }
+      },
+      "text": {
+        "segment_start": 11.9,
+        "segment_end": 18.7,
+        "content": "comparando de manera más exhaustiva si el modelo reconoce de manera correcta rostro neutral,",
+        "dominant": "others",
+        "scores": {
+          "others": 0.9952045679092407,
+          "surprise": 0.001726584741845727,
+          "sadness": 0.0009921384043991566,
+          "anger": 0.0007586072897538543,
+          "fear": 0.0005852181930094957,
+          "joy": 0.0005108547047711909,
+          "disgust": 0.0002221417671535164
+        }
+      }
+    },
+    {
+      "t": 16.35,
+      "frame": "frame_000272_t16.35.jpg",
+      "face": {
+        "dominant": "neutral",
+        "scores": {
+          "angry": 1.2583719491958618,
+          "disgust": 0.024508321657776833,
+          "fear": 1.3496882915496826,
+          "happy": 0.006246951874345541,
+          "sad": 32.920406341552734,
+          "surprise": 0.0006765354773961008,
+          "neutral": 64.44010925292969
+        }
+      },
+      "text": {
+        "segment_start": 11.9,
+        "segment_end": 18.7,
+        "content": "comparando de manera más exhaustiva si el modelo reconoce de manera correcta rostro neutral,",
+        "dominant": "others",
+        "scores": {
+          "others": 0.9952045679092407,
+          "surprise": 0.001726584741845727,
+          "sadness": 0.0009921384043991566,
+          "anger": 0.0007586072897538543,
+          "fear": 0.0005852181930094957,
+          "joy": 0.0005108547047711909,
+          "disgust": 0.0002221417671535164
+        }
+      }
+    },
+    {
+      "t": 16.83,
+      "frame": "frame_000280_t16.83.jpg",
+      "face": {
+        "dominant": "neutral",
+        "scores": {
+          "angry": 0.8161631226539612,
+          "disgust": 0.006401844322681427,
+          "fear": 0.771335780620575,
+          "happy": 0.005859957076609135,
+          "sad": 11.235527992248535,
+          "surprise": 0.0008362309890799224,
+          "neutral": 87.16387176513672
+        }
+      },
+      "text": {
+        "segment_start": 11.9,
+        "segment_end": 18.7,
+        "content": "comparando de manera más exhaustiva si el modelo reconoce de manera correcta rostro neutral,",
+        "dominant": "others",
+        "scores": {
+          "others": 0.9952045679092407,
+          "surprise": 0.001726584741845727,
+          "sadness": 0.0009921384043991566,
+          "anger": 0.0007586072897538543,
+          "fear": 0.0005852181930094957,
+          "joy": 0.0005108547047711909,
+          "disgust": 0.0002221417671535164
+        }
+      }
+    },
+    {
+      "t": 17.31,
+      "frame": "frame_000288_t17.31.jpg",
+      "face": {
+        "dominant": "neutral",
+        "scores": {
+          "angry": 1.3664723634719849,
+          "disgust": 0.002321754116564989,
+          "fear": 0.6006694436073303,
+          "happy": 0.00021118503354955465,
+          "sad": 26.04084014892578,
+          "surprise": 6.614768790313974e-05,
+          "neutral": 71.98941802978516
+        }
+      },
+      "text": {
+        "segment_start": 11.9,
+        "segment_end": 18.7,
+        "content": "comparando de manera más exhaustiva si el modelo reconoce de manera correcta rostro neutral,",
+        "dominant": "others",
+        "scores": {
+          "others": 0.9952045679092407,
+          "surprise": 0.001726584741845727,
+          "sadness": 0.0009921384043991566,
+          "anger": 0.0007586072897538543,
+          "fear": 0.0005852181930094957,
+          "joy": 0.0005108547047711909,
+          "disgust": 0.0002221417671535164
+        }
+      }
+    },
+    {
+      "t": 17.79,
+      "frame": "frame_000296_t17.79.jpg",
+      "face": {
+        "dominant": "neutral",
+        "scores": {
+          "angry": 0.13456957042217255,
+          "disgust": 0.00010193393245572224,
+          "fear": 0.45256996154785156,
+          "happy": 0.007992993108928204,
+          "sad": 7.247946262359619,
+          "surprise": 0.004880811553448439,
+          "neutral": 92.15193939208984
+        }
+      },
+      "text": {
+        "segment_start": 11.9,
+        "segment_end": 18.7,
+        "content": "comparando de manera más exhaustiva si el modelo reconoce de manera correcta rostro neutral,",
+        "dominant": "others",
+        "scores": {
+          "others": 0.9952045679092407,
+          "surprise": 0.001726584741845727,
+          "sadness": 0.0009921384043991566,
+          "anger": 0.0007586072897538543,
+          "fear": 0.0005852181930094957,
+          "joy": 0.0005108547047711909,
+          "disgust": 0.0002221417671535164
+        }
+      }
+    },
+    {
+      "t": 18.27,
+      "frame": "frame_000304_t18.27.jpg",
+      "face": {
+        "dominant": "sad",
+        "scores": {
+          "angry": 1.2807434797286987,
+          "disgust": 0.04154108837246895,
+          "fear": 1.1537270545959473,
+          "happy": 0.0004963672836311162,
+          "sad": 81.5902328491211,
+          "surprise": 0.00012240598152857274,
+          "neutral": 15.933137893676758
+        }
+      },
+      "text": {
+        "segment_start": 11.9,
+        "segment_end": 18.7,
+        "content": "comparando de manera más exhaustiva si el modelo reconoce de manera correcta rostro neutral,",
+        "dominant": "others",
+        "scores": {
+          "others": 0.9952045679092407,
+          "surprise": 0.001726584741845727,
+          "sadness": 0.0009921384043991566,
+          "anger": 0.0007586072897538543,
+          "fear": 0.0005852181930094957,
+          "joy": 0.0005108547047711909,
+          "disgust": 0.0002221417671535164
+        }
+      }
+    },
+    {
+      "t": 18.75,
+      "frame": "frame_000312_t18.75.jpg",
+      "face": {
+        "dominant": "sad",
+        "scores": {
+          "angry": 0.17582319676876068,
+          "disgust": 0.0001745001645758748,
+          "fear": 2.2778141498565674,
+          "happy": 0.00018552890105638653,
+          "sad": 88.40921020507812,
+          "surprise": 1.912490915856324e-06,
+          "neutral": 9.136798858642578
+        }
+      },
+      "text": {
+        "segment_start": 18.7,
+        "segment_end": 22.54,
+        "content": "si el modelo reconoce de manera correcta rostro neutral, aunque puede parecer que es un poco más",
+        "dominant": "others",
+        "scores": {
+          "others": 0.9961159229278564,
+          "sadness": 0.0014122538268566132,
+          "surprise": 0.0007442867499776185,
+          "anger": 0.0005724673974327743,
+          "joy": 0.0005280635668896139,
+          "fear": 0.0003321374242659658,
+          "disgust": 0.0002948636538349092
+        }
+      }
+    },
+    {
+      "t": 19.23,
+      "frame": "frame_000320_t19.23.jpg",
+      "face": {
+        "dominant": "neutral",
+        "scores": {
+          "angry": 0.21670497953891754,
+          "disgust": 0.000751639949157834,
+          "fear": 0.27575457096099854,
+          "happy": 6.075878627598286e-05,
+          "sad": 20.514545440673828,
+          "surprise": 4.420517143444158e-06,
+          "neutral": 78.99217224121094
+        }
+      },
+      "text": {
+        "segment_start": 18.7,
+        "segment_end": 22.54,
+        "content": "si el modelo reconoce de manera correcta rostro neutral, aunque puede parecer que es un poco más",
+        "dominant": "others",
+        "scores": {
+          "others": 0.9961159229278564,
+          "sadness": 0.0014122538268566132,
+          "surprise": 0.0007442867499776185,
+          "anger": 0.0005724673974327743,
+          "joy": 0.0005280635668896139,
+          "fear": 0.0003321374242659658,
+          "disgust": 0.0002948636538349092
+        }
+      }
+    },
+    {
+      "t": 19.71,
+      "frame": "frame_000328_t19.71.jpg",
+      "face": {
+        "dominant": "neutral",
+        "scores": {
+          "angry": 0.34031325578689575,
+          "disgust": 0.0011183299357071519,
+          "fear": 2.6166837215423584,
+          "happy": 0.009725699201226234,
+          "sad": 29.989452362060547,
+          "surprise": 0.007875683717429638,
+          "neutral": 67.03482818603516
+        }
+      },
+      "text": {
+        "segment_start": 18.7,
+        "segment_end": 22.54,
+        "content": "si el modelo reconoce de manera correcta rostro neutral, aunque puede parecer que es un poco más",
+        "dominant": "others",
+        "scores": {
+          "others": 0.9961159229278564,
+          "sadness": 0.0014122538268566132,
+          "surprise": 0.0007442867499776185,
+          "anger": 0.0005724673974327743,
+          "joy": 0.0005280635668896139,
+          "fear": 0.0003321374242659658,
+          "disgust": 0.0002948636538349092
+        }
+      }
+    },
+    {
+      "t": 20.19,
+      "frame": "frame_000336_t20.19.jpg",
+      "face": {
+        "dominant": "neutral",
+        "scores": {
+          "angry": 0.34739723801612854,
+          "disgust": 0.00013004518405068666,
+          "fear": 1.3170522451400757,
+          "happy": 0.0001237198885064572,
+          "sad": 43.51255416870117,
+          "surprise": 6.244600808713585e-05,
+          "neutral": 54.82268142700195
+        }
+      },
+      "text": {
+        "segment_start": 18.7,
+        "segment_end": 22.54,
+        "content": "si el modelo reconoce de manera correcta rostro neutral, aunque puede parecer que es un poco más",
+        "dominant": "others",
+        "scores": {
+          "others": 0.9961159229278564,
+          "sadness": 0.0014122538268566132,
+          "surprise": 0.0007442867499776185,
+          "anger": 0.0005724673974327743,
+          "joy": 0.0005280635668896139,
+          "fear": 0.0003321374242659658,
+          "disgust": 0.0002948636538349092
+        }
+      }
+    },
+    {
+      "t": 20.68,
+      "frame": "frame_000344_t20.68.jpg",
+      "face": {
+        "dominant": "neutral",
+        "scores": {
+          "angry": 0.1537935733795166,
+          "disgust": 0.0002585369802545756,
+          "fear": 0.6317146420478821,
+          "happy": 0.00011655395792331547,
+          "sad": 7.125055313110352,
+          "surprise": 2.6576093659969047e-05,
+          "neutral": 92.08903503417969
+        }
+      },
+      "text": {
+        "segment_start": 18.7,
+        "segment_end": 22.54,
+        "content": "si el modelo reconoce de manera correcta rostro neutral, aunque puede parecer que es un poco más",
+        "dominant": "others",
+        "scores": {
+          "others": 0.9961159229278564,
+          "sadness": 0.0014122538268566132,
+          "surprise": 0.0007442867499776185,
+          "anger": 0.0005724673974327743,
+          "joy": 0.0005280635668896139,
+          "fear": 0.0003321374242659658,
+          "disgust": 0.0002948636538349092
+        }
+      }
+    },
+    {
+      "t": 21.16,
+      "frame": "frame_000352_t21.16.jpg",
+      "face": {
+        "dominant": "neutral",
+        "scores": {
+          "angry": 0.012622332200407982,
+          "disgust": 0.00010791830572998151,
+          "fear": 7.454523086547852,
+          "happy": 0.06961582601070404,
+          "sad": 10.297901153564453,
+          "surprise": 0.004909152165055275,
+          "neutral": 82.16032409667969
+        }
+      },
+      "text": {
+        "segment_start": 18.7,
+        "segment_end": 22.54,
+        "content": "si el modelo reconoce de manera correcta rostro neutral, aunque puede parecer que es un poco más",
+        "dominant": "others",
+        "scores": {
+          "others": 0.9961159229278564,
+          "sadness": 0.0014122538268566132,
+          "surprise": 0.0007442867499776185,
+          "anger": 0.0005724673974327743,
+          "joy": 0.0005280635668896139,
+          "fear": 0.0003321374242659658,
+          "disgust": 0.0002948636538349092
+        }
+      }
+    },
+    {
+      "t": 21.64,
+      "frame": "frame_000360_t21.64.jpg",
+      "face": {
+        "dominant": "neutral",
+        "scores": {
+          "angry": 0.4580147862434387,
+          "disgust": 0.002082033082842827,
+          "fear": 0.5446389317512512,
+          "happy": 0.0009991142433136702,
+          "sad": 37.88691711425781,
+          "surprise": 0.00022703679860569537,
+          "neutral": 61.107120513916016
+        }
+      },
+      "text": {
+        "segment_start": 18.7,
+        "segment_end": 22.54,
+        "content": "si el modelo reconoce de manera correcta rostro neutral, aunque puede parecer que es un poco más",
+        "dominant": "others",
+        "scores": {
+          "others": 0.9961159229278564,
+          "sadness": 0.0014122538268566132,
+          "surprise": 0.0007442867499776185,
+          "anger": 0.0005724673974327743,
+          "joy": 0.0005280635668896139,
+          "fear": 0.0003321374242659658,
+          "disgust": 0.0002948636538349092
+        }
+      }
+    },
+    {
+      "t": 22.12,
+      "frame": "frame_000368_t22.12.jpg",
+      "face": {
+        "dominant": "neutral",
+        "scores": {
+          "angry": 0.31907254457473755,
+          "disgust": 0.0009504271438345313,
+          "fear": 0.598809003829956,
+          "happy": 0.0004447121173143387,
+          "sad": 31.801424026489258,
+          "surprise": 4.980053199687973e-05,
+          "neutral": 67.27925109863281
+        }
+      },
+      "text": {
+        "segment_start": 18.7,
+        "segment_end": 22.54,
+        "content": "si el modelo reconoce de manera correcta rostro neutral, aunque puede parecer que es un poco más",
+        "dominant": "others",
+        "scores": {
+          "others": 0.9961159229278564,
+          "sadness": 0.0014122538268566132,
+          "surprise": 0.0007442867499776185,
+          "anger": 0.0005724673974327743,
+          "joy": 0.0005280635668896139,
+          "fear": 0.0003321374242659658,
+          "disgust": 0.0002948636538349092
+        }
+      }
+    },
+    {
+      "t": 22.6,
+      "frame": "frame_000376_t22.60.jpg",
+      "face": {
+        "dominant": "neutral",
+        "scores": {
+          "angry": 0.05813559144735336,
+          "disgust": 0.00032436393667012453,
+          "fear": 3.115727186203003,
+          "happy": 0.006662524305284023,
+          "sad": 12.208892822265625,
+          "surprise": 0.003493059426546097,
+          "neutral": 84.60676574707031
+        }
+      },
+      "text": {
+        "segment_start": 22.54,
+        "segment_end": 30.1,
+        "content": "lo que sea, entonces le des ver cómo lo reconoce el modelo, así que los productos serán públicos",
+        "dominant": "others",
+        "scores": {
+          "others": 0.9963777661323547,
+          "joy": 0.0011530043557286263,
+          "sadness": 0.0008388225105591118,
+          "anger": 0.0005748411640524864,
+          "surprise": 0.0005192551761865616,
+          "fear": 0.00028156908228993416,
+          "disgust": 0.0002546395407989621
+        }
+      }
+    },
+    {
+      "t": 23.08,
+      "frame": "frame_000384_t23.08.jpg",
+      "face": {
+        "dominant": "neutral",
+        "scores": {
+          "angry": 0.08700889348983765,
+          "disgust": 0.00037001771852374077,
+          "fear": 1.4177699089050293,
+          "happy": 0.010291242972016335,
+          "sad": 11.364187240600586,
+          "surprise": 0.002579104620963335,
+          "neutral": 87.11779022216797
+        }
+      },
+      "text": {
+        "segment_start": 22.54,
+        "segment_end": 30.1,
+        "content": "lo que sea, entonces le des ver cómo lo reconoce el modelo, así que los productos serán públicos",
+        "dominant": "others",
+        "scores": {
+          "others": 0.9963777661323547,
+          "joy": 0.0011530043557286263,
+          "sadness": 0.0008388225105591118,
+          "anger": 0.0005748411640524864,
+          "surprise": 0.0005192551761865616,
+          "fear": 0.00028156908228993416,
+          "disgust": 0.0002546395407989621
+        }
+      }
+    },
+    {
+      "t": 23.56,
+      "frame": "frame_000392_t23.56.jpg",
+      "face": {
+        "dominant": "neutral",
+        "scores": {
+          "angry": 0.2932609021663666,
+          "disgust": 0.006284996867179871,
+          "fear": 3.230151414871216,
+          "happy": 0.001908985897898674,
+          "sad": 29.442745208740234,
+          "surprise": 0.00035133783239871264,
+          "neutral": 67.02529907226562
+        }
+      },
+      "text": {
+        "segment_start": 22.54,
+        "segment_end": 30.1,
+        "content": "lo que sea, entonces le des ver cómo lo reconoce el modelo, así que los productos serán públicos",
+        "dominant": "others",
+        "scores": {
+          "others": 0.9963777661323547,
+          "joy": 0.0011530043557286263,
+          "sadness": 0.0008388225105591118,
+          "anger": 0.0005748411640524864,
+          "surprise": 0.0005192551761865616,
+          "fear": 0.00028156908228993416,
+          "disgust": 0.0002546395407989621
+        }
+      }
+    },
+    {
+      "t": 24.04,
+      "frame": "frame_000400_t24.04.jpg",
+      "face": {
+        "dominant": "neutral",
+        "scores": {
+          "angry": 0.07469401508569717,
+          "disgust": 0.00031057646265253425,
+          "fear": 0.9710076451301575,
+          "happy": 0.004580207634717226,
+          "sad": 13.114383697509766,
+          "surprise": 0.0026965357828885317,
+          "neutral": 85.83232879638672
+        }
+      },
+      "text": {
+        "segment_start": 22.54,
+        "segment_end": 30.1,
+        "content": "lo que sea, entonces le des ver cómo lo reconoce el modelo, así que los productos serán públicos",
+        "dominant": "others",
+        "scores": {
+          "others": 0.9963777661323547,
+          "joy": 0.0011530043557286263,
+          "sadness": 0.0008388225105591118,
+          "anger": 0.0005748411640524864,
+          "surprise": 0.0005192551761865616,
+          "fear": 0.00028156908228993416,
+          "disgust": 0.0002546395407989621
+        }
+      }
+    },
+    {
+      "t": 24.52,
+      "frame": "frame_000408_t24.52.jpg",
+      "face": {
+        "dominant": "neutral",
+        "scores": {
+          "angry": 0.19239552319049835,
+          "disgust": 0.0011679537128657103,
+          "fear": 0.44702979922294617,
+          "happy": 0.014451250433921814,
+          "sad": 15.881077766418457,
+          "surprise": 0.0017307987436652184,
+          "neutral": 83.46214294433594
+        }
+      },
+      "text": {
+        "segment_start": 22.54,
+        "segment_end": 30.1,
+        "content": "lo que sea, entonces le des ver cómo lo reconoce el modelo, así que los productos serán públicos",
+        "dominant": "others",
+        "scores": {
+          "others": 0.9963777661323547,
+          "joy": 0.0011530043557286263,
+          "sadness": 0.0008388225105591118,
+          "anger": 0.0005748411640524864,
+          "surprise": 0.0005192551761865616,
+          "fear": 0.00028156908228993416,
+          "disgust": 0.0002546395407989621
+        }
+      }
+    },
+    {
+      "t": 25.0,
+      "frame": "frame_000416_t25.00.jpg",
+      "face": {
+        "dominant": "neutral",
+        "scores": {
+          "angry": 0.3265109956264496,
+          "disgust": 0.00024142440815921873,
+          "fear": 1.4048489332199097,
+          "happy": 0.003112341044470668,
+          "sad": 27.721050262451172,
+          "surprise": 0.0022449784446507692,
+          "neutral": 70.5419921875
+        }
+      },
+      "text": {
+        "segment_start": 22.54,
+        "segment_end": 30.1,
+        "content": "lo que sea, entonces le des ver cómo lo reconoce el modelo, así que los productos serán públicos",
+        "dominant": "others",
+        "scores": {
+          "others": 0.9963777661323547,
+          "joy": 0.0011530043557286263,
+          "sadness": 0.0008388225105591118,
+          "anger": 0.0005748411640524864,
+          "surprise": 0.0005192551761865616,
+          "fear": 0.00028156908228993416,
+          "disgust": 0.0002546395407989621
+        }
+      }
+    },
+    {
+      "t": 25.48,
+      "frame": "frame_000424_t25.48.jpg",
+      "face": {
+        "dominant": "sad",
+        "scores": {
+          "angry": 0.22936873137950897,
+          "disgust": 0.00015435593377333134,
+          "fear": 2.3619375228881836,
+          "happy": 0.0009177084430120885,
+          "sad": 78.60615539550781,
+          "surprise": 0.0003620689094532281,
+          "neutral": 18.801103591918945
+        }
+      },
+      "text": {
+        "segment_start": 22.54,
+        "segment_end": 30.1,
+        "content": "lo que sea, entonces le des ver cómo lo reconoce el modelo, así que los productos serán públicos",
+        "dominant": "others",
+        "scores": {
+          "others": 0.9963777661323547,
+          "joy": 0.0011530043557286263,
+          "sadness": 0.0008388225105591118,
+          "anger": 0.0005748411640524864,
+          "surprise": 0.0005192551761865616,
+          "fear": 0.00028156908228993416,
+          "disgust": 0.0002546395407989621
+        }
+      }
+    },
+    {
+      "t": 25.96,
+      "frame": "frame_000432_t25.96.jpg",
+      "face": {
+        "dominant": "sad",
+        "scores": {
+          "angry": 0.11068905144929886,
+          "disgust": 2.7821848561870866e-05,
+          "fear": 2.5264718532562256,
+          "happy": 0.0007502887747250497,
+          "sad": 89.85492706298828,
+          "surprise": 5.543994848267175e-05,
+          "neutral": 7.507076740264893
+        }
+      },
+      "text": {
+        "segment_start": 22.54,
+        "segment_end": 30.1,
+        "content": "lo que sea, entonces le des ver cómo lo reconoce el modelo, así que los productos serán públicos",
+        "dominant": "others",
+        "scores": {
+          "others": 0.9963777661323547,
+          "joy": 0.0011530043557286263,
+          "sadness": 0.0008388225105591118,
+          "anger": 0.0005748411640524864,
+          "surprise": 0.0005192551761865616,
+          "fear": 0.00028156908228993416,
+          "disgust": 0.0002546395407989621
+        }
+      }
+    },
+    {
+      "t": 26.45,
+      "frame": "frame_000440_t26.45.jpg",
+      "face": {
+        "dominant": "neutral",
+        "scores": {
+          "angry": 0.09637328237295151,
+          "disgust": 7.901585377112497e-06,
+          "fear": 0.7198774218559265,
+          "happy": 0.002347721718251705,
+          "sad": 9.760784149169922,
+          "surprise": 0.0007013893919065595,
+          "neutral": 89.41990661621094
+        }
+      },
+      "text": {
+        "segment_start": 22.54,
+        "segment_end": 30.1,
+        "content": "lo que sea, entonces le des ver cómo lo reconoce el modelo, así que los productos serán públicos",
+        "dominant": "others",
+        "scores": {
+          "others": 0.9963777661323547,
+          "joy": 0.0011530043557286263,
+          "sadness": 0.0008388225105591118,
+          "anger": 0.0005748411640524864,
+          "surprise": 0.0005192551761865616,
+          "fear": 0.00028156908228993416,
+          "disgust": 0.0002546395407989621
+        }
+      }
+    },
+    {
+      "t": 26.93,
+      "frame": "frame_000448_t26.93.jpg",
+      "face": {
+        "dominant": "neutral",
+        "scores": {
+          "angry": 0.29431307315826416,
+          "disgust": 0.0013260605046525598,
+          "fear": 2.402812957763672,
+          "happy": 0.001507607288658619,
+          "sad": 36.07301330566406,
+          "surprise": 0.000583830988034606,
+          "neutral": 61.226444244384766
+        }
+      },
+      "text": {
+        "segment_start": 22.54,
+        "segment_end": 30.1,
+        "content": "lo que sea, entonces le des ver cómo lo reconoce el modelo, así que los productos serán públicos",
+        "dominant": "others",
+        "scores": {
+          "others": 0.9963777661323547,
+          "joy": 0.0011530043557286263,
+          "sadness": 0.0008388225105591118,
+          "anger": 0.0005748411640524864,
+          "surprise": 0.0005192551761865616,
+          "fear": 0.00028156908228993416,
+          "disgust": 0.0002546395407989621
+        }
+      }
+    },
+    {
+      "t": 27.41,
+      "frame": "frame_000456_t27.41.jpg",
+      "face": {
+        "dominant": "neutral",
+        "scores": {
+          "angry": 0.06383389979600906,
+          "disgust": 0.0036075860261917114,
+          "fear": 4.646469593048096,
+          "happy": 0.01733369193971157,
+          "sad": 16.865310668945312,
+          "surprise": 0.0022235421929508448,
+          "neutral": 78.4012222290039
+        }
+      },
+      "text": {
+        "segment_start": 22.54,
+        "segment_end": 30.1,
+        "content": "lo que sea, entonces le des ver cómo lo reconoce el modelo, así que los productos serán públicos",
+        "dominant": "others",
+        "scores": {
+          "others": 0.9963777661323547,
+          "joy": 0.0011530043557286263,
+          "sadness": 0.0008388225105591118,
+          "anger": 0.0005748411640524864,
+          "surprise": 0.0005192551761865616,
+          "fear": 0.00028156908228993416,
+          "disgust": 0.0002546395407989621
+        }
+      }
+    },
+    {
+      "t": 27.89,
+      "frame": "frame_000464_t27.89.jpg",
+      "face": {
+        "dominant": "neutral",
+        "scores": {
+          "angry": 0.00036078423727303743,
+          "disgust": 1.548777057124029e-12,
+          "fear": 6.020749092102051,
+          "happy": 0.48447155952453613,
+          "sad": 2.0284173488616943,
+          "surprise": 0.0009248495334759355,
+          "neutral": 91.46507263183594
+        }
+      },
+      "text": {
+        "segment_start": 22.54,
+        "segment_end": 30.1,
+        "content": "lo que sea, entonces le des ver cómo lo reconoce el modelo, así que los productos serán públicos",
+        "dominant": "others",
+        "scores": {
+          "others": 0.9963777661323547,
+          "joy": 0.0011530043557286263,
+          "sadness": 0.0008388225105591118,
+          "anger": 0.0005748411640524864,
+          "surprise": 0.0005192551761865616,
+          "fear": 0.00028156908228993416,
+          "disgust": 0.0002546395407989621
+        }
+      }
+    },
+    {
+      "t": 28.37,
+      "frame": "frame_000472_t28.37.jpg",
+      "face": {
+        "dominant": "sad",
+        "scores": {
+          "angry": 4.33363151550293,
+          "disgust": 0.05130746215581894,
+          "fear": 3.2243921756744385,
+          "happy": 0.004893806762993336,
+          "sad": 61.93812942504883,
+          "surprise": 0.008907699026167393,
+          "neutral": 30.438735961914062
+        }
+      },
+      "text": {
+        "segment_start": 22.54,
+        "segment_end": 30.1,
+        "content": "lo que sea, entonces le des ver cómo lo reconoce el modelo, así que los productos serán públicos",
+        "dominant": "others",
+        "scores": {
+          "others": 0.9963777661323547,
+          "joy": 0.0011530043557286263,
+          "sadness": 0.0008388225105591118,
+          "anger": 0.0005748411640524864,
+          "surprise": 0.0005192551761865616,
+          "fear": 0.00028156908228993416,
+          "disgust": 0.0002546395407989621
+        }
+      }
+    },
+    {
+      "t": 28.85,
+      "frame": "frame_000480_t28.85.jpg",
+      "face": {
+        "dominant": "sad",
+        "scores": {
+          "angry": 1.7303242683410645,
+          "disgust": 0.002284388290718198,
+          "fear": 1.2061748504638672,
+          "happy": 0.001622478710487485,
+          "sad": 60.27677536010742,
+          "surprise": 0.0017891902243718505,
+          "neutral": 36.781028747558594
+        }
+      },
+      "text": {
+        "segment_start": 22.54,
+        "segment_end": 30.1,
+        "content": "lo que sea, entonces le des ver cómo lo reconoce el modelo, así que los productos serán públicos",
+        "dominant": "others",
+        "scores": {
+          "others": 0.9963777661323547,
+          "joy": 0.0011530043557286263,
+          "sadness": 0.0008388225105591118,
+          "anger": 0.0005748411640524864,
+          "surprise": 0.0005192551761865616,
+          "fear": 0.00028156908228993416,
+          "disgust": 0.0002546395407989621
+        }
+      }
+    },
+    {
+      "t": 29.33,
+      "frame": "frame_000488_t29.33.jpg",
+      "face": {
+        "dominant": "sad",
+        "scores": {
+          "angry": 3.407115936279297,
+          "disgust": 0.13612447679042816,
+          "fear": 2.1795663833618164,
+          "happy": 0.010498322546482086,
+          "sad": 53.947025299072266,
+          "surprise": 0.02327260747551918,
+          "neutral": 40.2963981628418
+        }
+      },
+      "text": {
+        "segment_start": 22.54,
+        "segment_end": 30.1,
+        "content": "lo que sea, entonces le des ver cómo lo reconoce el modelo, así que los productos serán públicos",
+        "dominant": "others",
+        "scores": {
+          "others": 0.9963777661323547,
+          "joy": 0.0011530043557286263,
+          "sadness": 0.0008388225105591118,
+          "anger": 0.0005748411640524864,
+          "surprise": 0.0005192551761865616,
+          "fear": 0.00028156908228993416,
+          "disgust": 0.0002546395407989621
+        }
+      }
+    },
+    {
+      "t": 29.81,
+      "frame": "frame_000496_t29.81.jpg",
+      "face": {
+        "dominant": "sad",
+        "scores": {
+          "angry": 0.6776680946350098,
+          "disgust": 0.004194955341517925,
+          "fear": 8.29869556427002,
+          "happy": 0.0013522104127332568,
+          "sad": 65.38192749023438,
+          "surprise": 0.0005775612662546337,
+          "neutral": 25.63558578491211
+        }
+      },
+      "text": {
+        "segment_start": 22.54,
+        "segment_end": 30.1,
+        "content": "lo que sea, entonces le des ver cómo lo reconoce el modelo, así que los productos serán públicos",
+        "dominant": "others",
+        "scores": {
+          "others": 0.9963777661323547,
+          "joy": 0.0011530043557286263,
+          "sadness": 0.0008388225105591118,
+          "anger": 0.0005748411640524864,
+          "surprise": 0.0005192551761865616,
+          "fear": 0.00028156908228993416,
+          "disgust": 0.0002546395407989621
+        }
+      }
+    },
+    {
+      "t": 30.29,
+      "frame": "frame_000504_t30.29.jpg",
+      "face": {
+        "dominant": "neutral",
+        "scores": {
+          "angry": 0.15057450532913208,
+          "disgust": 0.0007662188145332038,
+          "fear": 3.642707347869873,
+          "happy": 0.005718748085200787,
+          "sad": 15.173014640808105,
+          "surprise": 0.004276573192328215,
+          "neutral": 81.02294921875
+        }
+      },
+      "text": {
+        "segment_start": null,
+        "segment_end": null,
+        "content": null,
+        "dominant": null,
+        "scores": null
+      }
+    },
+    {
+      "t": 30.77,
+      "frame": "frame_000512_t30.77.jpg",
+      "face": {
+        "dominant": "neutral",
+        "scores": {
+          "angry": 1.6457805633544922,
+          "disgust": 0.0005295075825415552,
+          "fear": 0.46042564511299133,
+          "happy": 0.01035317126661539,
+          "sad": 16.13932991027832,
+          "surprise": 0.003826927626505494,
+          "neutral": 81.73974609375
+        }
+      },
+      "text": {
+        "segment_start": null,
+        "segment_end": null,
+        "content": null,
+        "dominant": null,
+        "scores": null
+      }
+    },
+    {
+      "t": 31.25,
+      "frame": "frame_000520_t31.25.jpg",
+      "face": {
+        "dominant": "sad",
+        "scores": {
+          "angry": 0.1342657208442688,
+          "disgust": 0.00021441373974084854,
+          "fear": 5.252764701843262,
+          "happy": 0.002829949837177992,
+          "sad": 60.4968147277832,
+          "surprise": 0.00031790303182788193,
+          "neutral": 34.11280059814453
+        }
+      },
+      "text": {
+        "segment_start": null,
+        "segment_end": null,
+        "content": null,
+        "dominant": null,
+        "scores": null
+      }
+    },
+    {
+      "t": 31.73,
+      "frame": "frame_000528_t31.73.jpg",
+      "face": {
+        "dominant": "sad",
+        "scores": {
+          "angry": 0.018098119646310806,
+          "disgust": 0.00013267321628518403,
+          "fear": 8.125067710876465,
+          "happy": 0.004647015128284693,
+          "sad": 72.81877136230469,
+          "surprise": 6.562784983543679e-05,
+          "neutral": 19.033220291137695
+        }
+      },
+      "text": {
+        "segment_start": null,
+        "segment_end": null,
+        "content": null,
+        "dominant": null,
+        "scores": null
+      }
+    },
+    {
+      "t": 32.22,
+      "frame": "frame_000536_t32.22.jpg",
+      "face": {
+        "dominant": "sad",
+        "scores": {
+          "angry": 0.013714651577174664,
+          "disgust": 3.6726116832141997e-06,
+          "fear": 8.672517776489258,
+          "happy": 0.0010902530048042536,
+          "sad": 62.62305450439453,
+          "surprise": 0.00014122728316579014,
+          "neutral": 28.68947982788086
+        }
+      },
+      "text": {
+        "segment_start": null,
+        "segment_end": null,
+        "content": null,
+        "dominant": null,
+        "scores": null
+      }
+    },
+    {
+      "t": 32.7,
+      "frame": "frame_000544_t32.70.jpg",
+      "face": {
+        "dominant": "neutral",
+        "scores": {
+          "angry": 0.04290935769677162,
+          "disgust": 0.0001156692233053036,
+          "fear": 2.2522828578948975,
+          "happy": 0.015108080580830574,
+          "sad": 38.26677322387695,
+          "surprise": 0.0003983589413110167,
+          "neutral": 59.42240905761719
+        }
+      },
+      "text": {
+        "segment_start": null,
+        "segment_end": null,
+        "content": null,
+        "dominant": null,
+        "scores": null
+      }
+    }
+  ]
+}

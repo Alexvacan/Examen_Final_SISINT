@@ -1,0 +1,7 @@
+{
+  "video": "data/raw_videos/Prueba_serio1.mp4",
+  "fps_note": "timestamps en segundos",
+  "segments": [
+    { "start": 0.0, "end": 34.30, "emotion": "others", "note": "rostro neutral/serio (sin emoción fuerte) — se marca como others" }
+  ]
+}

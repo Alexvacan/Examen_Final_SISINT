@@ -1,0 +1,22 @@
+{
+  "audio": "outputs\\audio\\prueba_feliz1.wav",
+  "language": "es",
+  "language_probability": 1.0,
+  "segments": [
+    {
+      "start": 0.78,
+      "end": 12.78,
+      "text": "Hola, soy Alexandra, y estoy haciendo la prueba de sonrisa nuevamente para verificar si el modelo ya reconoce de mejor minera un rostro feliz."
+    },
+    {
+      "start": 12.78,
+      "end": 28.78,
+      "text": "Entonces este video es uno de varios que van a ir haciendo pruebas sobre los experimentos con distintos tipos de rostros para intentar identificar si el modelo reconoce de una idea correcta."
+    },
+    {
+      "start": 28.78,
+      "end": 33.78,
+      "text": "Entonces, gracias y hasta luego."
+    }
+  ]
+}

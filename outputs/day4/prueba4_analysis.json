@@ -1,5 +1,7 @@
 {
   "video": "prueba4",
+  "multimodal_path": "..\\outputs\\multimodal\\prueba4_multimodal.json",
+  "labels_path": "..\\data\\labels\\Prueba4_labels.json",
   "changes": {
     "n_face_changes": 18,
     "n_text_changes": 0,
@@ -118,22 +120,30 @@
   "metrics": {
     "face_vs_text": {
       "total_with_text": 84,
-      "match": 22,
-      "mismatch": 62,
-      "match_rate": 0.2619047619047619
+      "match": 34,
+      "mismatch": 50,
+      "match_rate": 0.40476190476190477,
+      "skipped_no_face": 0,
+      "skipped_no_text": 7,
+      "skipped_unmappable_face": 0,
+      "skipped_unmappable_text": 0,
+      "text_segments": 84
     },
     "vs_manual_labels": {
-      "labels_path": "data/labels\\prueba4_labels.json",
-      "total_labeled": 89,
-      "match": 70,
-      "mismatch": 19,
-      "match_rate": 0.7865168539325843,
-      "unknown_frames": 2
+      "labels_path": "..\\data\\labels\\Prueba4_labels.json",
+      "gt_taxonomy": "normalized_manual_map",
+      "compared_signal": "face_smoothed",
+      "total_labeled": 69,
+      "match": 52,
+      "mismatch": 17,
+      "match_rate": 0.7536231884057971,
+      "unknown_frames": 20,
+      "skipped_no_pred": 0
     }
   },
   "insights": [
     "[prueba4] Alta variación facial: 18 cambios (posible inestabilidad emocional).",
-    "[prueba4] Baja congruencia cara-texto (match_rate=0.26).",
-    "[prueba4] Buen acuerdo con etiquetas manuales (match_rate=0.79)."
+    "[prueba4] Congruencia cara-texto media (match_rate=0.40).",
+    "[prueba4] Buen acuerdo con etiquetas manuales (match_rate=0.75)."
   ]
 }

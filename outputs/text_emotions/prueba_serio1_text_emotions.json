@@ -1,0 +1,80 @@
+{
+  "n_segments": 5,
+  "items": [
+    {
+      "start": 1.78,
+      "end": 12.02,
+      "text": "hola a todos esta es una prueba de rostro neutral no sé si el modelito reconocerá la",
+      "dominant_emotion": "others",
+      "scores": {
+        "others": 0.9915225505828857,
+        "surprise": 0.0029792902059853077,
+        "sadness": 0.00195978838019073,
+        "fear": 0.001415539183653891,
+        "joy": 0.0008961862768046558,
+        "anger": 0.0006599904736503959,
+        "disgust": 0.0005666746292263269
+      }
+    },
+    {
+      "start": 12.02,
+      "end": 18.22,
+      "text": "legislación tal vez un poco más de caída sobre todo por el tema de la iluminación",
+      "dominant_emotion": "others",
+      "scores": {
+        "others": 0.9774865508079529,
+        "sadness": 0.007962248288094997,
+        "anger": 0.00562898488715291,
+        "surprise": 0.004755774512887001,
+        "fear": 0.0022328216582536697,
+        "disgust": 0.001320165698416531,
+        "joy": 0.0006133666029199958
+      }
+    },
+    {
+      "start": 18.22,
+      "end": 24.66,
+      "text": "tal vez el tema de mis ojos un poco cerrados y yo más no sé si mi expresión facial es la",
+      "dominant_emotion": "others",
+      "scores": {
+        "others": 0.9743112921714783,
+        "sadness": 0.009346592240035534,
+        "fear": 0.00925221387296915,
+        "surprise": 0.003732150187715888,
+        "joy": 0.0012032876256853342,
+        "anger": 0.0011197320418432355,
+        "disgust": 0.0010346026392653584
+      }
+    },
+    {
+      "start": 25.38,
+      "end": 31.54,
+      "text": "necesariamente neoliberal pero la idea del vídeo es justamente ver eso como el caso de",
+      "dominant_emotion": "others",
+      "scores": {
+        "others": 0.995598316192627,
+        "sadness": 0.0013450385304167867,
+        "surprise": 0.0010114561300724745,
+        "anger": 0.0007951586740091443,
+        "fear": 0.0005241188337095082,
+        "joy": 0.0004083836975041777,
+        "disgust": 0.00031750433845445514
+      }
+    },
+    {
+      "start": 31.54,
+      "end": 34.3,
+      "text": "modelito así que gracias y sin prueba",
+      "dominant_emotion": "others",
+      "scores": {
+        "others": 0.954026460647583,
+        "joy": 0.0355093777179718,
+        "surprise": 0.006910163909196854,
+        "sadness": 0.0011096030939370394,
+        "anger": 0.0009315141360275447,
+        "disgust": 0.0008722611819393933,
+        "fear": 0.0006404975429177284
+      }
+    }
+  ]
+}

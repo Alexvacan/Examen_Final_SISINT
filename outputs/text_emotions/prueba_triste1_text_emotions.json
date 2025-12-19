@@ -1,0 +1,35 @@
+{
+  "n_segments": 2,
+  "items": [
+    {
+      "start": 1.2,
+      "end": 29.2,
+      "text": "Hola a todos, esta es la prueba de Rostro Tristria, aunque tal vez el modelo podría indicar tal vez como no, también, pero la idea es analizar diferentes tipos de Rostro y ver que tipo de expresión os dice que es, así que esta prueba justamente es para esto, a la que lo conozca como Rostro Tristria.",
+      "dominant_emotion": "others",
+      "scores": {
+        "others": 0.9958322644233704,
+        "joy": 0.0012563761556521058,
+        "surprise": 0.001000561867840588,
+        "sadness": 0.0008804008830338717,
+        "anger": 0.000459625938674435,
+        "fear": 0.0003418965789023787,
+        "disgust": 0.00022896438895259053
+      }
+    },
+    {
+      "start": 29.2,
+      "end": 31.2,
+      "text": "Y bueno, gracias.",
+      "dominant_emotion": "others",
+      "scores": {
+        "others": 0.7087703943252563,
+        "joy": 0.23512619733810425,
+        "surprise": 0.024667907506227493,
+        "sadness": 0.017441222444176674,
+        "anger": 0.005427875090390444,
+        "disgust": 0.004582159221172333,
+        "fear": 0.003984134644269943
+      }
+    }
+  ]
+}

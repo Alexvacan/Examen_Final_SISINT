@@ -1,0 +1,27 @@
+{
+  "audio": "outputs\\audio\\prueba_serio2.wav",
+  "language": "es",
+  "language_probability": 1.0,
+  "segments": [
+    {
+      "start": 1.58,
+      "end": 11.9,
+      "text": "de nuevo, otro tipo de prueba de rostro neutral, como se mencionó anteriormente, este es para seguir"
+    },
+    {
+      "start": 11.9,
+      "end": 18.7,
+      "text": "comparando de manera más exhaustiva si el modelo reconoce de manera correcta rostro neutral,"
+    },
+    {
+      "start": 18.7,
+      "end": 22.54,
+      "text": "si el modelo reconoce de manera correcta rostro neutral, aunque puede parecer que es un poco más"
+    },
+    {
+      "start": 22.54,
+      "end": 30.1,
+      "text": "lo que sea, entonces le des ver cómo lo reconoce el modelo, así que los productos serán públicos"
+    }
+  ]
+}

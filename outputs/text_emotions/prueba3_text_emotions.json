@@ -4,61 +4,61 @@
     {
       "start": 0.0,
       "end": 9.0,
-      "text": "Hola, soy Gisael y este es el tercer video para probar nuestra inteligencia artificial y si puede reconocer emociones faciales.",
-      "dominant_emotion": "neutral",
+      "text": "Hola, soy Gisael y este es el tercer vídeo para probar nuestra inteligencia artificial y si puede reconocer emociones faciales.",
+      "dominant_emotion": "others",
       "scores": {
-        "anger": 0.011467252857983112,
-        "disgust": 0.027050288394093513,
-        "fear": 0.003342053387314081,
-        "joy": 0.3479863405227661,
-        "neutral": 0.5782271027565002,
-        "sadness": 0.0210697203874588,
-        "surprise": 0.01085721142590046
+        "others": 0.9640173316001892,
+        "joy": 0.02959921397268772,
+        "surprise": 0.003947151824831963,
+        "fear": 0.0011193075915798545,
+        "disgust": 0.0004905904643237591,
+        "anger": 0.0004525552212726325,
+        "sadness": 0.00037378829438239336
       }
     },
     {
       "start": 9.0,
       "end": 17.0,
-      "text": "Ahora mismo estoy haciendo la cara feliz, en este video iré cambiando de emociones para ver si es capaz de reconocerlos.",
-      "dominant_emotion": "neutral",
+      "text": "Ahora mismo estoy haciendo la cara feliz, en este vídeo iré cambiando de emociones para ver si es capaz de reconocerlos.",
+      "dominant_emotion": "joy",
       "scores": {
-        "anger": 0.09534106403589249,
-        "disgust": 0.055598966777324677,
-        "fear": 0.07450266182422638,
-        "joy": 0.016926029697060585,
-        "neutral": 0.7045093178749084,
-        "sadness": 0.022992944344878197,
-        "surprise": 0.03012891858816147
+        "joy": 0.9156627655029297,
+        "others": 0.06817741692066193,
+        "sadness": 0.011047901585698128,
+        "surprise": 0.002597682410851121,
+        "fear": 0.0010899814078584313,
+        "disgust": 0.0008066511945798993,
+        "anger": 0.0006175950402393937
       }
     },
     {
       "start": 17.0,
       "end": 22.0,
       "text": "Ahora estoy haciendo la cara seria para ver si puede reconocer una cara seria.",
-      "dominant_emotion": "neutral",
+      "dominant_emotion": "others",
       "scores": {
-        "anger": 0.030485687777400017,
-        "disgust": 0.04190122336149216,
-        "fear": 0.04247046262025833,
-        "joy": 0.019485589116811752,
-        "neutral": 0.8325962424278259,
-        "sadness": 0.025092776864767075,
-        "surprise": 0.007967907004058361
+        "others": 0.99406898021698,
+        "surprise": 0.002117117866873741,
+        "sadness": 0.0011602286249399185,
+        "fear": 0.0009031195077113807,
+        "anger": 0.0006480341544374824,
+        "joy": 0.0006247170967981219,
+        "disgust": 0.0004776912392117083
       }
     },
     {
       "start": 22.0,
       "end": 31.08,
       "text": "Y ahora una cara de duda, demostrando duda o sospecha.",
-      "dominant_emotion": "neutral",
+      "dominant_emotion": "others",
       "scores": {
-        "anger": 0.007458923384547234,
-        "disgust": 0.009854666888713837,
-        "fear": 0.007198642008006573,
-        "joy": 0.010403857566416264,
-        "neutral": 0.901689350605011,
-        "sadness": 0.016623126342892647,
-        "surprise": 0.04677145555615425
+        "others": 0.4753013551235199,
+        "surprise": 0.37099507451057434,
+        "fear": 0.12049295008182526,
+        "sadness": 0.010794316418468952,
+        "disgust": 0.008791197091341019,
+        "anger": 0.007407961878925562,
+        "joy": 0.006217196583747864
       }
     }
   ]

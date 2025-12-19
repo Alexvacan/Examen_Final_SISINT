@@ -1,0 +1,32 @@
+{
+  "audio": "outputs\\audio\\prueba_serio1.wav",
+  "language": "es",
+  "language_probability": 1.0,
+  "segments": [
+    {
+      "start": 1.78,
+      "end": 12.02,
+      "text": "hola a todos esta es una prueba de rostro neutral no sé si el modelito reconocerá la"
+    },
+    {
+      "start": 12.02,
+      "end": 18.22,
+      "text": "legislación tal vez un poco más de caída sobre todo por el tema de la iluminación"
+    },
+    {
+      "start": 18.22,
+      "end": 24.66,
+      "text": "tal vez el tema de mis ojos un poco cerrados y yo más no sé si mi expresión facial es la"
+    },
+    {
+      "start": 25.38,
+      "end": 31.54,
+      "text": "necesariamente neoliberal pero la idea del vídeo es justamente ver eso como el caso de"
+    },
+    {
+      "start": 31.54,
+      "end": 34.3,
+      "text": "modelito así que gracias y sin prueba"
+    }
+  ]
+}

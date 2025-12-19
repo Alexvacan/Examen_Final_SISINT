@@ -1,16 +1,17 @@
 {
+  "audio": "outputs\\audio\\prueba3.wav",
   "language": "es",
-  "language_probability": 1,
+  "language_probability": 1.0,
   "segments": [
     {
       "start": 0.0,
       "end": 9.0,
-      "text": "Hola, soy Gisael y este es el tercer video para probar nuestra inteligencia artificial y si puede reconocer emociones faciales."
+      "text": "Hola, soy Gisael y este es el tercer vídeo para probar nuestra inteligencia artificial y si puede reconocer emociones faciales."
     },
     {
       "start": 9.0,
       "end": 17.0,
-      "text": "Ahora mismo estoy haciendo la cara feliz, en este video iré cambiando de emociones para ver si es capaz de reconocerlos."
+      "text": "Ahora mismo estoy haciendo la cara feliz, en este vídeo iré cambiando de emociones para ver si es capaz de reconocerlos."
     },
     {
       "start": 17.0,

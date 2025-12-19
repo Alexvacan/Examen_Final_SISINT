@@ -1,0 +1,17 @@
+{
+  "audio": "outputs\\audio\\prueba_triste1.wav",
+  "language": "es",
+  "language_probability": 1.0,
+  "segments": [
+    {
+      "start": 1.2,
+      "end": 29.2,
+      "text": "Hola a todos, esta es la prueba de Rostro Tristria, aunque tal vez el modelo podría indicar tal vez como no, también, pero la idea es analizar diferentes tipos de Rostro y ver que tipo de expresión os dice que es, así que esta prueba justamente es para esto, a la que lo conozca como Rostro Tristria."
+    },
+    {
+      "start": 29.2,
+      "end": 31.2,
+      "text": "Y bueno, gracias."
+    }
+  ]
+}

@@ -1,6 +1,7 @@
 {
+  "audio": "outputs\\audio\\prueba2.wav",
   "language": "es",
-  "language_probability": 1,
+  "language_probability": 1.0,
   "segments": [
     {
       "start": 0.08,
@@ -15,7 +16,7 @@
     {
       "start": 12.08,
       "end": 15.08,
-      "text": "que pueda reconocer diferentes emociones faciales"
+      "text": "y que pueda reconocer diferentes emociones faciales"
     },
     {
       "start": 15.08,
@@ -34,7 +35,7 @@
     },
     {
       "start": 30.08,
-      "end": 37.08,
+      "end": 36.08,
       "text": "entonces este vídeo es principalmente para ver si puede reconocer una sola emoción durante todo el vídeo"
     }
   ]
